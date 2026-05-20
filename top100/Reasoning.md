@@ -6,11 +6,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 31,779 | 2,736 | Python | 80 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
+| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 31,781 | 2,736 | Python | 80 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
 | 2 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,247 | 1,929 | Go | 160 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-19 |
 | 3 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 12,835 | 2,068 | Python | 290 | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | 2024-01-23 |
 | 4 | [HRM](https://github.com/sapientinc/HRM) | 12,452 | 1,824 | Python | 61 | Hierarchical Reasoning Model Official Release | 2026-03-31 |
-| 5 | [MiniCPM](https://github.com/OpenBMB/MiniCPM) | 8,919 | 580 | Jupyter Notebook | 18 | MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks | 2026-05-20 |
+| 5 | [MiniCPM](https://github.com/OpenBMB/MiniCPM) | 8,920 | 580 | Jupyter Notebook | 18 | MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks | 2026-05-20 |
 | 6 | [KAG](https://github.com/OpenSPG/KAG) | 8,763 | 676 | Python | 161 | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base... | 2026-01-28 |
 | 7 | [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | 6,900 | 367 | - | 6 | A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques. | 2025-12-17 |
 | 8 | [pyspur](https://github.com/PySpur-Dev/pyspur) | 5,725 | 425 | TypeScript | 29 | A visual playground for agentic workflows: Iterate over your agents 10x faster | 2026-05-19 |
@@ -22,7 +22,7 @@
 | 14 | [probability](https://github.com/tensorflow/probability) | 4,417 | 1,123 | Jupyter Notebook | 648 | Probabilistic reasoning and statistical analysis in TensorFlow | 2026-05-12 |
 | 15 | [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 4,375 | 636 | Jupyter Notebook | 2 | Implement a reasoning LLM in PyTorch from scratch, step by step | 2026-05-18 |
 | 16 | [GLM-4.5](https://github.com/zai-org/GLM-4.5) | 4,344 | 454 | Python | 24 | GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models | 2026-02-01 |
-| 17 | [typedb](https://github.com/typedb/typedb) | 4,322 | 366 | Rust | 270 | TypeDB: Built for systems, not records | 2026-05-14 |
+| 17 | [typedb](https://github.com/typedb/typedb) | 4,323 | 366 | Rust | 270 | TypeDB: Built for systems, not records | 2026-05-14 |
 | 18 | [g1](https://github.com/build-with-groq/g1) | 4,183 | 361 | Python | 0 | g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains | 2025-12-30 |
 | 19 | [mm-cot](https://github.com/amazon-science/mm-cot) | 3,990 | 331 | Python | 44 | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) | 2024-06-12 |
 | 20 | [simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) | 3,859 | 290 | Python | 33 | Simple RL training for reasoning | 2025-12-23 |
@@ -38,7 +38,7 @@
 | 30 | [chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) | 2,773 | 144 | Jupyter Notebook | 18 | Benchmarking large language models' complex reasoning ability with chain-of-thought prompting | 2024-08-04 |
 | 31 | [RAGEN](https://github.com/mll-lab-nu/RAGEN) | 2,666 | 224 | Python | 27 | RAGEN leverages reinforcement learning to train LLM reasoning agents in interactive, stochastic environments. | 2026-04-14 |
 | 32 | [LISA](https://github.com/JIA-Lab-research/LISA) | 2,636 | 205 | Python | 115 | Project Page for "LISA: Reasoning Segmentation via Large Language Model" | 2025-02-16 |
-| 33 | [AI-Agents-Projects-Tutorials](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) | 2,601 | 573 | Jupyter Notebook | 5 | Multi-agent systems, memory, planning, reasoning loops | 2026-05-19 |
+| 33 | [AI-Agents-Projects-Tutorials](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) | 2,603 | 573 | Jupyter Notebook | 5 | Multi-agent systems, memory, planning, reasoning loops | 2026-05-19 |
 | 34 | [griptape](https://github.com/griptape-ai/griptape) | 2,529 | 233 | Python | 64 | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.  | 2026-05-19 |
 | 35 | [Cradle](https://github.com/BAAI-Agents/Cradle) | 2,519 | 267 | Python | 19 | The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, ... | 2024-11-07 |
 | 36 | [Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) | 2,455 | 130 | TeX | 3 | A Survey of Reinforcement Learning for Large Reasoning Models | 2025-11-09 |
