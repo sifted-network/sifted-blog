@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [vllm](https://github.com/vllm-project/vllm) | 80,512 | 16,990 | Python | 1982 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-20 |
-| 2 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 71,424 | 8,720 | Python | 966 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2026-05-19 |
+| 1 | [vllm](https://github.com/vllm-project/vllm) | 80,512 | 16,991 | Python | 1982 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-20 |
+| 2 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 71,425 | 8,720 | Python | 966 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2026-05-19 |
 | 3 | [sglang](https://github.com/sgl-project/sglang) | 28,035 | 6,014 | Python | 648 | SGLang is a high-performance serving framework for large language models and multimodal models. | 2026-05-20 |
 | 4 | [ms-swift](https://github.com/modelscope/ms-swift) | 14,180 | 1,419 | Python | 994 | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025). | 2026-05-20 |
 | 5 | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | 13,678 | 2,394 | Python | 589 | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way. | 2026-05-20 |
