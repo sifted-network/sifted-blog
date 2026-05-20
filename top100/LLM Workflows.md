@@ -6,10 +6,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [dify](https://github.com/langgenius/dify) | 141,971 | 22,313 | TypeScript | 276 | Production-ready platform for agentic workflow development. | 2026-05-20 |
-| 2 | [MinerU](https://github.com/opendatalab/MinerU) | 63,996 | 5,406 | Python | 7 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | 2026-05-19 |
-| 3 | [nanobot](https://github.com/HKUDS/nanobot) | 42,818 | 7,541 | Python | 261 | Lightweight, open-source AI agent for your tools, chats, and workflows. | 2026-05-20 |
-| 4 | [FastGPT](https://github.com/labring/FastGPT) | 28,079 | 7,103 | TypeScript | 168 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 2026-05-20 |
+| 1 | [dify](https://github.com/langgenius/dify) | 141,974 | 22,313 | TypeScript | 276 | Production-ready platform for agentic workflow development. | 2026-05-20 |
+| 2 | [MinerU](https://github.com/opendatalab/MinerU) | 63,999 | 5,406 | Python | 7 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | 2026-05-19 |
+| 3 | [nanobot](https://github.com/HKUDS/nanobot) | 42,823 | 7,543 | Python | 261 | Lightweight, open-source AI agent for your tools, chats, and workflows. | 2026-05-20 |
+| 4 | [FastGPT](https://github.com/labring/FastGPT) | 28,080 | 7,103 | TypeScript | 168 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 2026-05-20 |
 | 5 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,491 | 4,064 | Python | 44 | A lightweight, powerful framework for multi-agent workflows | 2026-05-20 |
 | 6 | [haystack](https://github.com/deepset-ai/haystack) | 25,302 | 2,795 | MDX | 85 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-20 |
 | 7 | [mastra](https://github.com/mastra-ai/mastra) | 24,052 | 2,091 | TypeScript | 216 | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | 2026-05-20 |
@@ -24,7 +24,7 @@
 | 16 | [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 8,330 | 840 | Python | 85 | Build effective agents using Model Context Protocol and simple workflow patterns | 2026-01-25 |
 | 17 | [flyte](https://github.com/flyteorg/flyte) | 7,040 | 820 | Go | 99 | Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. | 2026-05-20 |
 | 18 | [julep](https://github.com/julep-ai/julep) | 6,604 | 975 | Jupyter Notebook | 69 | Deploy serverless AI workflows at scale. Firebase for AI agents | 2026-03-13 |
-| 19 | [unstract](https://github.com/Zipstack/unstract) | 6,582 | 627 | Python | 37 | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows | 2026-05-20 |
+| 19 | [unstract](https://github.com/Zipstack/unstract) | 6,583 | 627 | Python | 37 | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows | 2026-05-20 |
 | 20 | [osmedeus](https://github.com/j3ssie/osmedeus) | 6,368 | 1,009 | Go | 4 | A Modern Orchestration Engine for Security | 2026-05-11 |
 | 21 | [n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) | 5,813 | 1,565 | - | 5 |  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. ... | 2025-08-01 |
 | 22 | [pyspur](https://github.com/PySpur-Dev/pyspur) | 5,725 | 425 | TypeScript | 29 | A visual playground for agentic workflows: Iterate over your agents 10x faster | 2026-05-19 |
@@ -35,7 +35,7 @@
 | 27 | [GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) | 4,019 | 1,066 | Jupyter Notebook | 46 | Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture. | 2026-03-30 |
 | 28 | [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) | 3,722 | 471 | Python | 3 | Power CLI and Workflow manager for LLMs (core package) | 2026-04-30 |
 | 29 | [claude-code](https://github.com/yasasbanukaofficial/claude-code) | 3,256 | 4,588 | TypeScript | 0 | 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton ... | 2026-04-04 |
-| 30 | [rocketride-server](https://github.com/rocketride-org/rocketride-server) | 3,060 | 880 | C++ | 56 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f... | 2026-05-20 |
+| 30 | [rocketride-server](https://github.com/rocketride-org/rocketride-server) | 3,061 | 882 | C++ | 56 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f... | 2026-05-20 |
 | 31 | [MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) | 2,587 | 214 | - | 55 | MiniMax-M2, a model built for Max coding & agentic workflows. | 2025-11-13 |
 | 32 | [griptape](https://github.com/griptape-ai/griptape) | 2,529 | 233 | Python | 64 | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.  | 2026-05-19 |
 | 33 | [wanwu](https://github.com/UnicomAI/wanwu) | 2,520 | 100 | Go | 13 | China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and a... | 2026-05-15 |
@@ -66,7 +66,7 @@
 | 58 | [bytechef](https://github.com/bytechefhq/bytechef) | 757 | 137 | Java | 519 | Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform. | 2026-05-20 |
 | 59 | [open-webui-tools](https://github.com/Haervwe/open-webui-tools) | 720 | 66 | Python | 6 | Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, ... | 2026-05-19 |
 | 60 | [ComfyUI-IF_AI_tools](https://github.com/if-ai/ComfyUI-IF_AI_tools) | 699 | 57 | Python | 0 | ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation... | 2025-09-15 |
-| 61 | [forge](https://github.com/antoinezambelli/forge) | 678 | 32 | Python | 4 | A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows | 2026-05-19 |
+| 61 | [forge](https://github.com/antoinezambelli/forge) | 693 | 33 | Python | 4 | A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows | 2026-05-19 |
 | 62 | [pipelex](https://github.com/Pipelex/pipelex) | 673 | 50 | Python | 10 | Declarative language for composable Al workflows. Devtool for agents and mere humans. | 2026-05-20 |
 | 63 | [rp-engine](https://github.com/jieyefriic/rp-engine) | 636 | 8 | Rust | 0 | YAML-native agent workflow execution engine, written in Rust | 2026-04-28 |
 | 64 | [Agently-Daily-News-Collector](https://github.com/AgentEra/Agently-Daily-News-Collector) | 619 | 103 | Python | 9 | An open-source LLM based automatically daily news collecting workflow showcase powered by Agently AI application development framework. | 2026-03-10 |
