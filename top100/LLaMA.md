@@ -7,9 +7,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [ollama](https://github.com/ollama/ollama) | 171,776 | 16,194 | Go | 2353 | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 2026-05-20 |
-| 2 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 111,506 | 18,455 | C++ | 675 | LLM inference in C/C++ | 2026-05-20 |
-| 3 | [vllm](https://github.com/vllm-project/vllm) | 80,512 | 16,990 | Python | 1982 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-20 |
-| 4 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 71,424 | 8,720 | Python | 966 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2026-05-19 |
+| 2 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 111,507 | 18,455 | C++ | 675 | LLM inference in C/C++ | 2026-05-20 |
+| 3 | [vllm](https://github.com/vllm-project/vllm) | 80,512 | 16,991 | Python | 1982 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-20 |
+| 4 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 71,425 | 8,720 | Python | 966 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2026-05-19 |
 | 5 | [unsloth](https://github.com/unslothai/unsloth) | 64,749 | 5,728 | Python | 1074 | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | 2026-05-20 |
 | 6 | [llama](https://github.com/meta-llama/llama) | 59,436 | 9,795 | Python | 464 | Inference code for Llama models | 2025-01-26 |
 | 7 | [llama_index](https://github.com/run-llama/llama_index) | 49,517 | 7,429 | Python | 184 | LlamaIndex is the leading document agent and OCR platform | 2026-05-20 |
@@ -22,7 +22,7 @@
 | 14 | [fish-speech](https://github.com/fishaudio/fish-speech) | 30,416 | 2,586 | Python | 12 | SOTA Open Source TTS | 2026-05-12 |
 | 15 | [llama3](https://github.com/meta-llama/llama3) | 29,290 | 3,527 | Python | 178 | The official Meta Llama 3 GitHub site | 2025-01-26 |
 | 16 | [sglang](https://github.com/sgl-project/sglang) | 28,035 | 6,014 | Python | 648 | SGLang is a high-performance serving framework for large language models and multimodal models. | 2026-05-20 |
-| 17 | [repomix](https://github.com/yamadashy/repomix) | 25,142 | 1,270 | TypeScript | 131 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | 2026-05-19 |
+| 17 | [repomix](https://github.com/yamadashy/repomix) | 25,143 | 1,270 | TypeScript | 131 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | 2026-05-19 |
 | 18 | [LLaVA](https://github.com/haotian-liu/LLaVA) | 24,811 | 2,764 | Python | 1096 | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. | 2024-08-12 |
 | 19 | [llamafile](https://github.com/mozilla-ai/llamafile) | 24,470 | 1,360 | C++ | 186 | Distribute and run LLMs with a single file. | 2026-05-19 |
 | 20 | [Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | 22,567 | 2,127 | - | 7 | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 | 2026-05-10 |
@@ -82,7 +82,7 @@
 | 74 | [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) | 5,660 | 503 | Python | 85 | A large-scale 7B pretraining language model developed by BaiChuan-Inc. | 2024-07-18 |
 | 75 | [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) | 5,554 | 896 | HTML | 12 | Real-time webcam demo with SmolVLM and llama.cpp server | 2025-05-12 |
 | 76 | [MedicalGPT](https://github.com/shibing624/MedicalGPT) | 5,421 | 751 | Python | 5 | MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。 | 2026-04-28 |
-| 77 | [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | 5,146 | 471 | Rust | 35 | ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever. | 2026-03-26 |
+| 77 | [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | 5,147 | 471 | Rust | 35 | ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever. | 2026-03-26 |
 | 78 | [gpustack](https://github.com/gpustack/gpustack) | 5,030 | 529 | Python | 527 | A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment. | 2026-05-19 |
 | 79 | [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) | 5,014 | 312 | JavaScript | 474 | Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3 | 2026-05-14 |
 | 80 | [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | 4,968 | 501 | Python | 28 | Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调 | 2026-04-14 |
