@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 16,371 | 1,610 | Python | 408 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. | 2026-03-04 |
+| 1 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 16,373 | 1,610 | Python | 408 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. | 2026-03-04 |
 | 2 | [aci](https://github.com/aipotheosis-labs/aci) | 4,777 | 456 | Python | 38 | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps. | 2026-04-24 |
-| 3 | [purego](https://github.com/ebitengine/purego) | 3,606 | 107 | Assembly | 11 | A library for calling C functions from Go without Cgo | 2026-05-09 |
+| 3 | [purego](https://github.com/ebitengine/purego) | 3,607 | 107 | Assembly | 11 | A library for calling C functions from Go without Cgo | 2026-05-09 |
 | 4 | [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) | 3,520 | 530 | JavaScript | 10 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns. | 2026-04-26 |
 | 5 | [CodeGeeX4](https://github.com/zai-org/CodeGeeX4) | 2,507 | 260 | Python | 114 | CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more. | 2024-08-25 |
 | 6 | [awesome-llm-json](https://github.com/imaurer/awesome-llm-json) | 2,174 | 92 | - | 3 | Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc. | 2025-02-18 |
@@ -28,7 +28,7 @@
 | 20 | [ActionWeaver](https://github.com/TengHu/ActionWeaver) | 328 | 16 | Python | 7 | Make function calling with LLM easier | 2024-11-10 |
 | 21 | [func_timeout](https://github.com/kata198/func_timeout) | 326 | 37 | Python | 11 | Python module which allows you to specify timeouts when calling any existing function, and support for stoppable threads | 2024-03-01 |
 | 22 | [NexusRaven](https://github.com/nexusflowai/NexusRaven) | 322 | 24 | Python | 6 | NexusRaven-13B, a new SOTA Open-Source LLM for function calling. This repo contains everything for reproducing our evaluation on NexusRaven-13B and baselines. | 2023-09-29 |
-| 23 | [jarvis](https://github.com/llm-guy/jarvis) | 316 | 106 | Python | 0 | Jarvis is a voice-activated, conversational AI assistant powered by a local LLM (Qwen via Ollama). It listens for a wake word, processes spoken commands using a local language model with LangChain, an... | 2025-09-08 |
+| 23 | [jarvis](https://github.com/llm-guy/jarvis) | 317 | 106 | Python | 0 | Jarvis is a voice-activated, conversational AI assistant powered by a local LLM (Qwen via Ollama). It listens for a wake word, processes spoken commands using a local language model with LangChain, an... | 2025-09-08 |
 | 24 | [openai-function-calling-tools](https://github.com/JohannLai/openai-function-calling-tools) | 308 | 29 | TypeScript | 4 | 🛠 openai function calling tools for JS/TS | 2024-01-30 |
 | 25 | [microchain](https://github.com/galatolofederico/microchain) | 291 | 25 | Python | 1 | function calling-based LLM agents | 2024-09-16 |
 | 26 | [pset-9](https://github.com/rprokap/pset-9) | 290 | 98 | JavaScript | 25 |       CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              HEADLINES flash before us, displaying their accompanying       photographs.              "UBERMAN - METRO CITY'S HERO AFTER... | 2024-06-20 |
