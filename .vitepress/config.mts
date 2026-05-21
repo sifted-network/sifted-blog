@@ -5,10 +5,15 @@ const vitePressConfigs = {
   title: 'Sifted AI News',
   description: 'Daily AI News',
   base: '/',
+  sitemap: {
+    hostname: 'https://aifeeds.sifted.network'
+  },
+  lastUpdated: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/feed-entries/'}
+      { text: 'News', link: '/news'},
+      { text: 'Top 100', link: '/README'}
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/sifted-network' }
