@@ -7,7 +7,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [conductor](https://github.com/conductor-oss/conductor) | 31,836 | 901 | Java | 128 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents | 2026-05-22 |
-| 2 | [argo-workflows](https://github.com/argoproj/argo-workflows) | 16,697 | 3,546 | Go | 1172 | Workflow Engine for Kubernetes | 2026-05-22 |
+| 2 | [argo-workflows](https://github.com/argoproj/argo-workflows) | 16,698 | 3,546 | Go | 1172 | Workflow Engine for Kubernetes | 2026-05-22 |
 | 3 | [windmill](https://github.com/windmill-labs/windmill) | 16,551 | 965 | HTML | 544 | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. | 2026-05-22 |
 | 4 | [Activiti](https://github.com/Activiti/Activiti) | 10,523 | 6,931 | Java | 566 | Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng... | 2026-05-22 |
 | 5 | [flowable-engine](https://github.com/flowable/flowable-engine) | 9,276 | 2,845 | Java | 359 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. | 2026-05-21 |
