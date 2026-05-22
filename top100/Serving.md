@@ -6,23 +6,23 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [vllm](https://github.com/vllm-project/vllm) | 80,679 | 17,082 | Python | 1988 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-22 |
+| 1 | [vllm](https://github.com/vllm-project/vllm) | 80,680 | 17,082 | Python | 1988 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-22 |
 | 2 | [ray](https://github.com/ray-project/ray) | 42,624 | 7,597 | Python | 2842 | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | 2026-05-22 |
 | 3 | [FastChat](https://github.com/lm-sys/FastChat) | 39,477 | 4,792 | Python | 876 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | 2026-05-01 |
-| 4 | [sglang](https://github.com/sgl-project/sglang) | 28,100 | 6,050 | Python | 654 | SGLang is a high-performance serving framework for large language models and multimodal models. | 2026-05-22 |
+| 4 | [sglang](https://github.com/sgl-project/sglang) | 28,102 | 6,052 | Python | 655 | SGLang is a high-performance serving framework for large language models and multimodal models. | 2026-05-22 |
 | 5 | [dufs](https://github.com/sigoden/dufs) | 10,172 | 538 | Rust | 2 | A file server that supports static serving, uploading, searching, accessing control, webdav... | 2026-05-20 |
 | 6 | [serve](https://github.com/vercel/serve) | 9,852 | 702 | TypeScript | 132 | Static file serving and directory listing | 2026-05-21 |
 | 7 | [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | 9,479 | 575 | C++ | 123 | High-speed Large Language Model Serving for Local Deployment | 2026-05-11 |
 | 8 | [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) | 8,006 | 338 | C++ | 183 | Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages | 2026-03-09 |
 | 9 | [lmdeploy](https://github.com/InternLM/lmdeploy) | 7,869 | 698 | Python | 526 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. | 2026-05-21 |
-| 10 | [dynamo](https://github.com/ai-dynamo/dynamo) | 6,929 | 1,146 | Rust | 200 | A Datacenter Scale Distributed Inference Serving Framework | 2026-05-22 |
+| 10 | [dynamo](https://github.com/ai-dynamo/dynamo) | 6,932 | 1,146 | Rust | 200 | A Datacenter Scale Distributed Inference Serving Framework | 2026-05-22 |
 | 11 | [clearml](https://github.com/clearml/clearml) | 6,701 | 778 | Python | 542 | ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution | 2026-05-20 |
 | 12 | [serving](https://github.com/tensorflow/serving) | 6,352 | 2,199 | C++ | 56 | A flexible, high-performance serving system for machine learning models | 2026-05-12 |
 | 13 | [serving](https://github.com/knative/serving) | 6,052 | 1,227 | Go | 153 | Kubernetes-based, scale-to-zero, request-driven compute | 2026-05-21 |
 | 14 | [flashinfer](https://github.com/flashinfer-ai/flashinfer) | 5,655 | 992 | Python | 357 | FlashInfer: Kernel Library for LLM Serving | 2026-05-21 |
-| 15 | [ToolBench](https://github.com/OpenBMB/ToolBench) | 5,647 | 485 | Python | 153 | [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning. | 2025-05-21 |
-| 16 | [volcano](https://github.com/volcano-sh/volcano) | 5,589 | 1,370 | Go | 420 | A Cloud Native Batch System (Project under CNCF) | 2026-05-21 |
-| 17 | [Mooncake](https://github.com/kvcache-ai/Mooncake) | 5,394 | 770 | C++ | 315 | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. | 2026-05-22 |
+| 15 | [ToolBench](https://github.com/OpenBMB/ToolBench) | 5,648 | 485 | Python | 153 | [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning. | 2025-05-21 |
+| 16 | [volcano](https://github.com/volcano-sh/volcano) | 5,589 | 1,370 | Go | 420 | A Cloud Native Batch System (Project under CNCF) | 2026-05-22 |
+| 17 | [Mooncake](https://github.com/kvcache-ai/Mooncake) | 5,395 | 770 | C++ | 315 | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. | 2026-05-22 |
 | 18 | [YCSB](https://github.com/brianfrankcooper/YCSB) | 5,211 | 2,325 | Java | 270 | Yahoo! Cloud Serving Benchmark | 2026-04-15 |
 | 19 | [SPTAG](https://github.com/microsoft/SPTAG) | 4,998 | 619 | C++ | 119 | A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena... | 2026-05-20 |
 | 20 | [LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) | 4,931 | 696 | - | 0 | A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications. | 2025-08-18 |
@@ -31,16 +31,16 @@
 | 23 | [esProc](https://github.com/SPLWare/esProc) | 4,681 | 362 | Java | 44 | esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine. | 2026-05-21 |
 | 24 | [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) | 4,379 | 690 | - | 1 | In this repository, I will share some useful notes and references about deploying deep learning-based models in production. | 2024-11-09 |
 | 25 | [serve](https://github.com/pytorch/serve) | 4,360 | 886 | Java | 386 | Serve, optimize and scale PyTorch models in production | 2025-08-06 |
-| 26 | [mini-sglang](https://github.com/sgl-project/mini-sglang) | 4,226 | 660 | Python | 11 | A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. | 2026-05-17 |
+| 26 | [mini-sglang](https://github.com/sgl-project/mini-sglang) | 4,227 | 660 | Python | 11 | A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. | 2026-05-17 |
 | 27 | [tiny-llm](https://github.com/skyzh/tiny-llm) | 4,197 | 318 | Python | 7 | A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen. | 2026-05-21 |
-| 28 | [lemonade](https://github.com/lemonade-sdk/lemonade) | 4,084 | 315 | C++ | 233 | Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk | 2026-05-21 |
+| 28 | [lemonade](https://github.com/lemonade-sdk/lemonade) | 4,084 | 315 | C++ | 234 | Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk | 2026-05-21 |
 | 29 | [LightLLM](https://github.com/ModelTC/LightLLM) | 4,073 | 329 | Python | 85 | LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. | 2026-05-22 |
 | 30 | [FedML](https://github.com/FedML-AI/FedML) | 4,044 | 766 | Python | 122 | FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on a... | 2025-10-28 |
 | 31 | [LitServe](https://github.com/Lightning-AI/LitServe) | 3,882 | 285 | Python | 25 | A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling. | 2026-05-04 |
 | 32 | [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) | 3,686 | 744 | Python | 287 | High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle | 2026-05-22 |
 | 33 | [lighthouse](https://github.com/nuwave/lighthouse) | 3,491 | 468 | PHP | 106 | A framework for serving GraphQL from Laravel | 2026-05-03 |
 | 34 | [alpa](https://github.com/alpa-projects/alpa) | 3,187 | 361 | Python | 68 | Training and serving large-scale neural networks with auto parallelization. | 2023-12-09 |
-| 35 | [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | 3,135 | 406 | Python | 42 | MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly... | 2026-05-12 |
+| 35 | [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | 3,137 | 407 | Python | 42 | MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly... | 2026-05-12 |
 | 36 | [ramalama](https://github.com/containers/ramalama) | 2,847 | 340 | Python | 69 | RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con... | 2026-05-21 |
 | 37 | [infinity](https://github.com/michaelfeil/infinity) | 2,803 | 190 | Python | 106 | Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali | 2026-03-24 |
 | 38 | [whitenoise](https://github.com/evansd/whitenoise) | 2,741 | 153 | Python | 26 | Radically simplified static file serving for Python web apps | 2026-05-13 |
@@ -52,7 +52,7 @@
 | 44 | [S-LoRA](https://github.com/S-LoRA/S-LoRA) | 1,913 | 124 | Python | 30 | S-LoRA: Serving Thousands of Concurrent LoRA Adapters | 2024-01-21 |
 | 45 | [tensorflow_template_application](https://github.com/tobegit3hub/tensorflow_template_application) | 1,877 | 708 | Python | 16 | TensorFlow template application for deep learning | 2023-07-05 |
 | 46 | [llm-applications](https://github.com/ray-project/llm-applications) | 1,855 | 255 | Jupyter Notebook | 9 | A comprehensive guide to building RAG-based LLM applications for production. | 2024-08-02 |
-| 47 | [matrixone](https://github.com/matrixorigin/matrixone) | 1,843 | 297 | Go | 566 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications. | 2026-05-21 |
+| 47 | [matrixone](https://github.com/matrixorigin/matrixone) | 1,843 | 297 | Go | 564 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications. | 2026-05-21 |
 | 48 | [dingo](https://github.com/dingodb/dingo) | 1,700 | 265 | Java | 2 | A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ... | 2026-05-08 |
 | 49 | [delta](https://github.com/Delta-ML/delta) | 1,605 | 284 | Python | 1 | DELTA is a deep learning based natural language and speech processing platform. LF AI & DATA Projects: https://lfaidata.foundation/projects/delta/ | 2025-04-16 |
 | 50 | [paddler](https://github.com/intentee/paddler) | 1,568 | 89 | Rust | 26 | Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple... | 2026-05-21 |
@@ -61,7 +61,7 @@
 | 53 | [clipper](https://github.com/ucbrise/clipper) | 1,422 | 280 | C++ | 114 | A low-latency prediction-serving system | 2021-04-26 |
 | 54 | [postcodes.io](https://github.com/ideal-postcodes/postcodes.io) | 1,384 | 280 | HTML | 7 | UK postcode & geolocation API, serving up open data | 2026-04-23 |
 | 55 | [UCall](https://github.com/unum-cloud/UCall) | 1,329 | 54 | C | 11 | Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️ | 2025-09-16 |
-| 56 | [parallax](https://github.com/GradientHQ/parallax) | 1,294 | 137 | Python | 27 | Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere | 2026-05-18 |
+| 56 | [parallax](https://github.com/GradientHQ/parallax) | 1,295 | 137 | Python | 27 | Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere | 2026-05-18 |
 | 57 | [codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot) | 1,291 | 145 | Python | 5 | An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG,  etc. | 2024-07-01 |
 | 58 | [sirv](https://github.com/lukeed/sirv) | 1,168 | 63 | JavaScript | 15 | An optimized middleware & CLI application for serving static files~! | 2025-09-03 |
 | 59 | [punica](https://github.com/punica-ai/punica) | 1,159 | 62 | Python | 17 | Serving multiple LoRA finetuned LLM as one | 2024-05-08 |
