@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [lobehub](https://github.com/lobehub/lobehub) | 77,507 | 15,249 | TypeScript | 56 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. | 2026-05-22 |
-| 2 | [cua](https://github.com/trycua/cua) | 16,984 | 1,078 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
+| 1 | [lobehub](https://github.com/lobehub/lobehub) | 77,510 | 15,251 | TypeScript | 56 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. | 2026-05-22 |
+| 2 | [cua](https://github.com/trycua/cua) | 16,985 | 1,078 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
 | 3 | [nanobrowser](https://github.com/nanobrowser/nanobrowser) | 13,025 | 1,367 | TypeScript | 44 | Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. | 2025-11-24 |
 | 4 | [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | 9,921 | 3,857 | Go | 196 | Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes | 2026-05-21 |
 | 5 | [cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) | 8,651 | 687 | Go | 202 | CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin... | 2026-05-22 |
@@ -15,7 +15,7 @@
 | 7 | [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | 7,711 | 987 | Go | 463 | A Chaos Engineering Platform for Kubernetes. | 2026-05-03 |
 | 8 | [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) | 7,650 | 2,054 | Jsonnet | 165 | Use Prometheus to monitor Kubernetes and applications running on Kubernetes | 2026-05-18 |
 | 9 | [operator-sdk](https://github.com/operator-framework/operator-sdk) | 7,646 | 1,778 | Go | 49 | SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. | 2026-05-21 |
-| 10 | [qiskit](https://github.com/Qiskit/qiskit) | 7,396 | 2,894 | Python | 857 | Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. | 2026-05-21 |
+| 10 | [qiskit](https://github.com/Qiskit/qiskit) | 7,396 | 2,895 | Python | 857 | Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. | 2026-05-21 |
 | 11 | [external-secrets](https://github.com/external-secrets/external-secrets) | 6,621 | 1,303 | Go | 136 | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. | 2026-05-18 |
 | 12 | [actions-runner-controller](https://github.com/actions/actions-runner-controller) | 6,259 | 1,419 | Go | 283 | Kubernetes controller for GitHub Actions self-hosted runners | 2026-05-20 |
 | 13 | [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,813 | 1,488 | Java | 126 | Apache Kafka® running on Kubernetes | 2026-05-21 |
@@ -24,8 +24,8 @@
 | 16 | [KubeOperator](https://github.com/KubeOperator/KubeOperator) | 4,988 | 897 | Go | 43 | KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。 | 2024-07-02 |
 | 17 | [postgres-operator](https://github.com/CrunchyData/postgres-operator) | 4,405 | 670 | Go | 143 | Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. | 2026-05-20 |
 | 18 | [kubero](https://github.com/kubero-dev/kubero) | 4,291 | 199 | TypeScript | 67 | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | 2026-04-15 |
-| 19 | [deepxde](https://github.com/lululxvi/deepxde) | 4,173 | 970 | Python | 282 | A library for scientific machine learning and physics-informed learning | 2026-03-01 |
-| 20 | [DataFlow](https://github.com/OpenDCAI/DataFlow) | 3,913 | 402 | Python | 8 | Easy Data Preparation with latest LLMs-based Operators and Pipelines. | 2026-04-15 |
+| 19 | [deepxde](https://github.com/lululxvi/deepxde) | 4,174 | 970 | Python | 282 | A library for scientific machine learning and physics-informed learning | 2026-03-01 |
+| 20 | [DataFlow](https://github.com/OpenDCAI/DataFlow) | 3,917 | 402 | Python | 8 | Easy Data Preparation with latest LLMs-based Operators and Pipelines. | 2026-04-15 |
 | 21 | [neuraloperator](https://github.com/neuraloperator/neuraloperator) | 3,644 | 884 | Python | 13 | Learning in infinite dimension with neural operators. | 2026-05-11 |
 | 22 | [awesome-operators](https://github.com/operator-framework/awesome-operators) | 3,512 | 518 | - | 1 | A resource tracking a number of Operators out in the wild. | 2021-08-02 |
 | 23 | [china-operator-ip](https://github.com/gaoyifan/china-operator-ip) | 3,504 | 350 | Just | 4 | 中国运营商IPv4/IPv6地址库-每日更新 | 2026-05-21 |
@@ -33,7 +33,7 @@
 | 25 | [minica](https://github.com/jsha/minica) | 3,276 | 257 | Go | 20 | minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used. | 2025-09-03 |
 | 26 | [jittor](https://github.com/Jittor/jittor) | 3,227 | 322 | Python | 257 | Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators. | 2026-05-21 |
 | 27 | [spark-operator](https://github.com/kubeflow/spark-operator) | 3,126 | 1,486 | Python | 50 | Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.  | 2026-05-21 |
-| 28 | [kubeblocks](https://github.com/apecloud/kubeblocks) | 3,038 | 268 | Go | 113 | KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro... | 2026-05-21 |
+| 28 | [kubeblocks](https://github.com/apecloud/kubeblocks) | 3,038 | 268 | Go | 113 | KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro... | 2026-05-22 |
 | 29 | [manifold](https://github.com/manifold-systems/manifold) | 2,736 | 134 | Java | 104 | Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. | 2026-05-19 |
 | 30 | [gpu-operator](https://github.com/NVIDIA/gpu-operator) | 2,712 | 507 | Go | 66 | NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes | 2026-05-22 |
 | 31 | [keel](https://github.com/keel-hq/keel) | 2,711 | 319 | Go | 204 | Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates | 2026-02-26 |
@@ -81,7 +81,7 @@
 | 73 | [kubegres](https://github.com/reactive-tech/kubegres) | 1,351 | 78 | Go | 74 | Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup. | 2025-01-04 |
 | 74 | [redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) | 1,349 | 352 | Go | 139 | A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes. | 2026-05-13 |
 | 75 | [kube-green](https://github.com/kube-green/kube-green) | 1,347 | 97 | Go | 32 | A K8s operator to reduce CO2 footprint of your clusters | 2026-05-11 |
-| 76 | [tidb-operator](https://github.com/pingcap/tidb-operator) | 1,331 | 534 | Go | 347 | TiDB operator creates and manages TiDB clusters running in Kubernetes. | 2026-05-21 |
+| 76 | [tidb-operator](https://github.com/pingcap/tidb-operator) | 1,331 | 534 | Go | 347 | TiDB operator creates and manages TiDB clusters running in Kubernetes. | 2026-05-22 |
 | 77 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | 1,327 | 255 | Python | 1 | Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKIL... | 2026-05-20 |
 | 78 | [grafana-operator](https://github.com/grafana/grafana-operator) | 1,326 | 460 | Go | 38 | An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs | 2026-05-21 |
 | 79 | [involution](https://github.com/d-li14/involution) | 1,314 | 176 | Python | 24 | [CVPR 2021] Involution: Inverting the Inherence of Convolution for Visual Recognition, a brand new neural operator | 2021-07-16 |
@@ -90,7 +90,7 @@
 | 82 | [kudo](https://github.com/kudobuilder/kudo) | 1,216 | 104 | Go | 171 | Kubernetes Universal Declarative Operator (KUDO) | 2023-08-22 |
 | 83 | [dlpack](https://github.com/dmlc/dlpack) | 1,214 | 161 | C++ | 24 | common in-memory tensor structure  | 2026-05-03 |
 | 84 | [kubeai](https://github.com/kubeai-project/kubeai) | 1,200 | 125 | Go | 82 | AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. | 2026-03-31 |
-| 85 | [AIPex](https://github.com/AIPexStudio/AIPex) | 1,190 | 119 | TypeScript | 11 | AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser | 2026-05-18 |
+| 85 | [AIPex](https://github.com/AIPexStudio/AIPex) | 1,191 | 119 | TypeScript | 11 | AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser | 2026-05-18 |
 | 86 | [kubeswitch](https://github.com/danielfoehrKn/kubeswitch) | 1,164 | 103 | Go | 46 | The kubectx  for operators. | 2025-05-18 |
 | 87 | [Euler](https://github.com/mattt/Euler) | 1,149 | 59 | Swift | 0 | Swift Custom Operators for Mathematical Notation | 2021-04-20 |
 | 88 | [schemahero](https://github.com/schemahero/schemahero) | 1,129 | 93 | Go | 129 | A Kubernetes operator for declarative database schema management (gitops for database schemas) | 2026-05-21 |
