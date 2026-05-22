@@ -26,7 +26,7 @@
 | 18 | [perfetto](https://github.com/google/perfetto) | 5,966 | 789 | C++ | 107 | Production-grade client-side tracing, profiling, and analysis for complex software systems. | 2026-05-22 |
 | 19 | [Discovery](https://github.com/Nepxion/Discovery) | 5,765 | 1,417 | Java | 14 | ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活 | 2025-08-02 |
 | 20 | [The-Forge](https://github.com/ConfettiFX/The-Forge) | 5,549 | 559 | C++ | 14 | The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 | 2025-07-03 |
-| 21 | [magic-trace](https://github.com/janestreet/magic-trace) | 5,544 | 155 | OCaml | 39 | magic-trace collects and displays high-resolution traces of what a process is doing | 2026-05-21 |
+| 21 | [magic-trace](https://github.com/janestreet/magic-trace) | 5,545 | 155 | OCaml | 39 | magic-trace collects and displays high-resolution traces of what a process is doing | 2026-05-21 |
 | 22 | [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) | 5,526 | 1,844 | - | 54 | Sysmon configuration file template with default high-quality event tracing | 2024-07-03 |
 | 23 | [tempo](https://github.com/grafana/tempo) | 5,275 | 704 | Go | 88 | Grafana Tempo is a high volume, minimal dependency distributed tracing backend. | 2026-05-21 |
 | 24 | [openmoonray](https://github.com/OpenMoonRay/openmoonray) | 4,637 | 300 | CMake | 68 | MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation. | 2026-05-20 |
@@ -35,7 +35,7 @@
 | 27 | [hubble](https://github.com/cilium/hubble) | 4,193 | 282 | Makefile | 47 | Hubble - Network, Service & Security Observability for Kubernetes using eBPF | 2026-05-20 |
 | 28 | [deepflow](https://github.com/deepflowio/deepflow) | 4,092 | 458 | Go | 156 | eBPF Observability - Distributed Tracing and Profiling | 2026-05-22 |
 | 29 | [deepops](https://github.com/deepops-ai/deepops) | 3,969 | 500 | TypeScript | 43 | Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.  | 2025-03-04 |
-| 30 | [axonhub](https://github.com/looplj/axonhub) | 3,919 | 477 | Go | 38 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. | 2026-05-22 |
+| 30 | [axonhub](https://github.com/looplj/axonhub) | 3,920 | 478 | Go | 38 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. | 2026-05-22 |
 | 31 | [pwru](https://github.com/cilium/pwru) | 3,751 | 225 | C | 29 | Packet, where are you? -- eBPF-based Linux kernel networking debugger | 2026-05-22 |
 | 32 | [odigos](https://github.com/odigos-io/odigos) | 3,659 | 250 | Go | 4 | Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF | 2026-05-22 |
 | 33 | [datadog-agent](https://github.com/DataDog/datadog-agent) | 3,624 | 1,433 | Go | 71 | Main repository for Datadog Agent | 2026-05-22 |
@@ -49,7 +49,7 @@
 | 41 | [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) | 2,586 | 275 | Go | 10 | Prometheus exporter for custom eBPF metrics | 2026-04-30 |
 | 42 | [opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) | 2,584 | 663 | Rust | 211 | The Rust OpenTelemetry implementation | 2026-05-21 |
 | 43 | [btrace](https://github.com/bytedance/btrace) | 2,500 | 330 | C++ | 69 | 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow. | 2026-02-05 |
-| 44 | [hamilton](https://github.com/apache/hamilton) | 2,492 | 189 | Jupyter Notebook | 105 | Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does. | 2026-05-20 |
+| 44 | [hamilton](https://github.com/apache/hamilton) | 2,491 | 189 | Jupyter Notebook | 105 | Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does. | 2026-05-20 |
 | 45 | [openlit](https://github.com/openlit/openlit) | 2,461 | 280 | TypeScript | 15 | Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, ... | 2026-05-22 |
 | 46 | [brave](https://github.com/openzipkin/brave) | 2,403 | 714 | Java | 117 | Java distributed tracing implementation compatible with Zipkin backend services. | 2026-03-25 |
 | 47 | [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) | 2,329 | 1,333 | - | 3 | Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the... | 2024-08-09 |
