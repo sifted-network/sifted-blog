@@ -6,21 +6,21 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cua](https://github.com/trycua/cua) | 16,984 | 1,078 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
-| 2 | [agentmemory](https://github.com/rohitg00/agentmemory) | 15,911 | 1,317 | TypeScript | 72 | #1 Persistent memory for AI coding agents based on real-world benchmarks | 2026-05-21 |
+| 1 | [cua](https://github.com/trycua/cua) | 16,985 | 1,078 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
+| 2 | [agentmemory](https://github.com/rohitg00/agentmemory) | 15,941 | 1,317 | TypeScript | 72 | #1 Persistent memory for AI coding agents based on real-world benchmarks | 2026-05-21 |
 | 3 | [pyod](https://github.com/yzhao062/pyod) | 9,852 | 1,475 | Python | 188 | A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents. | 2026-05-19 |
-| 4 | [agentops](https://github.com/AgentOps-AI/agentops) | 5,570 | 582 | Python | 106 | Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca... | 2026-03-19 |
+| 4 | [agentops](https://github.com/AgentOps-AI/agentops) | 5,571 | 582 | Python | 106 | Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca... | 2026-03-19 |
 | 5 | [AgentBench](https://github.com/THUDM/AgentBench) | 3,442 | 255 | Python | 61 | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | 2026-02-08 |
 | 6 | [OSWorld](https://github.com/xlang-ai/OSWorld) | 2,865 | 461 | Python | 147 | [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | 2026-05-21 |
 | 7 | [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) | 2,095 | 93 | - | 0 | 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥 | 2026-05-17 |
 | 8 | [mle-bench](https://github.com/openai/mle-bench) | 1,538 | 247 | Python | 2 | MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering | 2026-04-24 |
-| 9 | [Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | 1,403 | 156 | Python | 0 | 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | 2026-05-21 |
+| 9 | [Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | 1,404 | 156 | Python | 0 | 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | 2026-05-21 |
 | 10 | [smac](https://github.com/oxwhirl/smac) | 1,352 | 237 | Python | 21 | SMAC: The StarCraft Multi-Agent Challenge | 2024-02-18 |
-| 11 | [little-coder](https://github.com/itayinbarr/little-coder) | 1,286 | 78 | TypeScript | 1 | A coding agent optimized to smaller LLMs | 2026-05-19 |
+| 11 | [little-coder](https://github.com/itayinbarr/little-coder) | 1,287 | 78 | TypeScript | 1 | A coding agent optimized to smaller LLMs | 2026-05-19 |
 | 12 | [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) | 1,265 | 48 | Python | 1 | Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework. | 2026-05-21 |
 | 13 | [tau2-bench](https://github.com/sierra-research/tau2-bench) | 1,213 | 314 | Python | 67 | τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains | 2026-05-21 |
-| 14 | [skill](https://github.com/pinchbench/skill) | 1,193 | 132 | Python | 17 | PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai | 2026-05-14 |
-| 15 | [smallcode](https://github.com/Doorman11991/smallcode) | 1,089 | 76 | JavaScript | 0 | AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. | 2026-05-22 |
+| 14 | [skill](https://github.com/pinchbench/skill) | 1,194 | 132 | Python | 17 | PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai | 2026-05-14 |
+| 15 | [smallcode](https://github.com/Doorman11991/smallcode) | 1,093 | 77 | JavaScript | 0 | AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. | 2026-05-22 |
 | 16 | [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) | 1,064 | 39 | Python | 1 | An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings. | 2026-04-15 |
 | 17 | [Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) | 991 | 124 | Jupyter Notebook | 7 | [NeurIPS'23 Spotlight] "Mind2Web: Towards a Generalist Agent for the Web" -- the first LLM-based web agent and benchmark for generalist web agents | 2025-11-05 |
 | 18 | [LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) | 923 | 147 | Python | 4 | LuaN1aoAgent is a cognitive-driven AI hacker. It is a fully autonomous AI penetration testing agent. Using dual-graph reasoning, LuaN1ao achieves a success rate of over 90% on the XBOW Benchmark. | 2026-04-13 |
@@ -41,7 +41,7 @@
 | 33 | [agentdojo](https://github.com/ethz-spylab/agentdojo) | 572 | 149 | Python | 17 | A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. | 2026-03-30 |
 | 34 | [VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator) | 569 | 110 | Python | 7 | VMAS is a vectorized differentiable simulator designed for efficient Multi-Agent Reinforcement Learning benchmarking. It is comprised of a vectorized 2D physics engine written in PyTorch and a set of ... | 2026-05-19 |
 | 35 | [crafter](https://github.com/danijar/crafter) | 543 | 92 | Python | 9 | Benchmarking the Spectrum of Agent Capabilities | 2024-01-23 |
-| 36 | [awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) | 529 | 41 | Python | 0 | An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides. | 2026-05-21 |
+| 36 | [awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) | 532 | 41 | Python | 0 | An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides. | 2026-05-22 |
 | 37 | [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) | 513 | 75 | Python | 0 | [ICML'24 Spotlight] "TravelPlanner: A Benchmark for Real-World Planning with Language Agents" | 2025-11-07 |
 | 38 | [PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) | 510 | 72 | Python | 0 | An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity, Clin... | 2026-05-15 |
 | 39 | [bigcodebench](https://github.com/bigcode-project/bigcodebench) | 500 | 72 | Python | 26 | [ICLR'25] BigCodeBench: Benchmarking Code Generation Towards AGI | 2026-01-03 |
@@ -50,7 +50,7 @@
 | 42 | [mcp-bench](https://github.com/Accenture/mcp-bench) | 484 | 60 | Python | 16 | MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers | 2025-10-07 |
 | 43 | [visualwebarena](https://github.com/web-arena-x/visualwebarena) | 474 | 79 | Python | 21 | VisualWebArena is a benchmark for multimodal agents. | 2024-11-09 |
 | 44 | [safety-starter-agents](https://github.com/openai/safety-starter-agents) | 463 | 111 | Python | 8 | Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper. | 2023-04-02 |
-| 45 | [ParseBench](https://github.com/run-llama/ParseBench) | 459 | 54 | Python | 1 | ParseBench - A Document Parsing Benchmark for AI Agents | 2026-05-15 |
+| 45 | [ParseBench](https://github.com/run-llama/ParseBench) | 459 | 54 | Python | 2 | ParseBench - A Document Parsing Benchmark for AI Agents | 2026-05-15 |
 | 46 | [VLABench](https://github.com/OpenMOSS/VLABench) | 433 | 36 | Python | 33 | Official repo of VLABench, a large scale benchmark designed for fairly evaluating VLA, Embodied Agent, and VLMs. | 2025-11-11 |
 | 47 | [models](https://github.com/reyamira/models) | 426 | 17 | Rust | 0 | TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. | 2026-05-22 |
 | 48 | [DAComp](https://github.com/ByteDance-Seed/DAComp) | 426 | 1 | Python | 1 | [ICLR 2026] DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle | 2026-01-04 |
@@ -65,7 +65,7 @@
 | 57 | [multiagent_mujoco](https://github.com/schroederdewitt/multiagent_mujoco) | 372 | 35 | Python | 5 | Benchmark for Continuous Multi-Agent Robotic Control, based on OpenAI's Mujoco Gym environments. | 2023-03-16 |
 | 58 | [Toolathlon](https://github.com/hkust-nlp/Toolathlon) | 367 | 40 | Python | 7 | [ICLR 2026] The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution | 2026-05-18 |
 | 59 | [Agents_Failure_Attribution](https://github.com/ag2ai/Agents_Failure_Attribution) | 364 | 25 | Python | 2 | Benchmark for automated failure attributions in agentic systems (🏆 ICML 2025 Spotlight) | 2026-02-11 |
-| 60 | [harvey-labs](https://github.com/harveyai/harvey-labs) | 326 | 57 | Python | 2 | A benchmark built to evaluate and improve agent capabilities for supporting legal work. | 2026-05-21 |
+| 60 | [harvey-labs](https://github.com/harveyai/harvey-labs) | 327 | 57 | Python | 2 | A benchmark built to evaluate and improve agent capabilities for supporting legal work. | 2026-05-21 |
 | 61 | [LAMM](https://github.com/OpenGVLab/LAMM) | 317 | 16 | Python | 9 | [NeurIPS 2023 Datasets and Benchmarks Track] LAMM: Multi-Modal Large Language Models and Applications as AI Agents | 2024-04-16 |
 | 62 | [ClawBench](https://github.com/reacher-z/ClawBench) | 314 | 19 | Python | 42 | Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%. | 2026-05-21 |
 | 63 | [AgentClinic](https://github.com/SamuelSchmidgall/AgentClinic) | 306 | 51 | Python | 4 | Agent benchmark for medical diagnosis | 2024-12-31 |
@@ -102,7 +102,7 @@
 | 94 | [SWE-CI](https://github.com/SKYLENAGE-AI/SWE-CI) | 168 | 20 | Python | 0 | SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration | 2026-04-23 |
 | 95 | [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) | 168 | 11 | - | 3 | A banchmark list for evaluation of large language models. | 2026-05-12 |
 | 96 | [SGI-Bench](https://github.com/InternScience/SGI-Bench) | 167 | 4 | Python | 0 | Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows | 2026-05-13 |
-| 97 | [OSWorld-G](https://github.com/xlang-ai/OSWorld-G) | 166 | 7 | TypeScript | 10 | [NeurIPS 2025 Spotlight] Scaling Computer-Use Grounding via UI Decomposition and Synthesis | 2025-11-06 |
+| 97 | [OSWorld-G](https://github.com/xlang-ai/OSWorld-G) | 166 | 7 | TypeScript | 11 | [NeurIPS 2025 Spotlight] Scaling Computer-Use Grounding via UI Decomposition and Synthesis | 2025-11-06 |
 | 98 | [weblinx](https://github.com/McGill-NLP/weblinx) | 160 | 17 | Python | 1 | WebLINX is a benchmark for building web navigation agents with conversational capabilities | 2025-02-11 |
 | 99 | [ai-coding-lang-bench](https://github.com/mame/ai-coding-lang-bench) | 157 | 66 | Ruby | 6 | Which programming language is best for AI coding agents? Benchmarking 13 languages with Claude Code. | 2026-03-05 |
 | 100 | [WorfBench](https://github.com/zjunlp/WorfBench) | 151 | 8 | Python | 1 | [ICLR 2025] Benchmarking Agentic Workflow Generation | 2025-02-19 |
