@@ -67,7 +67,6 @@
       "name": "MCP",
       "desc": "Model Context Protocol",
       "topics": [
-        "MCP",
         "Model Context Protocol",
         "Tool Integration"
       ]
