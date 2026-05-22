@@ -25,7 +25,6 @@
         "Reasoning",
         "Memory",
         "Reflection",
-        "Planning",
         "Long-Term Memory"
       ]
     },
@@ -44,7 +43,6 @@
       "topics": [
         "Browser Automation",
         "Computer Use",
-        "Web Agent",
         "Desktop Automation"
       ]
     },
@@ -84,7 +82,6 @@
       "topics": [
         "LLM Observability",
         "AI Evaluation",
-        "Agent Benchmark",
         "Telemetry",
         "Guardrails",
         "AI Safety",
