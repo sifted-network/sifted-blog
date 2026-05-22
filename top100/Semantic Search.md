@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [haystack](https://github.com/deepset-ai/haystack) | 25,329 | 2,801 | MDX | 91 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-21 |
+| 1 | [haystack](https://github.com/deepset-ai/haystack) | 25,331 | 2,801 | MDX | 91 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-21 |
 | 2 | [txtai](https://github.com/neuml/txtai) | 12,601 | 829 | Python | 9 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows | 2026-05-22 |
 | 3 | [mcp-chrome](https://github.com/hangwin/mcp-chrome) | 11,686 | 1,050 | TypeScript | 183 | Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont... | 2026-01-06 |
 | 4 | [pgai](https://github.com/timescale/pgai) | 5,802 | 309 | PLpgSQL | 14 | A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL | 2026-02-11 |
@@ -81,7 +81,7 @@
 | 73 | [guild](https://github.com/mathomhaus/guild) | 269 | 45 | Go | 25 | Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search. | 2026-05-13 |
 | 74 | [scoper](https://github.com/RameshAditya/scoper) | 268 | 16 | Python | 1 | Fuzzy and semantic search for captioned YouTube videos. | 2022-12-08 |
 | 75 | [ConceptualSearch](https://github.com/DiceTechJobs/ConceptualSearch) | 259 | 53 | Jupyter Notebook | 2 | Train a Word2Vec model or LSA model, and Implement Conceptual Search\Semantic Search in Solr\Lucene - Simon Hughes Dice.com, Dice Tech Jobs | 2019-04-26 |
-| 76 | [DCI-Agent-Lite](https://github.com/DCI-Agent/DCI-Agent-Lite) | 250 | 31 | Python | 2 | Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction | 2026-05-09 |
+| 76 | [DCI-Agent-Lite](https://github.com/DCI-Agent/DCI-Agent-Lite) | 251 | 31 | Python | 2 | Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction | 2026-05-09 |
 | 77 | [smart-tree](https://github.com/8b-is/smart-tree) | 246 | 25 | Rust | 0 | Smart Tree: not just a tree, a philosophy. A context-aware, AI-crafted replacement for 20+ tools with MEM8 quantum compression, semantic search, AST-smart editing, and partnership memory. Crafted with... | 2026-05-06 |
 | 78 | [semantic-search-through-wikipedia-with-weaviate](https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate) | 245 | 22 | Python | 2 | Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine | 2023-05-31 |
 | 79 | [vector-storage](https://github.com/nitaiaharoni1/vector-storage) | 245 | 39 | TypeScript | 6 | Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows s... | 2024-12-11 |
