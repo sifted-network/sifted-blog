@@ -1,0 +1,83 @@
+{
+  "feeds": [
+    {
+      "id": "openai",
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "enabled": true,
+      "proxy": false
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "enabled": false,
+      "proxy": false
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI Blog",
+      "url": "https://research.google/blog/rss/",
+      "enabled": false,
+      "proxy": false
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/rss.xml",
+      "enabled": false,
+      "proxy": false
+    },
+    {
+      "id": "mit-tech-review",
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+      "enabled": true,
+      "proxy": false
+    },
+    {
+      "id": "marktechpost",
+      "name": "MarkTechPost",
+      "url": "https://www.marktechpost.com/feed",
+      "enabled": true,
+      "proxy": false
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv cs.AI",
+      "url": "https://rss.arxiv.org/rss/cs.AI",
+      "enabled": true,
+      "proxy": false
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "name": "arXiv cs.LG",
+      "url": "https://rss.arxiv.org/rss/cs.LG",
+      "enabled": true,
+      "proxy": false
+    },
+    {
+      "id": "hackernews-ai",
+      "name": "Hacker News AI",
+      "url": "https://hnrss.org/newest?q=AI",
+      "enabled": true,
+      "proxy": false
+    },
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "url": "https://www.jiqizhixin.com/rss",
+      "enabled": false,
+      "proxy": false
+    },
+    {
+      "id": "qbitai",
+      "name": "量子位",
+      "url": "https://www.qbitai.com/feed",
+      "enabled": true,
+      "proxy": false
+    }
+  ],
+  "fetchIntervalMinutes": 60,
+  "maxItemsPerFeed": 10
+}
