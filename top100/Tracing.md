@@ -9,7 +9,7 @@
 | 1 | [signoz](https://github.com/SigNoz/signoz) | 26,998 | 2,178 | TypeScript | 1235 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s... | 2026-05-22 |
 | 2 | [jaeger](https://github.com/jaegertracing/jaeger) | 22,825 | 2,913 | Go | 297 | CNCF Jaeger, a Distributed Tracing Platform | 2026-05-21 |
 | 3 | [gofr](https://github.com/gofr-dev/gofr) | 21,453 | 1,762 | Go | 75 | An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. | 2026-05-21 |
-| 4 | [opik](https://github.com/comet-ml/opik) | 19,355 | 1,481 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
+| 4 | [opik](https://github.com/comet-ml/opik) | 19,356 | 1,481 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
 | 5 | [cat](https://github.com/dianping/cat) | 18,949 | 5,416 | Java | 194 | CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 | 2025-01-04 |
 | 6 | [zipkin](https://github.com/openzipkin/zipkin) | 17,429 | 3,101 | Java | 168 | Zipkin is a distributed tracing system | 2026-04-08 |
 | 7 | [RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,165 | 3,606 | Python | 17 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal... | 2026-02-11 |
@@ -21,7 +21,7 @@
 | 13 | [coroot](https://github.com/coroot/coroot) | 7,657 | 372 | Go | 111 | Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and ... | 2026-05-19 |
 | 14 | [tracing](https://github.com/tokio-rs/tracing) | 6,693 | 892 | Rust | 613 | Application level tracing for Rust. | 2026-05-19 |
 | 15 | [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | 6,396 | 1,356 | Go | 133 | OpenTelemetry Go API and SDK | 2026-05-22 |
-| 16 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6,221 | 2,362 | TypeScript | 6 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies. | 2026-05-21 |
+| 16 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6,222 | 2,362 | TypeScript | 6 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies. | 2026-05-21 |
 | 17 | [btrace](https://github.com/btraceio/btrace) | 5,990 | 957 | Java | 3 | BTrace - a safe, dynamic tracing tool for the Java platform | 2026-05-19 |
 | 18 | [perfetto](https://github.com/google/perfetto) | 5,966 | 789 | C++ | 107 | Production-grade client-side tracing, profiling, and analysis for complex software systems. | 2026-05-22 |
 | 19 | [Discovery](https://github.com/Nepxion/Discovery) | 5,765 | 1,417 | Java | 14 | ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活 | 2025-08-02 |
@@ -35,9 +35,9 @@
 | 27 | [hubble](https://github.com/cilium/hubble) | 4,193 | 282 | Makefile | 47 | Hubble - Network, Service & Security Observability for Kubernetes using eBPF | 2026-05-20 |
 | 28 | [deepflow](https://github.com/deepflowio/deepflow) | 4,092 | 458 | Go | 156 | eBPF Observability - Distributed Tracing and Profiling | 2026-05-22 |
 | 29 | [deepops](https://github.com/deepops-ai/deepops) | 3,969 | 500 | TypeScript | 43 | Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.  | 2025-03-04 |
-| 30 | [axonhub](https://github.com/looplj/axonhub) | 3,920 | 478 | Go | 38 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. | 2026-05-22 |
+| 30 | [axonhub](https://github.com/looplj/axonhub) | 3,921 | 478 | Go | 38 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. | 2026-05-22 |
 | 31 | [pwru](https://github.com/cilium/pwru) | 3,751 | 225 | C | 29 | Packet, where are you? -- eBPF-based Linux kernel networking debugger | 2026-05-22 |
-| 32 | [odigos](https://github.com/odigos-io/odigos) | 3,659 | 250 | Go | 4 | Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF | 2026-05-22 |
+| 32 | [odigos](https://github.com/odigos-io/odigos) | 3,659 | 249 | Go | 4 | Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF | 2026-05-22 |
 | 33 | [datadog-agent](https://github.com/DataDog/datadog-agent) | 3,624 | 1,433 | Go | 71 | Main repository for Datadog Agent | 2026-05-22 |
 | 34 | [uftrace](https://github.com/namhyung/uftrace) | 3,431 | 544 | C | 327 | Function graph tracer for C/C++/Rust/Python | 2026-05-13 |
 | 35 | [SpartanEngine](https://github.com/PanosK92/SpartanEngine) | 3,037 | 265 | C++ | 6 | A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz, built over 10+ years of R... | 2026-05-21 |
@@ -77,7 +77,7 @@
 | 69 | [linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop) | 1,320 | 296 | HTML | 4 | Examples and hands-on labs for Linux tracing tools workshops | 2020-06-19 |
 | 70 | [tracetest](https://github.com/kubeshop/tracetest) | 1,317 | 92 | Go | 158 | 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing. | 2025-06-03 |
 | 71 | [Q2RTX](https://github.com/NVIDIA/Q2RTX) | 1,313 | 201 | C | 0 | NVIDIA’s implementation of RTX ray-tracing in Quake II | 2025-12-11 |
-| 72 | [measure](https://github.com/measure-sh/measure) | 1,280 | 75 | TypeScript | 120 | Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics. | 2026-05-22 |
+| 72 | [measure](https://github.com/measure-sh/measure) | 1,280 | 75 | TypeScript | 121 | Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics. | 2026-05-22 |
 | 73 | [nanoscope](https://github.com/uber/nanoscope) | 1,277 | 68 | HTML | 31 |  An extremely accurate Android method tracing tool. | 2020-05-18 |
 | 74 | [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) | 1,270 | 67 | C++ | 0 | A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++. | 2024-10-15 |
 | 75 | [ipyflow](https://github.com/ipyflow/ipyflow) | 1,267 | 24 | Python | 33 | A reactive Python kernel for Jupyter notebooks. | 2026-04-22 |
