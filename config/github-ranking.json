@@ -19,7 +19,6 @@
         "Autonomous Agents",
         "LLM Workflows",
         "Agent Runtime",
-        "Tool Calling",
         "Function Calling",
         "Workflow Engine",
         "Task Planning",
@@ -37,7 +36,6 @@
         "Coding Agent",
         "AI Coding Assistant",
         "Terminal Agent",
-        "Code Interpreter",
         "Self-Healing Code",
         "DevOps AI"
       ]
@@ -49,7 +47,6 @@
         "Browser Automation",
         "Computer Use",
         "Web Agent",
-        "GUI Agent",
         "Desktop Automation",
         "Browser Agent",
         "Operator"
