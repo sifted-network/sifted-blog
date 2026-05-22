@@ -6,10 +6,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [signoz](https://github.com/SigNoz/signoz) | 26,991 | 2,177 | TypeScript | 1235 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s... | 2026-05-21 |
+| 1 | [signoz](https://github.com/SigNoz/signoz) | 26,992 | 2,177 | TypeScript | 1235 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s... | 2026-05-21 |
 | 2 | [jaeger](https://github.com/jaegertracing/jaeger) | 22,826 | 2,915 | Go | 296 | CNCF Jaeger, a Distributed Tracing Platform | 2026-05-21 |
 | 3 | [gofr](https://github.com/gofr-dev/gofr) | 21,453 | 1,762 | Go | 75 | An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. | 2026-05-21 |
-| 4 | [opik](https://github.com/comet-ml/opik) | 19,352 | 1,482 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
+| 4 | [opik](https://github.com/comet-ml/opik) | 19,351 | 1,482 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
 | 5 | [cat](https://github.com/dianping/cat) | 18,949 | 5,416 | Java | 194 | CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 | 2025-01-04 |
 | 6 | [zipkin](https://github.com/openzipkin/zipkin) | 17,429 | 3,101 | Java | 168 | Zipkin is a distributed tracing system | 2026-04-08 |
 | 7 | [RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,165 | 3,606 | Python | 17 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal... | 2026-02-11 |
@@ -27,7 +27,7 @@
 | 19 | [Discovery](https://github.com/Nepxion/Discovery) | 5,765 | 1,417 | Java | 14 | ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活 | 2025-08-02 |
 | 20 | [The-Forge](https://github.com/ConfettiFX/The-Forge) | 5,549 | 559 | C++ | 14 | The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 | 2025-07-03 |
 | 21 | [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) | 5,525 | 1,843 | - | 54 | Sysmon configuration file template with default high-quality event tracing | 2024-07-03 |
-| 22 | [magic-trace](https://github.com/janestreet/magic-trace) | 5,519 | 155 | OCaml | 39 | magic-trace collects and displays high-resolution traces of what a process is doing | 2026-05-21 |
+| 22 | [magic-trace](https://github.com/janestreet/magic-trace) | 5,523 | 155 | OCaml | 39 | magic-trace collects and displays high-resolution traces of what a process is doing | 2026-05-21 |
 | 23 | [tempo](https://github.com/grafana/tempo) | 5,270 | 704 | Go | 88 | Grafana Tempo is a high volume, minimal dependency distributed tracing backend. | 2026-05-21 |
 | 24 | [openmoonray](https://github.com/OpenMoonRay/openmoonray) | 4,637 | 300 | CMake | 68 | MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation. | 2026-05-20 |
 | 25 | [opentrace](https://github.com/Archeb/opentrace) | 4,255 | 173 | C# | 12 | Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. | 2026-04-20 |
@@ -35,7 +35,7 @@
 | 27 | [hubble](https://github.com/cilium/hubble) | 4,193 | 282 | Makefile | 47 | Hubble - Network, Service & Security Observability for Kubernetes using eBPF | 2026-05-20 |
 | 28 | [deepflow](https://github.com/deepflowio/deepflow) | 4,090 | 457 | Go | 156 | eBPF Observability - Distributed Tracing and Profiling | 2026-05-22 |
 | 29 | [deepops](https://github.com/deepops-ai/deepops) | 3,969 | 500 | TypeScript | 43 | Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.  | 2025-03-04 |
-| 30 | [axonhub](https://github.com/looplj/axonhub) | 3,908 | 474 | Go | 38 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. | 2026-05-22 |
+| 30 | [axonhub](https://github.com/looplj/axonhub) | 3,911 | 474 | Go | 38 | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. | 2026-05-22 |
 | 31 | [pwru](https://github.com/cilium/pwru) | 3,751 | 225 | C | 29 | Packet, where are you? -- eBPF-based Linux kernel networking debugger | 2026-05-22 |
 | 32 | [odigos](https://github.com/odigos-io/odigos) | 3,659 | 250 | Go | 4 | Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF | 2026-05-22 |
 | 33 | [datadog-agent](https://github.com/DataDog/datadog-agent) | 3,624 | 1,433 | Go | 71 | Main repository for Datadog Agent | 2026-05-22 |
@@ -44,7 +44,7 @@
 | 36 | [web-tracing](https://github.com/M-cheng-web/web-tracing) | 2,927 | 333 | TypeScript | 14 | 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 | 2026-04-08 |
 | 37 | [apitrace](https://github.com/apitrace/apitrace) | 2,825 | 512 | C++ | 139 | Tools for tracing OpenGL, Direct3D, and other graphics APIs | 2026-05-11 |
 | 38 | [embree](https://github.com/RenderKit/embree) | 2,696 | 428 | C++ | 39 | Embree ray tracing kernels repository. | 2026-05-08 |
-| 39 | [libbpf](https://github.com/libbpf/libbpf) | 2,691 | 491 | C | 28 | Automated upstream mirror for libbpf stand-alone build. | 2026-04-09 |
+| 39 | [libbpf](https://github.com/libbpf/libbpf) | 2,692 | 491 | C | 28 | Automated upstream mirror for libbpf stand-alone build. | 2026-04-09 |
 | 40 | [tracing-framework](https://github.com/google/tracing-framework) | 2,629 | 193 | JavaScript | 114 | Web Tracing Framework libraries and extensions. | 2019-12-10 |
 | 41 | [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) | 2,586 | 275 | Go | 10 | Prometheus exporter for custom eBPF metrics | 2026-04-30 |
 | 42 | [opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) | 2,583 | 663 | Rust | 211 | The Rust OpenTelemetry implementation | 2026-05-21 |
@@ -97,9 +97,9 @@
 | 89 | [future-agi](https://github.com/future-agi/future-agi) | 1,015 | 204 | Python | 53 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0. | 2026-05-21 |
 | 90 | [fsmon](https://github.com/nowsecure/fsmon) | 1,012 | 159 | C | 21 | Filesystem monitor tool for Linux/Android iOS/macOS | 2026-04-11 |
 | 91 | [Radiance](https://github.com/Minecraft-Radiance/Radiance) | 1,009 | 43 | Java | 172 | Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows & Linux. Break free from OpenGL limits for Minecraft. | 2026-05-06 |
-| 92 | [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) | 1,007 | 137 | C | 109 | OpenTelemetry Auto Instrumentation using eBPF | 2026-05-22 |
+| 92 | [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) | 1,008 | 137 | C | 109 | OpenTelemetry Auto Instrumentation using eBPF | 2026-05-22 |
 | 93 | [hybrid-rendering](https://github.com/diharaw/hybrid-rendering) | 987 | 53 | C++ | 2 | A Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline. | 2025-08-07 |
-| 94 | [openinference](https://github.com/Arize-ai/openinference) | 985 | 240 | Python | 134 | OpenTelemetry Instrumentation for AI Observability | 2026-05-21 |
+| 94 | [openinference](https://github.com/Arize-ai/openinference) | 986 | 240 | Python | 134 | OpenTelemetry Instrumentation for AI Observability | 2026-05-22 |
 | 95 | [ebpf-slide](https://github.com/gojue/ebpf-slide) | 980 | 212 | - | 0 | Collection of Linux eBPF slides/documents. | 2023-11-15 |
 | 96 | [RTXPT](https://github.com/NVIDIA-RTX/RTXPT) | 968 | 100 | C++ | 10 | Real-time path tracing library and sample | 2026-03-19 |
 | 97 | [Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) | 955 | 167 | Go | 0 | Golang Clean Architecture REST API example | 2024-05-20 |
