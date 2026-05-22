@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,662 | 2,828 | TypeScript | 315 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-21 |
+| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,667 | 2,828 | TypeScript | 315 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-21 |
 | 2 | [promptfoo](https://github.com/promptfoo/promptfoo) | 21,470 | 1,884 | TypeScript | 75 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ... | 2026-05-22 |
 | 3 | [Kiln](https://github.com/Kiln-AI/Kiln) | 4,843 | 368 | Python | 22 | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | 2026-05-21 |
 | 4 | [agenta](https://github.com/Agenta-AI/agenta) | 4,140 | 522 | TypeScript | 66 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place. | 2026-05-21 |
