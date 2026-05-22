@@ -19,13 +19,10 @@
         "Autonomous Agents",
         "LLM Workflows",
         "Agent Runtime",
-        "Function Calling",
         "Workflow Engine",
         "Task Planning",
         "Reasoning",
-        "Memory",
-        "Reflection",
-        "Long-Term Memory"
+        "Memory"
       ]
     },
     {
@@ -33,8 +30,7 @@
       "desc": "AI Coding Assistant",
       "topics": [
         "Coding Agent",
-        "Self-Healing Code",
-        "DevOps AI"
+        "Self-Healing Code"
       ]
     },
     {
@@ -55,16 +51,7 @@
         "Vector Database",
         "Semantic Search",
         "Memory System",
-        "Retrieval-Augmented Generation",
         "Knowledge Graph"
-      ]
-    },
-    {
-      "name": "MCP",
-      "desc": "Model Context Protocol",
-      "topics": [
-        "Model Context Protocol",
-        "Tool Integration"
       ]
     },
     {
@@ -72,8 +59,7 @@
       "desc": "Inference & Local AI",
       "topics": [
         "Local LLM",
-        "Inference Engine",
-        "Quantization"
+        "Inference Engine"
       ]
     },
     {
@@ -82,10 +68,7 @@
       "topics": [
         "LLM Observability",
         "AI Evaluation",
-        "Telemetry",
-        "Guardrails",
-        "AI Safety",
-        "Prompt Evaluation"
+        "AI Safety"
       ]
     }
   ]
