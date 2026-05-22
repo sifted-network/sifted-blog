@@ -7,7 +7,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [memvid](https://github.com/memvid/memvid) | 15,549 | 1,338 | Rust | 16 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | 2026-05-06 |
-| 2 | [EverOS](https://github.com/EverMind-AI/EverOS) | 5,474 | 585 | Python | 53 | Build, evaluate, and integrate long-term memory for self-evolving agents. | 2026-05-21 |
+| 2 | [EverOS](https://github.com/EverMind-AI/EverOS) | 5,476 | 585 | Python | 53 | Build, evaluate, and integrate long-term memory for self-evolving agents. | 2026-05-21 |
 | 3 | [TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) | 3,819 | 304 | TypeScript | 18 | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. | 2026-05-21 |
 | 4 | [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) | 3,536 | 358 | Python | 19 | [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized... | 2025-09-04 |
 | 5 | [vault-ai](https://github.com/pashpashpash/vault-ai) | 3,395 | 300 | JavaScript | 45 | OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend. | 2025-07-08 |
@@ -58,8 +58,8 @@
 | 50 | [MeMViT](https://github.com/facebookresearch/MeMViT) | 155 | 12 | Python | 8 | Code Release for MeMViT Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition, CVPR 2022 | 2022-11-30 |
 | 51 | [langchain4j-aideepin-web](https://github.com/moyangzhan/langchain4j-aideepin-web) | 146 | 79 | Vue | 2 | 基于AI的工作效率提升工具（聊天、绘画、知识库、工作流、 MCP服务市场、语音输入输出、长期记忆） \| Ai-based productivity tools (Chat,Draw,RAG,Workflow,MCP marketplace, ASR,TTS, Long-term memory etc) | 2026-05-13 |
 | 52 | [PlugMem](https://github.com/TIMAN-group/PlugMem) | 131 | 12 | Python | 1 | ICML 2026 · Plug-and-play long-term memory for LLM agents | 2026-05-12 |
-| 53 | [rememberall](https://github.com/wrannaman/rememberall) | 122 | 6 | JavaScript | 0 | solving long term memory storage for llms | 2025-01-06 |
-| 54 | [XMem](https://github.com/XortexAI/XMem) | 121 | 33 | Python | 16 | Xmem is a India's First open source multi-modal, multi-agentic long‑term memory layer for AI agents.  | 2026-05-22 |
+| 53 | [XMem](https://github.com/XortexAI/XMem) | 124 | 33 | Python | 16 | Xmem is a India's First open source multi-modal, multi-agentic long‑term memory layer for AI agents.  | 2026-05-22 |
+| 54 | [rememberall](https://github.com/wrannaman/rememberall) | 122 | 6 | JavaScript | 0 | solving long term memory storage for llms | 2025-01-06 |
 | 55 | [chatmemory](https://github.com/uezo/chatmemory) | 119 | 9 | Python | 7 | The simple yet powerful long-term memory manager between AI and you💕 | 2025-12-07 |
 | 56 | [OpenMantis](https://github.com/LiangNiang/OpenMantis) | 112 | 9 | TypeScript | 0 | Lightweight multi-platform AI agent chat framework. Connect multiple LLMs to Feishu/WeCom/QQ with composable tools, long-term memory, scheduling & browser automation. \| 轻量级多平台 AI  Agent 聊天框架，连接多个 LLM ... | 2026-05-16 |
 | 57 | [speechless](https://github.com/uukuguy/speechless) | 111 | 10 | Python | 1 | LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities. | 2025-07-29 |
