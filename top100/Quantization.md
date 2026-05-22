@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 71,485 | 8,718 | Python | 966 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2026-05-21 |
-| 2 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 23,058 | 1,880 | Python | 282 | Faster Whisper transcription with CTranslate2 | 2025-11-19 |
+| 1 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 71,487 | 8,718 | Python | 966 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2026-05-21 |
+| 2 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 23,059 | 1,880 | Python | 282 | Faster Whisper transcription with CTranslate2 | 2025-11-19 |
 | 3 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 18,944 | 1,852 | Python | 1 | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs) | 2026-04-19 |
 | 4 | [Qbot](https://github.com/UFund-Me/Qbot) | 17,392 | 2,455 | Jupyter Notebook | 67 | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 2026-03-11 |
 | 5 | [qlora](https://github.com/artidoro/qlora) | 10,909 | 873 | Jupyter Notebook | 193 | QLoRA: Efficient Finetuning of Quantized LLMs | 2024-06-10 |
@@ -30,10 +30,10 @@
 | 22 | [exllama](https://github.com/turboderp/exllama) | 2,920 | 223 | Python | 61 | A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. | 2023-09-30 |
 | 23 | [ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) | 2,877 | 160 | Python | 6 | ComfyUI Plugin of Nunchaku | 2026-02-19 |
 | 24 | [ao](https://github.com/pytorch/ao) | 2,830 | 508 | Python | 413 | PyTorch native quantization and sparsity for training and inference | 2026-05-21 |
-| 25 | [Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 2,737 | 404 | Python | 51 | A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks lik... | 2026-05-22 |
+| 25 | [Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 2,737 | 404 | Python | 52 | A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks lik... | 2026-05-22 |
 | 26 | [pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) | 2,718 | 623 | Python | 8 | Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet) | 2022-11-22 |
 | 27 | [xTuring](https://github.com/stochasticai/xTuring) | 2,666 | 212 | Python | 0 | Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHX... | 2026-03-04 |
-| 28 | [neural-compressor](https://github.com/intel/neural-compressor) | 2,643 | 305 | Python | 1 | SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime | 2026-05-21 |
+| 28 | [neural-compressor](https://github.com/intel/neural-compressor) | 2,643 | 305 | Python | 1 | SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime | 2026-05-22 |
 | 29 | [aimet](https://github.com/qualcomm/aimet) | 2,621 | 451 | Python | 21 | AIMET is a library that provides advanced quantization and compression techniques for trained neural network models. | 2026-05-22 |
 | 30 | [Awesome-Model-Quantization](https://github.com/Efficient-ML/Awesome-Model-Quantization) | 2,379 | 239 | - | 0 | A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (pape... | 2026-05-11 |
 | 31 | [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) | 2,337 | 301 | Python | 201 | AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference. Documentation: | 2025-05-11 |
@@ -43,14 +43,14 @@
 | 35 | [micronet](https://github.com/666DZY666/micronet) | 2,273 | 474 | Python | 92 | micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Ari... | 2025-05-06 |
 | 36 | [AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) | 2,209 | 255 | Jupyter Notebook | 6 | Mastering Applied AI, One Concept at a Time  | 2026-02-27 |
 | 37 | [deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) | 2,164 | 170 | Rust | 15 | Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python. | 2026-02-21 |
-| 38 | [turbovec](https://github.com/RyanCodrai/turbovec) | 2,079 | 185 | Python | 5 | A vector index built on TurboQuant, written in Rust with Python bindings | 2026-05-21 |
+| 38 | [turbovec](https://github.com/RyanCodrai/turbovec) | 2,091 | 186 | Python | 5 | A vector index built on TurboQuant, written in Rust with Python bindings | 2026-05-21 |
 | 39 | [intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) | 2,014 | 315 | Python | 198 | A Python package for extending the official PyTorch that can easily obtain performance on Intel platform | 2026-03-30 |
 | 40 | [ppq](https://github.com/OpenPPL/ppq) | 1,799 | 275 | Python | 81 | PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool. | 2024-03-28 |
 | 41 | [mmrazor](https://github.com/open-mmlab/mmrazor) | 1,671 | 245 | Python | 145 | OpenMMLab Model Compression Toolbox and Benchmark. | 2024-06-11 |
 | 42 | [smoothquant](https://github.com/mit-han-lab/smoothquant) | 1,649 | 204 | Python | 72 | [ICML 2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models | 2024-07-12 |
 | 43 | [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) | 1,615 | 353 | Python | 22 | PaddleSlim is an open-source library for deep model compression and architecture search. | 2026-01-04 |
 | 44 | [picolm](https://github.com/RightNow-AI/picolm) | 1,613 | 201 | C | 13 | Run a 1-billion parameter LLM on a $10 board with 256MB RAM | 2026-02-22 |
-| 45 | [ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | 1,601 | 302 | Markdown | 0 | Your Cheat Sheet for AI Engineering Interview – Questions and Answers. | 2026-05-21 |
+| 45 | [ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | 1,602 | 302 | Markdown | 0 | Your Cheat Sheet for AI Engineering Interview – Questions and Answers. | 2026-05-21 |
 | 46 | [model-optimization](https://github.com/tensorflow/model-optimization) | 1,571 | 347 | Python | 200 | A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning. | 2026-05-19 |
 | 47 | [rwkv.cpp](https://github.com/RWKV/rwkv.cpp) | 1,569 | 128 | C++ | 26 | INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model | 2025-03-23 |
 | 48 | [QNNPACK](https://github.com/pytorch/QNNPACK) | 1,549 | 221 | C | 7 | Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators | 2019-08-28 |
@@ -58,7 +58,7 @@
 | 50 | [turboquant](https://github.com/0xSero/turboquant) | 1,414 | 175 | Python | 8 | TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration | 2026-03-27 |
 | 51 | [auto-round](https://github.com/intel/auto-round) | 1,404 | 134 | Python | 86 | A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers. | 2026-05-22 |
 | 52 | [gpu_poor](https://github.com/RahulSChand/gpu_poor) | 1,399 | 89 | JavaScript | 8 | Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization | 2024-12-03 |
-| 53 | [perfectPixel](https://github.com/theamusing/perfectPixel) | 1,393 | 87 | Python | 1 | Refine and quantize messy AI pixel art into clean, perfect pixels. | 2026-02-01 |
+| 53 | [perfectPixel](https://github.com/theamusing/perfectPixel) | 1,394 | 87 | Python | 1 | Refine and quantize messy AI pixel art into clean, perfect pixels. | 2026-02-01 |
 | 54 | [AQLM](https://github.com/Vahe1994/AQLM) | 1,320 | 194 | Python | 9 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extrem... | 2026-02-26 |
 | 55 | [Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) | 1,302 | 219 | Jupyter Notebook | 26 | Efficient computing methods developed by Huawei Noah's Ark Lab | 2024-11-05 |
 | 56 | [binance-quantization](https://github.com/hengxuZ/binance-quantization) | 1,295 | 330 | Python | 7 | 虚拟货币(BTC、ETH)炒币量化系统项目。币安交易所-量化交易-网格策略实践。火币、OKEX热门交易所未来都支持。最简单收益最靠谱的项目，包教包会。 | 2023-01-30 |
