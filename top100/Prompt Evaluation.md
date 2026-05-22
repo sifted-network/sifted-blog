@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,691 | 2,829 | TypeScript | 317 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-22 |
+| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,692 | 2,829 | TypeScript | 317 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-22 |
 | 2 | [promptfoo](https://github.com/promptfoo/promptfoo) | 21,485 | 1,883 | TypeScript | 75 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ... | 2026-05-22 |
-| 3 | [Kiln](https://github.com/Kiln-AI/Kiln) | 4,843 | 368 | Python | 22 | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | 2026-05-21 |
+| 3 | [Kiln](https://github.com/Kiln-AI/Kiln) | 4,843 | 368 | Python | 22 | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | 2026-05-22 |
 | 4 | [agenta](https://github.com/Agenta-AI/agenta) | 4,140 | 523 | TypeScript | 66 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place. | 2026-05-22 |
 | 5 | [ChainForge](https://github.com/ianarawjo/ChainForge) | 2,985 | 253 | TypeScript | 58 | An open-source visual programming environment for battle-testing prompts to LLMs. | 2026-04-06 |
 | 6 | [promptbench](https://github.com/microsoftarchive/promptbench) | 2,801 | 220 | Python | 0 | A unified evaluation framework for large language models | 2026-02-20 |
