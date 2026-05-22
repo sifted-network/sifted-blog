@@ -7,9 +7,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [flameshot](https://github.com/flameshot-org/flameshot) | 29,941 | 1,926 | C++ | 642 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | 2026-05-21 |
-| 2 | [cua](https://github.com/trycua/cua) | 16,984 | 1,078 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
-| 3 | [Agent-S](https://github.com/simular-ai/Agent-S) | 11,505 | 1,359 | Python | 21 | Agent S: an open agentic framework that uses computers like a human | 2026-05-13 |
-| 4 | [cc-haha](https://github.com/NanmiCoder/cc-haha) | 11,472 | 7,990 | TypeScript | 215 | Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） | 2026-05-21 |
+| 2 | [cua](https://github.com/trycua/cua) | 16,985 | 1,078 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
+| 3 | [Agent-S](https://github.com/simular-ai/Agent-S) | 11,507 | 1,359 | Python | 21 | Agent S: an open agentic framework that uses computers like a human | 2026-05-13 |
+| 4 | [cc-haha](https://github.com/NanmiCoder/cc-haha) | 11,473 | 7,990 | TypeScript | 210 | Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） | 2026-05-21 |
 | 5 | [robotgo](https://github.com/go-vgo/robotgo) | 10,716 | 953 | Go | 133 | RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar | 2026-04-17 |
 | 6 | [Weylus](https://github.com/H-M-H/Weylus) | 9,217 | 367 | Rust | 141 | Use your tablet as graphic tablet/touch screen on your computer. | 2026-04-22 |
 | 7 | [gocv](https://github.com/hybridgroup/gocv) | 7,445 | 896 | Go | 325 | Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO. | 2026-04-24 |
@@ -66,7 +66,7 @@
 | 58 | [Gesture-Controlled-Virtual-Mouse](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) | 794 | 247 | Python | 21 | Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python. | 2023-11-13 |
 | 59 | [surf](https://github.com/e2b-dev/surf) | 790 | 135 | TypeScript | 3 | Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions | 2026-03-16 |
 | 60 | [OpenCUA](https://github.com/xlang-ai/OpenCUA) | 766 | 99 | Python | 14 | [NeurIPS 2025 Spotlight] OpenCUA: Open Foundations for Computer-Use Agents | 2026-02-04 |
-| 61 | [BitFun](https://github.com/GCWing/BitFun) | 755 | 92 | Rust | 13 | BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolv... | 2026-05-22 |
+| 61 | [BitFun](https://github.com/GCWing/BitFun) | 756 | 92 | Rust | 12 | BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolv... | 2026-05-22 |
 | 62 | [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) | 711 | 123 | C | 10 | The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game | 2023-10-12 |
 | 63 | [clickclickclick](https://github.com/instavm/clickclickclick) | 693 | 83 | Python | 1 | Autonomous Android and computer use using any LLM (local or remote) | 2026-03-17 |
 | 64 | [Hardware.Info](https://github.com/Jinjinov/Hardware.Info) | 686 | 107 | C# | 3 | Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info i... | 2026-05-21 |
