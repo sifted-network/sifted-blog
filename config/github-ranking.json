@@ -72,8 +72,7 @@
       "topics": [
         "MCP",
         "Model Context Protocol",
-        "Tool Integration",
-        "Agent Tools"
+        "Tool Integration"
       ]
     },
     {
@@ -83,7 +82,6 @@
         "Local LLM",
         "Inference Engine",
         "Quantization",
-        "GPU Inference",
         "Serving",
         "AI Runtime"
       ]
