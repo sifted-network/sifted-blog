@@ -6,10 +6,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 16,378 | 1,610 | Python | 408 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. | 2026-03-04 |
-| 2 | [aci](https://github.com/aipotheosis-labs/aci) | 4,778 | 456 | Python | 38 | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps. | 2026-04-24 |
-| 3 | [purego](https://github.com/ebitengine/purego) | 3,608 | 107 | Assembly | 12 | A library for calling C functions from Go without Cgo | 2026-05-09 |
-| 4 | [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) | 3,529 | 531 | JavaScript | 10 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns. | 2026-04-26 |
+| 1 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 16,381 | 1,609 | Python | 408 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. | 2026-03-04 |
+| 2 | [aci](https://github.com/aipotheosis-labs/aci) | 4,779 | 456 | Python | 38 | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps. | 2026-04-24 |
+| 3 | [purego](https://github.com/ebitengine/purego) | 3,610 | 107 | Assembly | 12 | A library for calling C functions from Go without Cgo | 2026-05-09 |
+| 4 | [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) | 3,539 | 534 | JavaScript | 10 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns. | 2026-04-26 |
 | 5 | [CodeGeeX4](https://github.com/zai-org/CodeGeeX4) | 2,507 | 260 | Python | 114 | CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more. | 2024-08-25 |
 | 6 | [awesome-llm-json](https://github.com/imaurer/awesome-llm-json) | 2,174 | 93 | - | 3 | Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc. | 2025-02-18 |
 | 7 | [LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) | 1,851 | 135 | Python | 5 | [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling | 2024-07-10 |
@@ -22,7 +22,7 @@
 | 14 | [TinyAgent](https://github.com/SqueezeAILab/TinyAgent) | 484 | 71 | Python | 7 | [EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge! | 2024-09-04 |
 | 15 | [luaffi](https://github.com/jmckaskill/luaffi) | 478 | 83 | C | 36 | Standalone FFI library for calling C functions from lua. Compatible with the luajit FFI interface. | 2020-12-19 |
 | 16 | [local-llm-function-calling](https://github.com/rizerphe/local-llm-function-calling) | 437 | 42 | Python | 6 | A tool for generating function arguments and choosing what function to call with local LLMs | 2024-03-12 |
-| 17 | [appworld](https://github.com/StonyBrookNLP/appworld) | 423 | 68 | Python | 6 | 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper. | 2026-02-17 |
+| 17 | [appworld](https://github.com/StonyBrookNLP/appworld) | 423 | 68 | Python | 7 | 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper. | 2026-02-17 |
 | 18 | [gemini-2-live-api-demo](https://github.com/ViaAnthroposBenevolentia/gemini-2-live-api-demo) | 390 | 163 | JavaScript | 0 | Vanilla JS web interface for Gemini 2.0 flash-exp  Multimodal API with text, audio, camera, screen inputs and audio responses and function calling | 2026-02-06 |
 | 19 | [FableForge](https://github.com/e-johnstonn/FableForge) | 356 | 57 | Python | 0 | Generate a picture book from a single prompt using OpenAI function calling, replicate, and Deep Lake | 2023-12-02 |
 | 20 | [ActionWeaver](https://github.com/TengHu/ActionWeaver) | 328 | 16 | Python | 7 | Make function calling with LLM easier | 2024-11-10 |
@@ -32,11 +32,11 @@
 | 24 | [openai-function-calling-tools](https://github.com/JohannLai/openai-function-calling-tools) | 308 | 29 | TypeScript | 4 | 🛠 openai function calling tools for JS/TS | 2024-01-30 |
 | 25 | [microchain](https://github.com/galatolofederico/microchain) | 291 | 25 | Python | 1 | function calling-based LLM agents | 2024-09-16 |
 | 26 | [pset-9](https://github.com/rprokap/pset-9) | 290 | 98 | JavaScript | 25 |       CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              HEADLINES flash before us, displaying their accompanying       photographs.              "UBERMAN - METRO CITY'S HERO AFTER... | 2024-06-20 |
-| 27 | [Alice](https://github.com/pmbstyle/Alice) | 283 | 38 | TypeScript | 0 | Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more. | 2026-05-18 |
+| 27 | [Alice](https://github.com/pmbstyle/Alice) | 284 | 38 | TypeScript | 0 | Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more. | 2026-05-18 |
 | 28 | [FTC-Skystone-Dark-Angels-Romania-2020](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020) | 281 | 86 | Java | 22 | NOTICE This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season. If you are looking for the current season's FTC SDK software, please visit the new and permanent hom... | 2024-04-12 |
 | 29 | [ZeroHVCI](https://github.com/zer0condition/ZeroHVCI) | 275 | 51 | C | 1 | Achieve arbitrary kernel read/writes/function calling in Hypervisor-Protected Code Integrity (HVCI) protected environments calling without admin permissions or kernel drivers. | 2026-03-16 |
 | 30 | [cffi](https://github.com/python-cffi/cffi) | 263 | 80 | Python | 24 | A Foreign Function Interface package for calling C libraries from Python. | 2026-04-24 |
-| 31 | [Toolify](https://github.com/funnycups/Toolify) | 256 | 41 | Python | 0 | Empower any LLM with function calling capabilities. | 2026-04-14 |
+| 31 | [Toolify](https://github.com/funnycups/Toolify) | 257 | 41 | Python | 0 | Empower any LLM with function calling capabilities. | 2026-04-14 |
 | 32 | [elixir-nodejs](https://github.com/revelrylabs/elixir-nodejs) | 251 | 37 | Elixir | 6 | An Elixir API for calling Node.js functions | 2026-03-23 |
 | 33 | [empower-functions](https://github.com/empower-ai/empower-functions) | 220 | 17 | Python | 1 | GPT-4 level function calling models for real-world tool using use cases | 2024-10-05 |
 | 34 | [PolyMind](https://github.com/itsme2417/PolyMind) | 213 | 14 | Python | 1 | A multimodal, function calling powered LLM webui.  | 2024-09-23 |
@@ -93,7 +93,7 @@
 | 85 | [ollama-function-calling](https://github.com/BassAzayda/ollama-function-calling) | 68 | 11 | Python | 1 |  | 2024-07-04 |
 | 86 | [FnCTOD](https://github.com/facebookresearch/FnCTOD) | 68 | 17 | Python | 0 | Official code for the publication "Large Language Models as Zero-shot Dialogue State Tracker through Function Calling" https//arxiv.org/abs/2402.10466 | 2024-08-14 |
 | 87 | [chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) | 68 | 9 | JavaScript | 0 | LLM Client with Function Calling \| LLM客户端，支持联网，IO操作和执行代码 | 2025-05-30 |
-| 88 | [freepik-mcp](https://github.com/freepik-company/freepik-mcp) | 67 | 17 | HTML | 4 | The Freepik enables popular agent Model Context Protocol (MCP) to integrate with Freepik APIs through function calling. | 2025-07-29 |
+| 88 | [freepik-mcp](https://github.com/freepik-company/freepik-mcp) | 66 | 16 | HTML | 4 | The Freepik enables popular agent Model Context Protocol (MCP) to integrate with Freepik APIs through function calling. | 2025-07-29 |
 | 89 | [CallingGPT](https://github.com/RockChinQ/CallingGPT) | 64 | 4 | Python | 4 | Build your own ChatGPT plugin platform with GPT's function calling ability \| func call by GPT | 2023-07-08 |
 | 90 | [spring-ai-apps](https://github.com/Mark7766/spring-ai-apps) | 64 | 26 | Java | 0 | Easily get started with Spring-AI to develop various AI applications, including TextToSQL and private data AI application development. In addition to these capabilities, Spring-AI also supports integr... | 2025-12-19 |
 | 91 | [function-calling-extension](https://github.com/copilot-extensions/function-calling-extension) | 63 | 28 | Go | 0 | An example extension in go using function calling and confirmation dialogs | 2025-07-18 |
