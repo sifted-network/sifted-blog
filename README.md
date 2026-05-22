@@ -2,21 +2,252 @@
 
 <a name="top"></a>
 
-> Updated: 2026-05-22T09:57:20.760Z
+> Updated: 2026-05-22T11:28:19.434Z
 
 🔥 Auto-updated A curated list of the most starred AI agent-related repositories on GitHub.
 
 ## Table of Contents
 
+* [Agent Core](#Agent-Core) - Core Agent Infrastructure
+  * [AI Agents](#AI-Agents)
+  * [Agent Framework](#Agent-Framework)
+  * [Multi-Agent](#Multi-Agent)
+  * [Agent Orchestration](#Agent-Orchestration)
+  * [Autonomous Agents](#Autonomous-Agents)
+  * [LLM Workflows](#LLM-Workflows)
+  * [Agent Runtime](#Agent-Runtime)
+  * [Workflow Engine](#Workflow-Engine)
+  * [Task Planning](#Task-Planning)
+  * [Reasoning](#Reasoning)
+  * [Memory](#Memory)
+* [Coding Agent](#Coding-Agent) - AI Coding Assistant
+  * [Coding Agent](#Coding-Agent)
+  * [Self-Healing Code](#Self-Healing-Code)
+* [Computer Use](#Computer-Use) - Browser & Computer Automation
+  * [Browser Automation](#Browser-Automation)
+  * [Computer Use](#Computer-Use)
+  * [Desktop Automation](#Desktop-Automation)
+* [Knowledge](#Knowledge) - RAG & Knowledge Management
+  * [RAG](#RAG)
+  * [Knowledge Base](#Knowledge-Base)
+  * [Vector Database](#Vector-Database)
+  * [Semantic Search](#Semantic-Search)
+  * [Memory System](#Memory-System)
+  * [Knowledge Graph](#Knowledge-Graph)
+* [Inference](#Inference) - Inference & Local AI
+  * [Local LLM](#Local-LLM)
+  * [Inference Engine](#Inference-Engine)
 * [Observability](#Observability) - LLM Observability & Evaluation
   * [LLM Observability](#LLM-Observability)
   * [AI Evaluation](#AI-Evaluation)
-  * [Agent Benchmark](#Agent-Benchmark)
-  * [Tracing](#Tracing)
-  * [Telemetry](#Telemetry)
-  * [Guardrails](#Guardrails)
   * [AI Safety](#AI-Safety)
-  * [Prompt Evaluation](#Prompt-Evaluation)
+
+---
+
+## Agent Core  
+
+> Core Agent Infrastructure
+
+[⬆ Back to Top](#top)
+
+### AI Agents
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 AI Agents](top100/AI%20Agents.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 184,450 | 46,227 | Python | 258 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2026-05-22 |
+| 2 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | 162,412 | 26,484 | Python | 4523 | The agent that grows with you | 2026-05-22 |
+| 3 | [langflow](https://github.com/langflow-ai/langflow) | 148,649 | 9,088 | Python | 245 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 2026-05-22 |
+| 4 | [dify](https://github.com/langgenius/dify) | 142,252 | 22,369 | TypeScript | 280 | Production-ready platform for agentic workflow development. | 2026-05-22 |
+| 5 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 138,058 | 34,409 | - | 91 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V... | 2026-05-18 |
+| 6 | [langchain](https://github.com/langchain-ai/langchain) | 137,381 | 22,721 | Python | 415 | The agent engineering platform. | 2026-05-22 |
+| 7 | [firecrawl](https://github.com/firecrawl/firecrawl) | 122,900 | 7,454 | TypeScript | 76 | 🔥 Search, scrape, and clean the web for AI agents. | 2026-05-22 |
+| 8 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 111,398 | 16,539 | Python | 2 | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. | 2026-05-21 |
+| 9 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | 104,487 | 13,793 | TypeScript | 1248 | An open-source AI agent that brings the power of Gemini directly into your terminal. | 2026-05-22 |
+| 10 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 104,038 | 17,105 | Shell | 58 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a... | 2026-04-12 |
+
+### Agent Framework
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 Agent Framework](top100/Agent%20Framework.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [superpowers](https://github.com/obra/superpowers) | 202,368 | 18,025 | Shell | 141 | An agentic skills framework & software development methodology that works. | 2026-05-21 |
+| 2 | [langchain](https://github.com/langchain-ai/langchain) | 137,381 | 22,721 | Python | 415 | The agent engineering platform. | 2026-05-22 |
+| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 78,441 | 15,290 | Python | 210 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
+| 4 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 68,213 | 8,690 | Python | 22 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 2026-01-21 |
+| 5 | [autogen](https://github.com/microsoft/autogen) | 58,286 | 8,800 | Python | 526 | A programming framework for agentic AI | 2026-04-15 |
+| 6 | [crewAI](https://github.com/crewAIInc/crewAI) | 51,952 | 7,203 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-22 |
+| 7 | [llama_index](https://github.com/run-llama/llama_index) | 49,581 | 7,446 | Python | 185 | LlamaIndex is the leading document agent and OCR platform | 2026-05-20 |
+| 8 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | 32,821 | 2,259 | Python | 911 | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | 2026-05-22 |
+| 9 | [langgraph](https://github.com/langchain-ai/langgraph) | 32,691 | 5,532 | Python | 306 | Build resilient agents. | 2026-05-21 |
+| 10 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,571 | 4,077 | Python | 43 | A lightweight, powerful framework for multi-agent workflows | 2026-05-22 |
+
+### Multi-Agent
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 Multi-Agent](top100/Multi-Agent.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 78,441 | 15,290 | Python | 210 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
+| 2 | [deer-flow](https://github.com/bytedance/deer-flow) | 69,095 | 9,248 | Python | 534 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta... | 2026-05-22 |
+| 3 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 68,213 | 8,690 | Python | 22 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 2026-01-21 |
+| 4 | [ruflo](https://github.com/ruvnet/ruflo) | 54,058 | 6,128 | TypeScript | 412 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-22 |
+| 5 | [CowAgent](https://github.com/zhayujie/CowAgent) | 44,714 | 10,120 | Python | 285 | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文... | 2026-05-22 |
+| 6 | [LibreChat](https://github.com/danny-avila/LibreChat) | 37,317 | 7,686 | TypeScript | 270 | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se... | 2026-05-22 |
+| 7 | [agents](https://github.com/wshobson/agents) | 35,788 | 3,887 | Python | 1 | Intelligent automation and multi-agent orchestration for Claude Code | 2026-05-21 |
+| 8 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,559 | 3,165 | TypeScript | 0 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-22 |
+| 9 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 33,166 | 4,112 | Python | 37 | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | 2026-05-12 |
+| 10 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,571 | 4,077 | Python | 43 | A lightweight, powerful framework for multi-agent workflows | 2026-05-22 |
+
+### Agent Orchestration
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 Agent Orchestration](top100/Agent%20Orchestration.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [dify](https://github.com/langgenius/dify) | 142,252 | 22,369 | TypeScript | 280 | Production-ready platform for agentic workflow development. | 2026-05-22 |
+| 2 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 58,997 | 4,796 | TypeScript | 316 | omo; the best agent harness - previously oh-my-opencode | 2026-05-22 |
+| 3 | [ruflo](https://github.com/ruvnet/ruflo) | 54,058 | 6,128 | TypeScript | 412 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-22 |
+| 4 | [crewAI](https://github.com/crewAIInc/crewAI) | 51,952 | 7,203 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-22 |
+| 5 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 44,507 | 3,830 | Python | 321 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | 2026-04-27 |
+| 6 | [agents](https://github.com/wshobson/agents) | 35,788 | 3,887 | Python | 1 | Intelligent automation and multi-agent orchestration for Claude Code | 2026-05-21 |
+| 7 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,559 | 3,165 | TypeScript | 0 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-22 |
+| 8 | [sim](https://github.com/simstudioai/sim) | 28,583 | 3,618 | TypeScript | 100 | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | 2026-05-22 |
+| 9 | [FastGPT](https://github.com/labring/FastGPT) | 28,122 | 7,104 | TypeScript | 166 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 2026-05-22 |
+| 10 | [haystack](https://github.com/deepset-ai/haystack) | 25,339 | 2,802 | MDX | 91 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-22 |
+
+### Autonomous Agents
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 Autonomous Agents](top100/Autonomous%20Agents.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [cline](https://github.com/cline/cline) | 62,168 | 6,497 | TypeScript | 479 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-22 |
+| 2 | [ruflo](https://github.com/ruvnet/ruflo) | 54,058 | 6,128 | TypeScript | 412 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-22 |
+| 3 | [crewAI](https://github.com/crewAIInc/crewAI) | 51,952 | 7,203 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-22 |
+| 4 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | 46,092 | 4,383 | TypeScript | 876 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | 2026-05-22 |
+| 5 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 36,115 | 9,350 | TypeScript | 132 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 2025-04-29 |
+| 6 | [khoj](https://github.com/khoj-ai/khoj) | 34,654 | 2,203 | Python | 81 | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ... | 2026-03-26 |
+| 7 | [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 27,952 | 2,915 | - | 113 | A list of AI autonomous agents | 2025-02-26 |
+| 8 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 27,228 | 3,657 | Python | 177 | An autonomous agent that conducts deep research on any data using any LLM providers | 2026-04-16 |
+| 9 | [agenticSeek](https://github.com/Fosowl/agenticSeek) | 26,391 | 2,957 | Python | 25 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993... | 2026-05-17 |
+| 10 | [dexter](https://github.com/virattt/dexter) | 25,984 | 3,189 | TypeScript | 35 | An autonomous agent for deep financial research | 2026-05-20 |
+
+### LLM Workflows
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 LLM Workflows](top100/LLM%20Workflows.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [dify](https://github.com/langgenius/dify) | 142,252 | 22,369 | TypeScript | 280 | Production-ready platform for agentic workflow development. | 2026-05-22 |
+| 2 | [MinerU](https://github.com/opendatalab/MinerU) | 64,482 | 5,447 | Python | 9 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | 2026-05-21 |
+| 3 | [nanobot](https://github.com/HKUDS/nanobot) | 42,988 | 7,572 | Python | 262 | Lightweight, open-source AI agent for your tools, chats, and workflows. | 2026-05-22 |
+| 4 | [FastGPT](https://github.com/labring/FastGPT) | 28,122 | 7,104 | TypeScript | 166 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 2026-05-22 |
+| 5 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,571 | 4,077 | Python | 43 | A lightweight, powerful framework for multi-agent workflows | 2026-05-22 |
+| 6 | [haystack](https://github.com/deepset-ai/haystack) | 25,339 | 2,802 | MDX | 91 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-22 |
+| 7 | [mastra](https://github.com/mastra-ai/mastra) | 24,195 | 2,105 | TypeScript | 211 | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | 2026-05-22 |
+| 8 | [skyvern](https://github.com/Skyvern-AI/skyvern) | 21,696 | 2,017 | Python | 39 | Automate browser based workflows with AI | 2026-05-22 |
+| 9 | [opik](https://github.com/comet-ml/opik) | 19,356 | 1,481 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
+| 10 | [unstructured](https://github.com/Unstructured-IO/unstructured) | 14,757 | 1,235 | HTML | 179 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to... | 2026-05-18 |
+
+### Agent Runtime
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 Agent Runtime](top100/Agent%20Runtime.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,217 | 881 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
+| 2 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,760 | 871 | Python | 49 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-22 |
+| 3 | [electric](https://github.com/electric-sql/electric) | 10,202 | 331 | TypeScript | 234 | The agent platform built on sync. | 2026-05-21 |
+| 4 | [deeplake](https://github.com/activeloopai/deeplake) | 9,131 | 710 | C++ | 54 | Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training. | 2026-05-21 |
+| 5 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6,223 | 2,362 | TypeScript | 6 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies. | 2026-05-21 |
+| 6 | [OpenShell](https://github.com/NVIDIA/OpenShell) | 6,168 | 729 | Rust | 131 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-05-22 |
+| 7 | [holaOS](https://github.com/holaboss-ai/holaOS) | 5,634 | 392 | TypeScript | 4 | Turn repeat work into running AI work-streams. | 2026-05-22 |
+| 8 | [archestra](https://github.com/archestra-ai/archestra) | 3,726 | 849 | TypeScript | 82 | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | 2026-05-22 |
+| 9 | [neo](https://github.com/neomjs/neo) | 3,183 | 209 | JavaScript | 278 | The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time. | 2026-05-22 |
+| 10 | [china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,001 | 289 | HTML | 849 | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on ac... | 2026-02-05 |
+
+### Workflow Engine
+
+[⬆ Back to Top](#top)
+
+Top 10 of [Top 100 Workflow Engine](top100/Workflow%20Engine.md)
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [conductor](https://github.com/conductor-oss/conductor) | 31,836 | 901 | Java | 128 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents | 2026-05-22 |
+| 2 | [argo-workflows](https://github.com/argoproj/argo-workflows) | 16,698 | 3,546 | Go | 1172 | Workflow Engine for Kubernetes | 2026-05-22 |
+| 3 | [windmill](https://github.com/windmill-labs/windmill) | 16,551 | 965 | HTML | 544 | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. | 2026-05-22 |
+| 4 | [Activiti](https://github.com/Activiti/Activiti) | 10,523 | 6,931 | Java | 566 | Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng... | 2026-05-22 |
+| 5 | [flowable-engine](https://github.com/flowable/flowable-engine) | 9,276 | 2,845 | Java | 359 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. | 2026-05-21 |
+| 6 | [litegraph.js](https://github.com/jagenjo/litegraph.js) | 8,010 | 835 | JavaScript | 130 | A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t... | 2024-08-01 |
+| 7 | [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) | 7,813 | 759 | - | 22 | A curated list of awesome open source workflow engines | 2026-04-06 |
+| 8 | [elsa-core](https://github.com/elsa-workflows/elsa-core) | 7,749 | 1,501 | C# | 778 | The Workflow Engine for .NET | 2026-05-21 |
+| 9 | [hatchet](https://github.com/hatchet-dev/hatchet) | 7,200 | 390 | Go | 52 | 🪓 An orchestration engine for background tasks, AI agents, and durable workflows | 2026-05-22 |
+| 10 | [st2](https://github.com/StackStorm/st2) | 6,474 | 781 | Python | 546 | StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i... | 2026-02-19 |
+
+
+[⬆ Back to Top](#top)
+
+---
+
+## Coding Agent  
+
+> AI Coding Assistant
+
+[⬆ Back to Top](#top)
+
+
+[⬆ Back to Top](#top)
+
+---
+
+## Computer Use  
+
+> Browser & Computer Automation
+
+[⬆ Back to Top](#top)
+
+
+[⬆ Back to Top](#top)
+
+---
+
+## Knowledge  
+
+> RAG & Knowledge Management
+
+[⬆ Back to Top](#top)
+
+
+[⬆ Back to Top](#top)
+
+---
+
+## Inference  
+
+> Inference & Local AI
+
+[⬆ Back to Top](#top)
+
+
+[⬆ Back to Top](#top)
 
 ---
 
@@ -25,158 +256,6 @@
 > LLM Observability & Evaluation
 
 [⬆ Back to Top](#top)
-
-### LLM Observability
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 LLM Observability](top100/LLM%20Observability.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,694 | 2,829 | TypeScript | 317 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-22 |
-| 2 | [mlflow](https://github.com/mlflow/mlflow) | 26,056 | 5,768 | Python | 1524 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin... | 2026-05-22 |
-| 3 | [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 20,032 | 1,002 | Dockerfile | 21 | Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati... | 2025-06-27 |
-| 4 | [openobserve](https://github.com/openobserve/openobserve) | 18,922 | 822 | TypeScript | 524 | Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El... | 2026-05-22 |
-| 5 | [kubesphere](https://github.com/kubesphere/kubesphere) | 16,942 | 2,740 | Go | 337 | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ | 2026-05-06 |
-| 6 | [RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,165 | 3,606 | Python | 17 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal... | 2026-02-11 |
-| 7 | [tensorzero](https://github.com/tensorzero/tensorzero) | 11,386 | 830 | Rust | 334 | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | 2026-05-21 |
-| 8 | [bisheng](https://github.com/dataelement/bisheng) | 11,378 | 1,870 | TypeScript | 104 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF... | 2026-05-22 |
-| 9 | [voltagent](https://github.com/VoltAgent/voltagent) | 9,079 | 924 | TypeScript | 26 | AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework | 2026-05-11 |
-| 10 | [evidently](https://github.com/evidentlyai/evidently) | 7,520 | 850 | Jupyter Notebook | 229 | Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. | 2026-05-02 |
-
-### AI Evaluation
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 AI Evaluation](top100/AI%20Evaluation.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [mlflow](https://github.com/mlflow/mlflow) | 26,056 | 5,768 | Python | 1524 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin... | 2026-05-22 |
-| 2 | [promptfoo](https://github.com/promptfoo/promptfoo) | 21,486 | 1,883 | TypeScript | 75 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ... | 2026-05-22 |
-| 3 | [adk-python](https://github.com/google/adk-python) | 19,794 | 3,434 | Python | 487 | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | 2026-05-22 |
-| 4 | [cua](https://github.com/trycua/cua) | 16,994 | 1,079 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
-| 5 | [RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,165 | 3,606 | Python | 17 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal... | 2026-02-11 |
-| 6 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,361 | 1,948 | Go | 167 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-22 |
-| 7 | [tensorzero](https://github.com/tensorzero/tensorzero) | 11,386 | 830 | Rust | 334 | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | 2026-05-21 |
-| 8 | [bisheng](https://github.com/dataelement/bisheng) | 11,378 | 1,870 | TypeScript | 104 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF... | 2026-05-22 |
-| 9 | [ParlAI](https://github.com/facebookresearch/ParlAI) | 10,625 | 2,067 | Python | 50 | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. | 2023-11-03 |
-| 10 | [phoenix](https://github.com/Arize-ai/phoenix) | 9,790 | 883 | Python | 469 | AI Observability & Evaluation | 2026-05-22 |
-
-### Agent Benchmark
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 Agent Benchmark](top100/Agent%20Benchmark.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cua](https://github.com/trycua/cua) | 16,994 | 1,079 | HTML | 122 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-21 |
-| 2 | [agentmemory](https://github.com/rohitg00/agentmemory) | 16,132 | 1,327 | TypeScript | 73 | #1 Persistent memory for AI coding agents based on real-world benchmarks | 2026-05-21 |
-| 3 | [pyod](https://github.com/yzhao062/pyod) | 9,853 | 1,475 | Python | 188 | A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents. | 2026-05-19 |
-| 4 | [agentops](https://github.com/AgentOps-AI/agentops) | 5,572 | 582 | Python | 106 | Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca... | 2026-03-19 |
-| 5 | [AgentBench](https://github.com/THUDM/AgentBench) | 3,444 | 255 | Python | 61 | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | 2026-02-08 |
-| 6 | [OSWorld](https://github.com/xlang-ai/OSWorld) | 2,866 | 462 | Python | 147 | [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | 2026-05-21 |
-| 7 | [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) | 2,095 | 93 | - | 0 | 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥 | 2026-05-17 |
-| 8 | [mle-bench](https://github.com/openai/mle-bench) | 1,539 | 247 | Python | 2 | MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering | 2026-04-24 |
-| 9 | [Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | 1,404 | 156 | Python | 0 | 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | 2026-05-21 |
-| 10 | [smac](https://github.com/oxwhirl/smac) | 1,352 | 237 | Python | 21 | SMAC: The StarCraft Multi-Agent Challenge | 2024-02-18 |
-
-### Tracing
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 Tracing](top100/Tracing.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [signoz](https://github.com/SigNoz/signoz) | 26,998 | 2,178 | TypeScript | 1235 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s... | 2026-05-22 |
-| 2 | [jaeger](https://github.com/jaegertracing/jaeger) | 22,825 | 2,913 | Go | 297 | CNCF Jaeger, a Distributed Tracing Platform | 2026-05-21 |
-| 3 | [gofr](https://github.com/gofr-dev/gofr) | 21,453 | 1,762 | Go | 75 | An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. | 2026-05-21 |
-| 4 | [opik](https://github.com/comet-ml/opik) | 19,356 | 1,481 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
-| 5 | [cat](https://github.com/dianping/cat) | 18,949 | 5,416 | Java | 194 | CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 | 2025-01-04 |
-| 6 | [zipkin](https://github.com/openzipkin/zipkin) | 17,429 | 3,101 | Java | 168 | Zipkin is a distributed tracing system | 2026-04-08 |
-| 7 | [RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,165 | 3,606 | Python | 17 | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal... | 2026-02-11 |
-| 8 | [pinpoint](https://github.com/pinpoint-apm/pinpoint) | 13,819 | 3,758 | Java | 457 | APM, (Application Performance Management) tool for large-scale distributed systems.  | 2026-05-22 |
-| 9 | [gf](https://github.com/gogf/gf) | 13,153 | 1,732 | Go | 173 | A powerful framework for faster, easier, and more efficient project development. | 2026-05-19 |
-| 10 | [bpftrace](https://github.com/bpftrace/bpftrace) | 10,114 | 1,461 | C++ | 188 | High-level tracing language for Linux | 2026-05-21 |
-
-### Telemetry
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 Telemetry](top100/Telemetry.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 46,547 | 1,887 | PowerShell | 30 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi... | 2026-05-20 |
-| 2 | [vscodium](https://github.com/VSCodium/vscodium) | 31,549 | 1,716 | Shell | 108 | binary releases of VS Code without MS branding/telemetry/licensing | 2026-05-21 |
-| 3 | [dns-blocklists](https://github.com/hagezi/dns-blocklists) | 23,032 | 687 | Text | 5 | DNS-Blocklists: For a better internet - keep the internet clean! | 2026-05-22 |
-| 4 | [vector](https://github.com/vectordotdev/vector) | 21,887 | 2,139 | Rust | 2081 | A high-performance observability data pipeline. | 2026-05-22 |
-| 5 | [free-code](https://github.com/paoloanzn/free-code) | 8,374 | 1,993 | TypeScript | 8 | The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. | 2026-04-01 |
-| 6 | [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 7,050 | 2,070 | Go | 617 | OpenTelemetry Collector | 2026-05-22 |
-| 7 | [Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) | 6,925 | 1,043 | C++ | 22 | Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.  | 2026-05-22 |
-| 8 | [fleet](https://github.com/fleetdm/fleet) | 6,389 | 885 | Go | 3281 | Open device management | 2026-05-22 |
-| 9 | [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) | 5,122 | 384 | Go | 42 | Block spying and tracking on Windows | 2025-02-02 |
-| 10 | [Fast-F1](https://github.com/theOehrly/Fast-F1) | 5,055 | 460 | Python | 31 | FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry | 2026-05-19 |
-
-### Guardrails
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 Guardrails](top100/Guardrails.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [litellm](https://github.com/BerriAI/litellm) | 47,917 | 8,253 | Python | 1375 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi... | 2026-05-22 |
-| 2 | [gateway](https://github.com/Portkey-AI/gateway) | 11,819 | 1,078 | TypeScript | 83 | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API. | 2026-05-19 |
-| 3 | [free-code](https://github.com/paoloanzn/free-code) | 8,374 | 1,993 | TypeScript | 8 | The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. | 2026-04-01 |
-| 4 | [baml](https://github.com/BoundaryML/baml) | 8,281 | 422 | Rust | 187 | The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible) | 2026-05-22 |
-| 5 | [presidio](https://github.com/microsoft/presidio) | 8,229 | 1,060 | Python | 53 | An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines. | 2026-05-20 |
-| 6 | [guardrails](https://github.com/guardrails-ai/guardrails) | 6,902 | 612 | Python | 21 | Adding guardrails to large language models. | 2026-05-19 |
-| 7 | [superagent](https://github.com/superagent-ai/superagent) | 6,612 | 960 | TypeScript | 5 | Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers. | 2026-04-11 |
-| 8 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | 6,208 | 684 | Python | 82 | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | 2026-05-21 |
-| 9 | [bifrost](https://github.com/maximhq/bifrost) | 5,141 | 623 | Go | 214 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. | 2026-05-22 |
-| 10 | [mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 3,757 | 670 | Python | 856 | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call... | 2026-05-22 |
-
-### AI Safety
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 AI Safety](top100/AI%20Safety.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [wasp](https://github.com/wasp-lang/wasp) | 18,343 | 1,442 | TypeScript | 782 | The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr... | 2026-05-22 |
-| 2 | [Zero](https://github.com/Mail-0/Zero) | 10,575 | 1,298 | TypeScript | 0 | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord | 2025-09-04 |
-| 3 | [superagent](https://github.com/superagent-ai/superagent) | 6,612 | 960 | TypeScript | 5 | Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers. | 2026-04-11 |
-| 4 | [plano](https://github.com/katanemo/plano) | 6,496 | 416 | Rust | 104 | Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.  | 2026-05-19 |
-| 5 | [goclaw](https://github.com/nextlevelbuilder/goclaw) | 3,139 | 858 | Go | 155 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety. | 2026-05-21 |
-| 6 | [sunnypilot](https://github.com/sunnypilot/sunnypilot) | 1,947 | 1,339 | Python | 19 | sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga... | 2026-05-21 |
-| 7 | [agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) | 1,484 | 172 | Shell | 2 | Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure | 2026-05-21 |
-| 8 | [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) | 1,382 | 110 | - | 0 | Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. | 2026-03-30 |
-| 9 | [shellfirm](https://github.com/kaplanelad/shellfirm) | 912 | 33 | Rust | 1 | Safety guardrails for ai coding agents and human terminal commands | 2026-05-15 |
-| 10 | [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) | 775 | 118 | Python | 3 | Internal Safety Collapse: Turning the LLM or an AI Agent into a sensitive data generator. | 2026-05-14 |
-
-### Prompt Evaluation
-
-[⬆ Back to Top](#top)
-
-Top 10 of [Top 100 Prompt Evaluation](top100/Prompt%20Evaluation.md)
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,695 | 2,829 | TypeScript | 317 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-22 |
-| 2 | [promptfoo](https://github.com/promptfoo/promptfoo) | 21,486 | 1,883 | TypeScript | 75 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ... | 2026-05-22 |
-| 3 | [Kiln](https://github.com/Kiln-AI/Kiln) | 4,843 | 368 | Python | 22 | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | 2026-05-22 |
-| 4 | [agenta](https://github.com/Agenta-AI/agenta) | 4,140 | 523 | TypeScript | 66 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place. | 2026-05-22 |
-| 5 | [ChainForge](https://github.com/ianarawjo/ChainForge) | 2,985 | 253 | TypeScript | 58 | An open-source visual programming environment for battle-testing prompts to LLMs. | 2026-04-06 |
-| 6 | [promptbench](https://github.com/microsoftarchive/promptbench) | 2,801 | 220 | Python | 0 | A unified evaluation framework for large language models | 2026-02-20 |
-| 7 | [openlit](https://github.com/openlit/openlit) | 2,461 | 280 | TypeScript | 15 | Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, ... | 2026-05-22 |
-| 8 | [prompty](https://github.com/microsoft/prompty) | 1,213 | 115 | TypeScript | 8 | Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandab... | 2026-05-20 |
-| 9 | [Safety-Prompts](https://github.com/thu-coai/Safety-Prompts) | 1,165 | 89 | - | 1 | Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。 | 2024-02-27 |
-| 10 | [JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) | 1,095 | 40 | Python | 1 | The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on... | 2026-05-21 |
 
 
 [⬆ Back to Top](#top)
