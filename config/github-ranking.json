@@ -47,9 +47,7 @@
         "Browser Automation",
         "Computer Use",
         "Web Agent",
-        "Desktop Automation",
-        "Browser Agent",
-        "Operator"
+        "Desktop Automation"
       ]
     },
     {
@@ -61,7 +59,6 @@
         "Vector Database",
         "Semantic Search",
         "Memory System",
-        "Embedding",
         "Retrieval-Augmented Generation",
         "Knowledge Graph"
       ]
@@ -82,8 +79,7 @@
         "Local LLM",
         "Inference Engine",
         "Quantization",
-        "Serving",
-        "AI Runtime"
+        "Serving"
       ]
     },
     {
