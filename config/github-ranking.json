@@ -1,0 +1,109 @@
+{
+  "github": {
+    "owner": "sifted-network",
+    "repo": "Sifted-Blog",
+    "branch": "main",
+    "contentPath": "feed-entries",
+    "rankingPath": "data",
+    "top100Path": "top100"
+  },
+  "categories": [
+    {
+      "name": "Agent Core",
+      "desc": "Core Agent Infrastructure",
+      "topics": [
+        "AI Agents",
+        "Agent Framework",
+        "Multi-Agent",
+        "Agent Orchestration",
+        "Autonomous Agents",
+        "LLM Workflows",
+        "Agent Runtime",
+        "Tool Calling",
+        "Function Calling",
+        "Workflow Engine",
+        "Task Planning",
+        "Reasoning",
+        "Memory",
+        "Reflection",
+        "Planning",
+        "Long-Term Memory"
+      ]
+    },
+    {
+      "name": "Coding Agent",
+      "desc": "AI Coding Assistant",
+      "topics": [
+        "Coding Agent",
+        "AI Coding Assistant",
+        "Terminal Agent",
+        "Code Interpreter",
+        "Self-Healing Code",
+        "DevOps AI"
+      ]
+    },
+    {
+      "name": "Computer Use",
+      "desc": "Browser & Computer Automation",
+      "topics": [
+        "Browser Automation",
+        "Computer Use",
+        "Web Agent",
+        "GUI Agent",
+        "Desktop Automation",
+        "Browser Agent",
+        "Operator"
+      ]
+    },
+    {
+      "name": "Knowledge",
+      "desc": "RAG & Knowledge Management",
+      "topics": [
+        "RAG",
+        "Knowledge Base",
+        "Vector Database",
+        "Semantic Search",
+        "Memory System",
+        "Embedding",
+        "Retrieval-Augmented Generation",
+        "Knowledge Graph"
+      ]
+    },
+    {
+      "name": "MCP",
+      "desc": "Model Context Protocol",
+      "topics": [
+        "MCP",
+        "Model Context Protocol",
+        "Tool Integration",
+        "Agent Tools"
+      ]
+    },
+    {
+      "name": "Inference",
+      "desc": "Inference & Local AI",
+      "topics": [
+        "Local LLM",
+        "Inference Engine",
+        "Quantization",
+        "GPU Inference",
+        "Serving",
+        "AI Runtime"
+      ]
+    },
+    {
+      "name": "Observability",
+      "desc": "LLM Observability & Evaluation",
+      "topics": [
+        "LLM Observability",
+        "AI Evaluation",
+        "Agent Benchmark",
+        "Tracing",
+        "Telemetry",
+        "Guardrails",
+        "AI Safety",
+        "Prompt Evaluation"
+      ]
+    }
+  ]
+}
