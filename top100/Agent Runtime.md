@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,434 | 892 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,435 | 892 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
 | 2 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,779 | 872 | Python | 49 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-22 |
 | 3 | [electric](https://github.com/electric-sql/electric) | 10,205 | 332 | TypeScript | 236 | The agent platform built on sync. | 2026-05-22 |
 | 4 | [deeplake](https://github.com/activeloopai/deeplake) | 9,135 | 711 | C++ | 54 | Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training. | 2026-05-21 |
@@ -22,9 +22,9 @@
 | 14 | [nono](https://github.com/always-further/nono) | 2,454 | 169 | Rust | 126 | Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency | 2026-05-22 |
 | 15 | [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2,326 | 284 | Go | 85 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. | 2026-05-22 |
 | 16 | [trustgraph](https://github.com/trustgraph-ai/trustgraph) | 2,111 | 244 | Python | 31 | The agent runtime platform powered by context graphs. | 2026-05-21 |
-| 17 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 2,023 | 484 | Python | 2 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
+| 17 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 2,024 | 484 | Python | 2 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
 | 18 | [.github](https://github.com/gege-circle/.github) | 1,888 | 152 | - | 0 | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t... | 2025-10-04 |
-| 19 | [harmonist](https://github.com/GammaLabTechnologies/harmonist) | 1,836 | 358 | Python | 0 | Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. | 2026-04-23 |
+| 19 | [harmonist](https://github.com/GammaLabTechnologies/harmonist) | 1,835 | 358 | Python | 0 | Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. | 2026-04-23 |
 | 20 | [bub](https://github.com/bubbuild/bub) | 1,407 | 132 | Python | 3 | Bub it. Build it. A hook-first runtime for agents that live alongside people. | 2026-05-20 |
 | 21 | [chidori](https://github.com/ThousandBirdsInc/chidori) | 1,344 | 55 | Rust | 2 | A reactive runtime for building durable AI agents | 2026-05-17 |
 | 22 | [poco-claw](https://github.com/poco-ai/poco-claw) | 1,326 | 122 | Python | 0 | A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by ... | 2026-05-18 |
