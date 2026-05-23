@@ -6,15 +6,15 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cline](https://github.com/cline/cline) | 62,203 | 6,505 | TypeScript | 484 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-23 |
-| 2 | [ruflo](https://github.com/ruvnet/ruflo) | 54,291 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
+| 1 | [cline](https://github.com/cline/cline) | 62,204 | 6,505 | TypeScript | 483 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-23 |
+| 2 | [ruflo](https://github.com/ruvnet/ruflo) | 54,292 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
 | 3 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,002 | 7,208 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
 | 4 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | 46,145 | 4,392 | TypeScript | 883 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | 2026-05-23 |
 | 5 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 36,118 | 9,347 | TypeScript | 132 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 2025-04-29 |
 | 6 | [khoj](https://github.com/khoj-ai/khoj) | 34,666 | 2,204 | Python | 81 | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ... | 2026-03-26 |
 | 7 | [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 27,966 | 2,919 | - | 114 | A list of AI autonomous agents | 2025-02-26 |
 | 8 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | 27,242 | 3,662 | Python | 177 | An autonomous agent that conducts deep research on any data using any LLM providers | 2026-04-16 |
-| 9 | [agenticSeek](https://github.com/Fosowl/agenticSeek) | 26,416 | 2,964 | Python | 25 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993... | 2026-05-17 |
+| 9 | [agenticSeek](https://github.com/Fosowl/agenticSeek) | 26,417 | 2,964 | Python | 25 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993... | 2026-05-17 |
 | 10 | [dexter](https://github.com/virattt/dexter) | 26,101 | 3,199 | TypeScript | 35 | An autonomous agent for deep financial research | 2026-05-20 |
 | 11 | [symphony](https://github.com/openai/symphony) | 24,456 | 2,407 | Elixir | 0 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | 2026-05-20 |
 | 12 | [ralph](https://github.com/snarktank/ralph) | 19,415 | 1,941 | TypeScript | 32 | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.  | 2026-02-02 |
@@ -41,7 +41,7 @@
 | 33 | [byterover-cli](https://github.com/campfirein/byterover-cli) | 4,779 | 455 | TypeScript | 7 | ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher) | 2026-05-23 |
 | 34 | [gptme](https://github.com/gptme/gptme) | 4,307 | 389 | Python | 10 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top! | 2026-05-23 |
 | 35 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | 4,163 | 677 | Python | 15 | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ | 2026-04-13 |
-| 36 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) | 3,998 | 789 | Python | 0 | Autonomous Hacking Agent for Red Team | 2026-05-23 |
+| 36 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) | 3,999 | 789 | Python | 0 | Autonomous Hacking Agent for Red Team | 2026-05-23 |
 | 37 | [agents](https://github.com/Polymarket/agents) | 3,547 | 792 | Python | 18 | Trade autonomously on Polymarket using AI Agents | 2024-11-05 |
 | 38 | [cc-sdd](https://github.com/gotalab/cc-sdd) | 3,384 | 248 | TypeScript | 16 | Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra... | 2026-05-20 |
 | 39 | [OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) | 3,097 | 394 | Python | 0 | HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!" | 2024-02-16 |
