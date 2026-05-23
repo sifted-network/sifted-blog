@@ -51,7 +51,6 @@
         "Knowledge Base",
         "Vector Database",
         "Semantic Search",
-        "Memory System",
         "Knowledge Graph"
       ]
     },
@@ -68,7 +67,6 @@
       "desc": "LLM Observability & Evaluation",
       "topics": [
         "LLM Observability",
-        "AI Evaluation",
         "AI Safety"
       ]
     }
