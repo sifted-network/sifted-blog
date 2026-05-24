@@ -6,11 +6,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [vllm](https://github.com/vllm-project/vllm) | 80,822 | 17,145 | Python | 2004 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-24 |
-| 2 | [web-llm](https://github.com/mlc-ai/web-llm) | 18,054 | 1,290 | TypeScript | 128 | High-performance In-browser LLM Inference Engine  | 2026-05-19 |
+| 1 | [vllm](https://github.com/vllm-project/vllm) | 80,825 | 17,145 | Python | 2006 | A high-throughput and memory-efficient inference and serving engine for LLMs | 2026-05-24 |
+| 2 | [web-llm](https://github.com/mlc-ai/web-llm) | 18,054 | 1,291 | TypeScript | 128 | High-performance In-browser LLM Inference Engine  | 2026-05-19 |
 | 3 | [ml-engineering](https://github.com/stas00/ml-engineering) | 17,971 | 1,142 | Python | 1 | Machine Learning Engineering Open Book | 2026-05-18 |
 | 4 | [MNN](https://github.com/alibaba/MNN) | 15,235 | 2,320 | C++ | 10 | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. | 2026-05-22 |
-| 5 | [ds4](https://github.com/antirez/ds4) | 11,571 | 975 | C | 35 | DeepSeek 4 Flash local inference engine for Metal and CUDA | 2026-05-23 |
+| 5 | [ds4](https://github.com/antirez/ds4) | 11,573 | 976 | C | 35 | DeepSeek 4 Flash local inference engine for Metal and CUDA | 2026-05-23 |
 | 6 | [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) | 7,256 | 1,627 | C++ | 63 | PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） | 2026-04-27 |
 | 7 | [gemma.cpp](https://github.com/google/gemma.cpp) | 6,905 | 639 | C++ | 22 | lightweight, standalone C++ inference engine for Google's Gemma models. | 2026-05-18 |
 | 8 | [DALI](https://github.com/NVIDIA/DALI) | 5,694 | 665 | C++ | 203 | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. | 2026-05-23 |
@@ -22,7 +22,7 @@
 | 14 | [xDiT](https://github.com/xdit-project/xDiT) | 2,622 | 320 | Python | 86 | xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism | 2026-05-21 |
 | 15 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 2,414 | 280 | Python | 29 | The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace... | 2026-05-23 |
 | 16 | [AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) | 2,209 | 255 | Jupyter Notebook | 6 | Mastering Applied AI, One Concept at a Time  | 2026-02-27 |
-| 17 | [sie](https://github.com/superlinked/sie) | 1,946 | 162 | Python | 1 | Superlinked Inference Engine is an Open-source inference server and production cluster for embeddings, reranking, and extraction. | 2026-05-22 |
+| 17 | [sie](https://github.com/superlinked/sie) | 1,947 | 162 | Python | 1 | Superlinked Inference Engine is an Open-source inference server and production cluster for embeddings, reranking, and extraction. | 2026-05-22 |
 | 18 | [aphrodite-engine](https://github.com/dphnAI/aphrodite-engine) | 1,738 | 197 | C++ | 77 | Large-scale LLM inference engine | 2026-05-08 |
 | 19 | [uzu](https://github.com/trymirai/uzu) | 1,584 | 53 | Rust | 0 | A high-performance inference engine for AI models | 2026-05-23 |
 | 20 | [Genie-TTS](https://github.com/High-Logic/Genie-TTS) | 1,550 | 108 | Python | 28 | GPT-SoVITS ONNX Inference Engine & Model Converter | 2026-04-18 |
@@ -57,9 +57,9 @@
 | 49 | [OpenArc](https://github.com/SearchSavior/OpenArc) | 442 | 34 | Python | 11 | Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints. | 2026-05-24 |
 | 50 | [JetStream](https://github.com/AI-Hypercomputer/JetStream) | 438 | 65 | Python | 14 | JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome). | 2026-01-05 |
 | 51 | [gpu-rest-engine](https://github.com/NVIDIA/gpu-rest-engine) | 423 | 93 | C++ | 6 | A REST API for Caffe using Docker and Go | 2018-07-20 |
-| 52 | [atlas](https://github.com/Avarok-Cybersecurity/atlas) | 398 | 52 | Rust | 9 | Pure Rust Inference Engine | 2026-05-23 |
+| 52 | [atlas](https://github.com/Avarok-Cybersecurity/atlas) | 399 | 52 | Rust | 9 | Pure Rust Inference Engine | 2026-05-23 |
 | 53 | [zinc](https://github.com/zolotukhin/zinc) | 395 | 15 | Zig | 1 | Zig INferenCe Engine — Local LLM inference on AMD GPUs and Apple Silicon | 2026-05-23 |
-| 54 | [hipfire](https://github.com/Kaden-Schutt/hipfire) | 392 | 45 | Rust | 48 | RDNA-native LLM inference engine in Rust.  | 2026-05-23 |
+| 54 | [hipfire](https://github.com/Kaden-Schutt/hipfire) | 393 | 45 | Rust | 48 | RDNA-native LLM inference engine in Rust.  | 2026-05-23 |
 | 55 | [AutoGrad-Engine](https://github.com/milanm/AutoGrad-Engine) | 392 | 48 | C# | 0 | A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies | 2026-02-14 |
 | 56 | [Crane](https://github.com/lucasjinreal/Crane) | 391 | 44 | Rust | 9 | A Pure Rust based LLM, VLM, VLA, TTS, OCR Inference Engine, powering by Candle & Rust. Alternate to your llama.cpp but much more simpler and cleaner.. | 2026-05-04 |
 | 57 | [StockInference-Spark](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark) | 382 | 194 | Java | 5 | Stock inference engine using Spring XD, Apache Geode / GemFire and Spark ML Lib. | 2016-06-03 |
