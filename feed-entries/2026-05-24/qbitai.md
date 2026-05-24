@@ -2,16 +2,28 @@
 title: "qbitai - 2026-05-24"
 date: "2026-05-24"
 source: "qbitai"
-count: 3
+count: 4
 ---
 
 # qbitai - 2026-05-24
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. 谷歌CEO承认Coding落后了
+## 1. 卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛
+
+**Author:** 梦瑶  
+**Published:** 5/24/2026, 10:50:44 AM  
+**Categories:** 资讯, AIGC产业峰会  
+
+大厂集体下场后，创业公司还有哪些机会？
+
+📖 [Read original article](https://www.qbitai.com/2026/05/423421.html)
+
+---
+
+## 2. 谷歌CEO承认Coding落后了
 
 **Author:** 梦瑶  
 **Published:** 5/24/2026, 6:20:35 AM  
@@ -23,7 +35,7 @@ count: 3
 
 ---
 
-## 2. 未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026
+## 3. 未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026
 
 **Author:** 允中  
 **Published:** 5/24/2026, 6:14:05 AM  
@@ -35,7 +47,7 @@ count: 3
 
 ---
 
-## 3. 什么！你说胡彦斌也在苦修Vibe Coding
+## 4. 什么！你说胡彦斌也在苦修Vibe Coding
 
 **Author:** 梦瑶  
 **Published:** 5/24/2026, 4:53:32 AM  
