@@ -6,21 +6,21 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 32,041 | 2,762 | Python | 83 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
-| 2 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,431 | 1,960 | Go | 171 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-22 |
-| 3 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 12,834 | 2,067 | Python | 290 | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | 2024-01-23 |
-| 4 | [HRM](https://github.com/sapientinc/HRM) | 12,471 | 1,823 | Python | 61 | Hierarchical Reasoning Model Official Release | 2026-03-31 |
+| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 32,042 | 2,762 | Python | 83 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
+| 2 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,433 | 1,960 | Go | 171 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-22 |
+| 3 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 12,833 | 2,067 | Python | 290 | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | 2024-01-23 |
+| 4 | [HRM](https://github.com/sapientinc/HRM) | 12,472 | 1,823 | Python | 61 | Hierarchical Reasoning Model Official Release | 2026-03-31 |
 | 5 | [MiniCPM](https://github.com/OpenBMB/MiniCPM) | 8,932 | 582 | Jupyter Notebook | 18 | MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks | 2026-05-23 |
 | 6 | [KAG](https://github.com/OpenSPG/KAG) | 8,775 | 678 | Python | 161 | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base... | 2026-01-28 |
 | 7 | [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | 6,898 | 369 | - | 6 | A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques. | 2025-12-17 |
 | 8 | [pyspur](https://github.com/PySpur-Dev/pyspur) | 5,728 | 425 | TypeScript | 29 | A visual playground for agentic workflows: Iterate over your agents 10x faster | 2026-05-19 |
 | 9 | [deepreasoning](https://github.com/winfunc/deepreasoning) | 5,362 | 440 | Rust | 51 | A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. | 2025-10-07 |
 | 10 | [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | 5,177 | 452 | TypeScript | 47 | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | 2026-05-01 |
-| 11 | [Search-R1](https://github.com/PeterGriffinJin/Search-R1) | 4,770 | 428 | Python | 28 | Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL | 2025-11-13 |
+| 11 | [Search-R1](https://github.com/PeterGriffinJin/Search-R1) | 4,771 | 428 | Python | 28 | Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL | 2025-11-13 |
 | 12 | [ARC-AGI](https://github.com/fchollet/ARC-AGI) | 4,769 | 707 | JavaScript | 27 | The Abstraction and Reasoning Corpus | 2025-04-04 |
 | 13 | [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) | 4,577 | 375 | Python | 12 | Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  | 2025-07-29 |
 | 14 | [probability](https://github.com/tensorflow/probability) | 4,417 | 1,123 | Jupyter Notebook | 648 | Probabilistic reasoning and statistical analysis in TensorFlow | 2026-05-12 |
-| 15 | [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 4,388 | 642 | Jupyter Notebook | 2 | Implement a reasoning LLM in PyTorch from scratch, step by step | 2026-05-18 |
+| 15 | [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 4,389 | 642 | Jupyter Notebook | 2 | Implement a reasoning LLM in PyTorch from scratch, step by step | 2026-05-18 |
 | 16 | [GLM-4.5](https://github.com/zai-org/GLM-4.5) | 4,341 | 454 | Python | 24 | GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models | 2026-02-01 |
 | 17 | [typedb](https://github.com/typedb/typedb) | 4,329 | 367 | Rust | 270 | TypeDB: Built for systems, not records | 2026-05-22 |
 | 18 | [g1](https://github.com/build-with-groq/g1) | 4,181 | 360 | Python | 0 | g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains | 2025-12-30 |
@@ -70,7 +70,7 @@
 | 62 | [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) | 1,452 | 157 | - | 6 | AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets | 2025-11-11 |
 | 63 | [WebThinker](https://github.com/RUC-NLPIR/WebThinker) | 1,448 | 138 | Python | 8 | [NeurIPS 2025] 🌐 WebThinker: Empowering Large Reasoning Models with Deep Research Capability | 2025-12-08 |
 | 64 | [reasoning-gym](https://github.com/open-thought/reasoning-gym) | 1,427 | 120 | Python | 2 | [NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards | 2026-04-17 |
-| 65 | [ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) | 1,423 | 111 | - | 0 | A collection of AI Agents papers (Updated biweekly) | 2026-05-04 |
+| 65 | [ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) | 1,422 | 111 | - | 0 | A collection of AI Agents papers (Updated biweekly) | 2026-05-04 |
 | 66 | [Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs) | 1,413 | 62 | - | 7 | This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs! | 2026-05-11 |
 | 67 | [KnowLM](https://github.com/zjunlp/KnowLM) | 1,387 | 133 | Python | 0 | An Open-sourced Knowledgable Large Language Model Framework. | 2025-01-11 |
 | 68 | [AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) | 1,367 | 130 | Python | 2 | AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution. | 2026-01-11 |
@@ -97,7 +97,7 @@
 | 89 | [semantica](https://github.com/semantica-agi/semantica) | 1,170 | 181 | Python | 15 | Semantica 🧠 — AI-native knowledge graph intelligence framework for semantic retrieval, ontology reasoning, context graphs, and explainable AI systems. | 2026-05-23 |
 | 90 | [chameleon-llm](https://github.com/lupantech/chameleon-llm) | 1,139 | 83 | Jupyter Notebook | 8 | Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models". | 2023-12-23 |
 | 91 | [ToRA](https://github.com/microsoft/ToRA) | 1,117 | 79 | Python | 6 | ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24]. | 2024-02-22 |
-| 92 | [Vision-R1](https://github.com/Osilly/Vision-R1) | 1,108 | 26 | Python | 3 | [ICLR2026] This is the first paper to explore how  to effectively use R1-like RL for MLLMs and introduce Vision-R1, a reasoning MLLM that leverages cold-start initialization and RL training to incenti... | 2026-03-20 |
+| 92 | [Vision-R1](https://github.com/Osilly/Vision-R1) | 1,109 | 26 | Python | 3 | [ICLR2026] This is the first paper to explore how  to effectively use R1-like RL for MLLMs and introduce Vision-R1, a reasoning MLLM that leverages cold-start initialization and RL training to incenti... | 2026-03-20 |
 | 93 | [SoundMind](https://github.com/xid32/SoundMind) | 1,107 | 131 | Python | 0 | We introduce the Audio Logical Reasoning (ALR) dataset, consisting of 6,446 text-audio annotated samples specifically designed for complex reasoning tasks. Building on this resource, we propose SoundM... | 2025-11-26 |
 | 94 | [sgr-agent-core](https://github.com/vamplabAI/sgr-agent-core) | 1,089 | 174 | Python | 21 | Schema-Guided Reasoning (SGR) has agentic system design created by neuraldeep community | 2026-05-07 |
 | 95 | [DeepAgent](https://github.com/RUC-NLPIR/DeepAgent) | 1,086 | 136 | Python | 8 | [WWW‘26 Oral🔥] DeepAgent: A General Reasoning Agent with Scalable Toolsets | 2026-04-13 |
