@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. 2028: Two scenarios for global AI leadership
+## 1. New Zealand at wild frontier of AI superhacking
 
-**Author:** gmays  
-**Published:** 5/24/2026, 1:27:49 PM  
+**Author:** billybuckwheat  
+**Published:** 5/24/2026, 7:05:27 PM  
 **Categories:** -  
 
-Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48257135 Points: 4 # Comments: 0
+Article URL: https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking Comments URL: https://news.ycombinator.com/item?id=48260065 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.anthropic.com/research/2028-ai-leadership)
+📖 [Read original article](https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking)
 
 ---
 
-## 2. AI writes x86_64 asm and eBPF for fractals on /dev/fb0, in a browser VM
+## 2. The Race Is on (AI)
 
-**Author:** zozo123-IB  
-**Published:** 5/24/2026, 1:22:40 PM  
+**Author:** smesser  
+**Published:** 5/24/2026, 7:05:10 PM  
 **Categories:** -  
 
-Article URL: https://zozo123.github.io/wolfram-fb0/ Comments URL: https://news.ycombinator.com/item?id=48257102 Points: 1 # Comments: 0
+Article URL: https://www.reloadnyc.com/the-race-is-on/ Comments URL: https://news.ycombinator.com/item?id=48260062 Points: 1 # Comments: 0
 
-📖 [Read original article](https://zozo123.github.io/wolfram-fb0/)
+📖 [Read original article](https://www.reloadnyc.com/the-race-is-on/)
 
 ---
 
-## 3. Bursting the AI Bubble: Fed Could Take Away the \"Who Could Have Known?\" Defense
-
-**Author:** bediger4000  
-**Published:** 5/24/2026, 1:18:14 PM  
-**Categories:** -  
-
-Article URL: https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could Comments URL: https://news.ycombinator.com/item?id=48257074 Points: 3 # Comments: 1
-
-📖 [Read original article](https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could)
-
----
-
-## 4. AI Proves Mathematicians Wrong
-
-**Author:** NicoHartmann  
-**Published:** 5/24/2026, 12:41:07 PM  
-**Categories:** -  
-
-Article URL: https://www.heise.de/en/news/AI-proves-mathematicians-wrong-11303022.html Comments URL: https://news.ycombinator.com/item?id=48256796 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.heise.de/en/news/AI-proves-mathematicians-wrong-11303022.html)
-
----
-
-## 5. I built a free AI travel planner for budget Europe trips
-
-**Author:** supreethadev  
-**Published:** 5/24/2026, 12:34:34 PM  
-**Categories:** -  
-
-Built with Next.js and Claude API. Would love feedback from the HN community. Comments URL: https://news.ycombinator.com/item?id=48256767 Points: 2 # Comments: 2
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48256767)
-
----
-
-## 6. Our AI just got better
-
-**Author:** thunderbong  
-**Published:** 5/24/2026, 12:31:54 PM  
-**Categories:** -  
-
-Article URL: https://blog.ecosia.org/improving-our-ai/ Comments URL: https://news.ycombinator.com/item?id=48256749 Points: 7 # Comments: 2
-
-📖 [Read original article](https://blog.ecosia.org/improving-our-ai/)
-
----
-
-## 7. Integral Intelligence: a Catholic view of the AI debate
-
-**Author:** turing_complete  
-**Published:** 5/24/2026, 12:17:49 PM  
-**Categories:** -  
-
-Article URL: https://localoptimumai.substack.com/p/integral-intelligence-a-catholic Comments URL: https://news.ycombinator.com/item?id=48256670 Points: 2 # Comments: 0
-
-📖 [Read original article](https://localoptimumai.substack.com/p/integral-intelligence-a-catholic)
-
----
-
-## 8. Pi-Mojo – A Mojo Port of Pi AI Agent Toolkit
-
-**Author:** amund  
-**Published:** 5/24/2026, 11:59:49 AM  
-**Categories:** -  
-
-Article URL: https://github.com/atveit/pi-mojo/tree/main Comments URL: https://news.ycombinator.com/item?id=48256552 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/atveit/pi-mojo/tree/main)
-
----
-
-## 9. Autotrader – paper trading AI agent for Indian equities
-
-**Author:** akashtndn  
-**Published:** 5/24/2026, 11:55:38 AM  
-**Categories:** -  
-
-Article URL: https://github.com/analyticalmonk/autotrader Comments URL: https://news.ycombinator.com/item?id=48256526 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/analyticalmonk/autotrader)
-
----
-
-## 10. The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain
-
-**Author:** carlosortet  
-**Published:** 5/24/2026, 11:23:44 AM  
-**Categories:** -  
-
-Article URL: https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/ Comments URL: https://news.ycombinator.com/item?id=48256396 Points: 2 # Comments: 1
-
-📖 [Read original article](https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/)
-
----
-
-## 11. Responsible Work with AI
-
-**Author:** satisfice  
-**Published:** 5/24/2026, 11:20:38 AM  
-**Categories:** -  
-
-Article URL: https://www.satisfice.com/responsible Comments URL: https://news.ycombinator.com/item?id=48256376 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.satisfice.com/responsible)
-
----
-
-## 12. The AI Existential Crisis: Western AI Agents Will Win Commerce
-
-**Author:** vektormemory  
-**Published:** 5/24/2026, 11:18:24 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366 Comments URL: https://news.ycombinator.com/item?id=48256365 Points: 1 # Comments: 0
-
-📖 [Read original article](https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366)
-
----
-
-## 13. Orchestration problems hurt legal AI
-
-**Author:** alansaber  
-**Published:** 5/24/2026, 11:11:30 AM  
-**Categories:** -  
-
-Article URL: https://lexifina.com/blog/legal-ontologies-for-ai Comments URL: https://news.ycombinator.com/item?id=48256327 Points: 1 # Comments: 0
-
-📖 [Read original article](https://lexifina.com/blog/legal-ontologies-for-ai)
-
----
-
-## 14. AI Stock Is the Ultimate Set-It-and-Forget-It Buy for Long-Term Investors
+## 3. Google CEO Sundar Pichai says booing graduates will shape AI's future
 
 **Author:** 01-_-  
-**Published:** 5/24/2026, 11:03:19 AM  
+**Published:** 5/24/2026, 6:50:17 PM  
 **Categories:** -  
 
-Article URL: https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/ Comments URL: https://news.ycombinator.com/item?id=48256282 Points: 1 # Comments: 0
+Article URL: https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=48259944 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/)
+📖 [Read original article](https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt)
 
 ---
 
-## 15. South Korea's deputy PM says AI wealth must benefit the public
+## 4. Show HN: TalkTimer, a micro-SaaS run by an AI agent team
 
-**Author:** geox  
-**Published:** 5/24/2026, 11:00:52 AM  
+**Author:** a3e7  
+**Published:** 5/24/2026, 6:49:35 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html Comments URL: https://news.ycombinator.com/item?id=48256265 Points: 1 # Comments: 0
+Built TalkTimer for talks, demos, hackathons, and similar live events.TalkTimer is a stage timer app for live events, with AI moderated audience Q&A and AI-assisted schedule rebalancing built in.The product is built and operated by a team of AI agents. Posting it here mainly to get early feedback th...
 
-📖 [Read original article](https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html)
+📖 [Read original article](https://talktimer.co)
 
 ---
 
-## 16. Physicists create hybrid light-matter particles to replace electrons in AI cmpt
+## 5. Show HN: Trickster's Table – 20 free trick-taking card games with AI opponents
 
-**Author:** Ember_Wipe  
-**Published:** 5/24/2026, 10:41:59 AM  
+**Author:** dbravender  
+**Published:** 5/24/2026, 6:36:02 PM  
 **Categories:** -  
 
-Article URL: https://www.sciencedaily.com/releases/2026/05/260518041341.htm Comments URL: https://news.ycombinator.com/item?id=48256161 Points: 1 # Comments: 0
+Hi HN, I’m Dan. I made Trickster's Table, a free mobile and web-based app for playing modern trick-taking card games against AI opponents.The app currently includes 20 games, including Stick 'Em, Yokai Septet, Potato Man, Best of Neapolitan, Pala, Torchlit, and several newer/smaller titles that are ...
 
-📖 [Read original article](https://www.sciencedaily.com/releases/2026/05/260518041341.htm)
+📖 [Read original article](https://tricksterstable.playagame.app)
 
 ---
 
-## 17. State Explosion Security Problem in AI-Era Software Supply Chains
+## 6. Read Trump's unsigned AI executive order
 
-**Author:** nirwandogra  
-**Published:** 5/24/2026, 9:43:59 AM  
+**Author:** campuscodi  
+**Published:** 5/24/2026, 6:23:46 PM  
 **Categories:** -  
 
-Article URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9...
+Article URL: https://www.politico.com/news/2026/05/22/heres-a-draft-of-trumps-unsigned-ai-executive-order-00933411 Comments URL: https://news.ycombinator.com/item?id=48259746 Points: 2 # Comments: 0
 
-📖 [Read original article](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue)
+📖 [Read original article](https://www.politico.com/news/2026/05/22/heres-a-draft-of-trumps-unsigned-ai-executive-order-00933411)
 
 ---
 
-## 18. ShannonBase: The Lightweight Semantic Layer for Enterprise AI SQL
+## 7. Venture Capitalist John Doerr Says AI Is the Biggest Tech 'Tsunami'
 
-**Author:** shannon-data-ai  
-**Published:** 5/24/2026, 9:27:09 AM  
+**Author:** Brajeshwar  
+**Published:** 5/24/2026, 6:15:49 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e Comments URL: https://news.ycombinator.com/item?id=48255851 Points: 1 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60 Comments URL: https://news.ycombinator.com/item?id=48259685 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e)
+📖 [Read original article](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)
 
 ---
 
-## 19. OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content
+## 8. AI Can't Care
 
-**Author:** steveharing1  
-**Published:** 5/24/2026, 9:04:49 AM  
+**Author:** mooreds  
+**Published:** 5/24/2026, 6:15:00 PM  
 **Categories:** -  
 
-Article URL: https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/ Comments URL: https://news.ycombinator.com/item?id=48255746 Points: 2 # Comments: 0
+Article URL: https://www.mooreds.com/wordpress/archives/3737 Comments URL: https://news.ycombinator.com/item?id=48259679 Points: 3 # Comments: 0
 
-📖 [Read original article](https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/)
+📖 [Read original article](https://www.mooreds.com/wordpress/archives/3737)
 
 ---
 
-## 20. Karen Hao: AI creating a DESPERATE BASE OF WORKERS with no full-time employment
+## 9. Find where your AI coding tokens went: local TUI for Codex/Claude logs
 
-**Author:** chvid  
-**Published:** 5/24/2026, 8:45:13 AM  
+**Author:** peterxcli  
+**Published:** 5/24/2026, 5:38:52 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=E4Zd9ZXjkao Comments URL: https://news.ycombinator.com/item?id=48255657 Points: 6 # Comments: 1
+Article URL: https://github.com/peterxcli/ccost Comments URL: https://news.ycombinator.com/item?id=48259342 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=E4Zd9ZXjkao)
+📖 [Read original article](https://github.com/peterxcli/ccost)
+
+---
+
+## 10. Ask HN: What is your daily AI stack?
+
+**Author:** dockerd  
+**Published:** 5/24/2026, 5:34:52 PM  
+**Categories:** -  
+
+Which AI tools benefiting you most in day-day work? Which tool you stopped using? Let's share so that we can each learn from other experience and use them.I am coder and here is what I am using currently:1. LLM models - Claude / Deepseek 2. AI Coding agent - Pi 3. Agent skills - Pi-subagents 4. Loca...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48259299)
+
+---
+
+## 11. Neuro; An AOT-compiled language for AI workloads built on LLVM 20
+
+**Author:** PanzerPeter  
+**Published:** 5/24/2026, 5:34:40 PM  
+**Categories:** -  
+
+Article URL: https://github.com/PanzerPeter/Neuro Comments URL: https://news.ycombinator.com/item?id=48259294 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/PanzerPeter/Neuro)
+
+---
+
+## 12. Resyl – AI memory that ties your notes to people instead of folders (Android)
+
+**Author:** thisisaman408  
+**Published:** 5/24/2026, 5:26:43 PM  
+**Categories:** -  
+
+Article URL: https://play.google.com/store/apps/details?id=com.muragun.resyl&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48259228 Points: 1 # Comments: 0
+
+📖 [Read original article](https://play.google.com/store/apps/details?id=com.muragun.resyl&hl=en_US)
+
+---
+
+## 13. Preventing AI agents from executing destructive terminal commands
+
+**Author:** majesty-m  
+**Published:** 5/24/2026, 5:15:39 PM  
+**Categories:** -  
+
+Article URL: https://github.com/7Majesty-M/terminal-guardian-mcp Comments URL: https://news.ycombinator.com/item?id=48259123 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/7Majesty-M/terminal-guardian-mcp)
+
+---
+
+## 14. Advancing Mathematics Research with AI-Driven Formal Proof Search
+
+**Author:** tamnd  
+**Published:** 5/24/2026, 5:10:18 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=48259081 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2605.22763)
+
+---
+
+## 15. Apple Preparing New 'Gen AI' Website Ahead of WWDC
+
+**Author:** Brajeshwar  
+**Published:** 5/24/2026, 4:44:59 PM  
+**Categories:** -  
+
+Article URL: https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/ Comments URL: https://news.ycombinator.com/item?id=48258832 Points: 6 # Comments: 2
+
+📖 [Read original article](https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/)
+
+---
+
+## 16. Memory has grown to nearly two-thirds of AI chip component costs
+
+**Author:** intelkishan  
+**Published:** 5/24/2026, 4:31:29 PM  
+**Categories:** -  
+
+Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 139 # Comments: 144
+
+📖 [Read original article](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+
+---
+
+## 17. Ask HN: Why do people seem to generally hate AI?
+
+**Author:** Austin_Conlon  
+**Published:** 5/24/2026, 4:25:49 PM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=48258612 Points: 4 # Comments: 8
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48258612)
+
+---
+
+## 18. Resonance, randomness, and negotiated meaning for AI-assisted tarot divination
+
+**Author:** lkellar  
+**Published:** 5/24/2026, 4:21:15 PM  
+**Categories:** -  
+
+Article URL: https://dl.acm.org/doi/10.1145/3772318.3791571 Comments URL: https://news.ycombinator.com/item?id=48258553 Points: 2 # Comments: 0
+
+📖 [Read original article](https://dl.acm.org/doi/10.1145/3772318.3791571)
+
+---
+
+## 19. AI MOD Music Remastering at 32-bit 96 kHz
+
+**Author:** fechols  
+**Published:** 5/24/2026, 4:11:28 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Kind-Computers/quinlight-audio Comments URL: https://news.ycombinator.com/item?id=48258457 Points: 3 # Comments: 0
+
+📖 [Read original article](https://github.com/Kind-Computers/quinlight-audio)
+
+---
+
+## 20. 'AI washing': firms are scrambling to rebrand themselves as tech-focused
+
+**Author:** Brajeshwar  
+**Published:** 5/24/2026, 3:21:28 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 118 # Comments: 91
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
 
 ---
