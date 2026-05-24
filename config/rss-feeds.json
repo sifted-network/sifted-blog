@@ -65,14 +65,14 @@
     },
     {
       "id": "jiqizhixin",
-      "name": "机器之心",
+      "name": "jiqizhixin",
       "url": "https://www.jiqizhixin.com/rss",
       "enabled": false,
       "proxy": false
     },
     {
       "id": "qbitai",
-      "name": "量子位",
+      "name": "qbitai",
       "url": "https://www.qbitai.com/feed",
       "enabled": true,
       "proxy": false
