@@ -7,9 +7,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [flameshot](https://github.com/flameshot-org/flameshot) | 29,949 | 1,926 | C++ | 643 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | 2026-05-21 |
-| 2 | [cua](https://github.com/trycua/cua) | 17,034 | 1,080 | HTML | 119 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-23 |
+| 2 | [cua](https://github.com/trycua/cua) | 17,035 | 1,080 | HTML | 120 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | 2026-05-23 |
 | 3 | [Agent-S](https://github.com/simular-ai/Agent-S) | 11,586 | 1,369 | Python | 21 | Agent S: an open agentic framework that uses computers like a human | 2026-05-13 |
-| 4 | [cc-haha](https://github.com/NanmiCoder/cc-haha) | 11,572 | 8,013 | TypeScript | 192 | Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） | 2026-05-23 |
+| 4 | [cc-haha](https://github.com/NanmiCoder/cc-haha) | 11,575 | 8,015 | TypeScript | 193 | Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） | 2026-05-23 |
 | 5 | [robotgo](https://github.com/go-vgo/robotgo) | 10,714 | 953 | Go | 133 | RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar | 2026-04-17 |
 | 6 | [Weylus](https://github.com/H-M-H/Weylus) | 9,229 | 367 | Rust | 141 | Use your tablet as graphic tablet/touch screen on your computer. | 2026-04-22 |
 | 7 | [gocv](https://github.com/hybridgroup/gocv) | 7,445 | 896 | Go | 325 | Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO. | 2026-04-24 |
@@ -56,7 +56,7 @@
 | 48 | [teachopencadd](https://github.com/volkamerlab/teachopencadd) | 1,005 | 226 | Jupyter Notebook | 34 | TeachOpenCADD: a teaching platform for computer-aided drug design (CADD) using open source packages and data | 2026-05-19 |
 | 49 | [football_analysis](https://github.com/abdullahtarek/football_analysis) | 942 | 325 | Jupyter Notebook | 16 | This repository contains a comprehensive computer vision/machine learning football project that uses YOLO for object detection, Kmeans for pixel segmentation, optical flow for motion tracking, and per... | 2024-04-23 |
 | 50 | [mac_computer_use](https://github.com/deedy/mac_computer_use) | 874 | 137 | Python | 10 | A fork of Anthropic Computer Use that you can run on Mac computers to give Claude and other AI models autonomous access to your computer. | 2024-12-16 |
-| 51 | [open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) | 869 | 94 | Swift | 2 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use | 2026-05-20 |
+| 51 | [open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) | 870 | 94 | Swift | 2 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use | 2026-05-20 |
 | 52 | [DeviceId](https://github.com/MatthewKing/DeviceId) | 868 | 128 | C# | 11 | A simple library providing functionality to generate a 'device ID' that can be used to uniquely identify a computer. | 2026-03-12 |
 | 53 | [audiogridder](https://github.com/apohl79/audiogridder) | 866 | 91 | C++ | 67 | DSP servers using general purpose computers and networks | 2024-07-31 |
 | 54 | [tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) | 855 | 263 | Jupyter Notebook | 10 | This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to e... | 2024-08-12 |
