@@ -6,8 +6,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [conductor](https://github.com/conductor-oss/conductor) | 31,840 | 902 | Java | 128 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents | 2026-05-25 |
-| 2 | [argo-workflows](https://github.com/argoproj/argo-workflows) | 16,697 | 3,546 | Go | 1172 | Workflow Engine for Kubernetes | 2026-05-25 |
+| 1 | [conductor](https://github.com/conductor-oss/conductor) | 31,840 | 903 | Java | 128 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents | 2026-05-25 |
+| 2 | [argo-workflows](https://github.com/argoproj/argo-workflows) | 16,698 | 3,546 | Go | 1172 | Workflow Engine for Kubernetes | 2026-05-25 |
 | 3 | [windmill](https://github.com/windmill-labs/windmill) | 16,573 | 967 | HTML | 545 | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. | 2026-05-25 |
 | 4 | [Activiti](https://github.com/Activiti/Activiti) | 10,521 | 6,931 | Java | 566 | Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng... | 2026-05-24 |
 | 5 | [flowable-engine](https://github.com/flowable/flowable-engine) | 9,276 | 2,844 | Java | 359 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. | 2026-05-24 |
@@ -21,7 +21,7 @@
 | 13 | [RulesEngine](https://github.com/microsoft/RulesEngine) | 4,282 | 612 | C# | 72 | A fast and reliable .NET Rules Engine with extensive Dynamic expression support | 2026-05-22 |
 | 14 | [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) | 3,721 | 470 | Python | 3 | Power CLI and Workflow manager for LLMs (core package) | 2026-04-30 |
 | 15 | [dagu](https://github.com/dagucloud/dagu) | 3,420 | 269 | Go | 113 | Lightweight workflow engine built in a single binary with Web UI. It runs any job, scripts, containers, k8s jobs, SSH commands, or AI-agent harnesses behind MCP. Define workflows in a declarative YAML... | 2026-05-25 |
-| 16 | [rocketride-server](https://github.com/rocketride-org/rocketride-server) | 3,403 | 1,054 | C++ | 58 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f... | 2026-05-25 |
+| 16 | [rocketride-server](https://github.com/rocketride-org/rocketride-server) | 3,404 | 1,054 | C++ | 58 | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f... | 2026-05-25 |
 | 17 | [o1-engineer](https://github.com/Doriandarko/o1-engineer) | 2,850 | 279 | Python | 9 | o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s... | 2024-12-16 |
 | 18 | [itext-java](https://github.com/itext/itext-java) | 2,244 | 475 | Java | 0 | iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabi... | 2026-05-22 |
 | 19 | [SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) | 1,891 | 338 | Python | 7 | A powerful workflow engine implemented in pure Python | 2026-05-14 |
