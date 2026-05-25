@@ -96,7 +96,7 @@
 | 88 | [oxproxion](https://github.com/stardomains3/oxproxion) | 313 | 39 | Kotlin | 2 | oxproxion is a versatile and user-centric Android chat application designed to interact with various Large Language Models (LLMs). It provides a seamless interface for managing conversations, customiz... | 2026-05-22 |
 | 89 | [yubikey-personalization](https://github.com/Yubico/yubikey-personalization) | 311 | 83 | C | 27 | YubiKey Personalization cross-platform library and tool | 2023-12-22 |
 | 90 | [only_train_once_personal_footprint](https://github.com/tianyic/only_train_once_personal_footprint) | 311 | 47 | Python | 11 | OTOv1-v3, NeurIPS, ICLR, TMLR, DNN Training, Compression, Structured Pruning, Erasing Operators, CNN, Diffusion, LLM | 2024-09-16 |
-| 91 | [astrbot_plugin_self_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) | 309 | 34 | Python | 2 | AstrBot 自主学习插件 — 让 AI 聊天机器人自主学习对话风格、理解群组黑话、管理社交关系与好感度、自适应人格演化，像真人一样自然对话。 | 2026-05-24 |
+| 91 | [astrbot_plugin_self_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) | 309 | 34 | Python | 3 | AstrBot 自主学习插件 — 让 AI 聊天机器人自主学习对话风格、理解群组黑话、管理社交关系与好感度、自适应人格演化，像真人一样自然对话。 | 2026-05-24 |
 | 92 | [Persona-Dialogue-Generation](https://github.com/SivilTaram/Persona-Dialogue-Generation) | 307 | 44 | Python | 2 | The code of ACL 2020 paper "You Impress Me: Dialogue Generation via Mutual Persona Perception" | 2023-10-27 |
 | 93 | [Personal-Portfolio-React](https://github.com/ZainRk/Personal-Portfolio-React) | 301 | 324 | JavaScript | 3 |  | 2024-01-02 |
 | 94 | [vCard-personal-portfolio](https://github.com/codingstella/vCard-personal-portfolio) | 293 | 185 | HTML | 1 | vCard is a fully responsive personal portfolio website, responsive for all devices. | 2024-07-16 |
