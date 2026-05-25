@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-05-22"
 date: "2026-05-22"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-05-22
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ AI agents start every session from zero — no memory of meetings, notes, or dec
 Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trai...
 
 📖 [Read original article](https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/)
-
----
-
-## 3. Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning
-
-**Author:** Sana Hassan  
-**Published:** 5/22/2026, 7:39:30 AM  
-**Categories:** Agentic AI, AI Shorts, Artificial Intelligence, Editors Pick, Software Engineering, Staff, Technology, Tutorials  
-
-In this tutorial, we explore OpenMythos by building an advanced recurrent-depth transformer workflow that runs end-to-end in Google Colab. We create both MLA and GQA model variants, compare their parameter counts, and check the stability of the recurrent injection matrix through its spectral radius....
-
-📖 [Read original article](https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/)
 
 ---
