@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI guardrails stripped from Meta and Google models in minutes
+## 1. PlainMarkdown v1.6: Clean conversion on heavy sites, AI actions and Exports
 
-**Author:** uxhacker  
-**Published:** 5/25/2026, 9:54:51 AM  
+**Author:** p_bits  
+**Published:** 5/25/2026, 2:51:38 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e Comments URL: https://news.ycombinator.com/item?id=48265131 Points: 1 # Comments: 2
+Article URL: https://plainmarkdown.com Comments URL: https://news.ycombinator.com/item?id=48267565 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e)
+📖 [Read original article](https://plainmarkdown.com)
 
 ---
 
-## 2. Mark Zuckerberg's Right-Hand Man Who's Unleashing AI at Meta
+## 2. Grappling with AI
 
-**Author:** swolpers  
-**Published:** 5/25/2026, 9:50:03 AM  
+**Author:** RyeCombinator  
+**Published:** 5/25/2026, 2:42:20 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/meta-andrew-bosworth-ai-3df12d4f Comments URL: https://news.ycombinator.com/item?id=48265102 Points: 1 # Comments: 0
+Article URL: https://hgrsd.nl/blog/grappling-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48267449 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/meta-andrew-bosworth-ai-3df12d4f)
+📖 [Read original article](https://hgrsd.nl/blog/grappling-with-ai/)
 
 ---
 
-## 3. AgentSlice – Make AI coding agents ask before they edit
+## 3. Open AI and YC
 
-**Author:** espenand  
-**Published:** 5/25/2026, 9:43:19 AM  
+**Author:** historian1066  
+**Published:** 5/25/2026, 2:40:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/espenandreass1/agentslice Comments URL: https://news.ycombinator.com/item?id=48265057 Points: 1 # Comments: 0
+Article URL: https://www.marginpoints.com/issues/2026-05-20-openai-and-yc-ipo-oxygen-hacky-sack Comments URL: https://news.ycombinator.com/item?id=48267430 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/espenandreass1/agentslice)
+📖 [Read original article](https://www.marginpoints.com/issues/2026-05-20-openai-and-yc-ipo-oxygen-hacky-sack)
 
 ---
 
-## 4. Show HN: I Built a Debugging Challenge for the AI Coding Age
+## 4. GrillKit – self-hosted AI technical interview trainer with voice
 
-**Author:** stealthy_  
-**Published:** 5/25/2026, 9:38:35 AM  
+**Author:** vitchenkokir  
+**Published:** 5/25/2026, 2:40:43 PM  
 **Categories:** -  
 
-Hi all,I'm sure some of the best engineers out here are having a hard time standing out nowadays. It's hard to evaluate and improve your skills, when AI is writing the code. Especially when a junior dev is sitting by your side and "accomplishing" 2x more than you.I didn't like this reality where the...
+Article URL: https://github.com/GrillKit/grillkit Comments URL: https://news.ycombinator.com/item?id=48267425 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theincidentchallenge.com/)
+📖 [Read original article](https://github.com/GrillKit/grillkit)
 
 ---
 
-## 5. Gemma 4: A new, budget-focused model in Posit AI
+## 5. Pope Leo's Unsettling Vision of the AI Future
 
-**Author:** ionychal  
-**Published:** 5/25/2026, 9:37:15 AM  
+**Author:** chmaynard  
+**Published:** 5/25/2026, 2:09:55 PM  
 **Categories:** -  
 
-Article URL: https://posit.co/blog/gemma-4-new-budget-focused-model-posit-ai Comments URL: https://news.ycombinator.com/item?id=48265026 Points: 1 # Comments: 0
+Article URL: https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/ Comments URL: https://news.ycombinator.com/item?id=48267073 Points: 1 # Comments: 1
 
-📖 [Read original article](https://posit.co/blog/gemma-4-new-budget-focused-model-posit-ai)
+📖 [Read original article](https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/)
 
 ---
 
-## 6. Shannon Got AI This Far. Kolmogorov Shows Where It Stops
+## 6. Vulnerability report written by AI hacker agent
 
-**Author:** t-3  
-**Published:** 5/25/2026, 9:32:13 AM  
+**Author:** gk1  
+**Published:** 5/25/2026, 1:59:18 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0 Comments URL: https://news.ycombinator.com/item?id=48264995 Points: 1 # Comments: 0
+Article URL: https://blog.tenzai.com/one-endpoint-zero-credentials-eight-confirmed-vulnerabilities/ Comments URL: https://news.ycombinator.com/item?id=48266941 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0)
+📖 [Read original article](https://blog.tenzai.com/one-endpoint-zero-credentials-eight-confirmed-vulnerabilities/)
 
 ---
 
-## 7. My AI agent called my code shit and took an unannounced vacation mid-sprint
+## 7. Repolog – website audit for SEO, performance, security, and AI readiness
 
-**Author:** KukushkinAV  
-**Published:** 5/25/2026, 9:28:25 AM  
+**Author:** petersas  
+**Published:** 5/25/2026, 1:53:35 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@kukushkinav/my-ai-agent-called-my-code-shit-took-an-unannounced-vacation-mid-sprint-and-helped-me-ship-anyway-250c032e7d52 Comments URL: https://news.ycombinator.com/item?id=48264968 Points: 2 # Comments: 0
+Article URL: https://repolog.io/ Comments URL: https://news.ycombinator.com/item?id=48266871 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@kukushkinav/my-ai-agent-called-my-code-shit-took-an-unannounced-vacation-mid-sprint-and-helped-me-ship-anyway-250c032e7d52)
+📖 [Read original article](https://repolog.io/)
 
 ---
 
-## 8. Show HN: HTML Deployer – AI Code to Website Publisher
+## 8. An AI-generated film premiered at Cannes
 
-**Author:** slimcrm  
-**Published:** 5/25/2026, 9:14:41 AM  
+**Author:** leopoldj  
+**Published:** 5/25/2026, 1:52:49 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/html-deployer-1-click-ai/gihmknkabkkghpiocgnoiejagngdegea Comments URL: https://news.ycombinator.com/item?id=48264901 Points: 2 # Comments: 0
+Article URL: https://tech.yahoo.com/ai/article/a-fully-ai-generated-film-premiered-at-cannes-this-week-150336602.html Comments URL: https://news.ycombinator.com/item?id=48266854 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/html-deployer-1-click-ai/gihmknkabkkghpiocgnoiejagngdegea)
+📖 [Read original article](https://tech.yahoo.com/ai/article/a-fully-ai-generated-film-premiered-at-cannes-this-week-150336602.html)
 
 ---
 
-## 9. College Kids Don't Want Your AI [video]
+## 9. The uncritical adoption of AI in science is alarming – We need guard rails
+
+**Author:** b-man  
+**Published:** 5/25/2026, 1:51:02 PM  
+**Categories:** -  
+
+Article URL: https://www.nature.com/articles/d41586-026-01557-x Comments URL: https://news.ycombinator.com/item?id=48266829 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.nature.com/articles/d41586-026-01557-x)
+
+---
+
+## 10. Microsoft just banned its own engineers from using AI
+
+**Author:** choam  
+**Published:** 5/25/2026, 1:49:12 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/Ric_RTP/status/2058546401483653236 Comments URL: https://news.ycombinator.com/item?id=48266810 Points: 4 # Comments: 3
+
+📖 [Read original article](https://twitter.com/Ric_RTP/status/2058546401483653236)
+
+---
+
+## 11. AI Economics Part 2
+
+**Author:** gmays  
+**Published:** 5/25/2026, 1:43:17 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/sriramkri/status/2054594308494229882 Comments URL: https://news.ycombinator.com/item?id=48266735 Points: 3 # Comments: 0
+
+📖 [Read original article](https://twitter.com/sriramkri/status/2054594308494229882)
+
+---
+
+## 12. Pope Leo denounces 'culture of power' driving rise of AI
+
+**Author:** igortru  
+**Published:** 5/25/2026, 1:42:35 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery Comments URL: https://news.ycombinator.com/item?id=48266725 Points: 5 # Comments: 1
+
+📖 [Read original article](https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery)
+
+---
+
+## 13. I built a free zero-knowledge memory layer for AI agents (<5ms local recall)
+
+**Author:** radebe49  
+**Published:** 5/25/2026, 1:42:24 PM  
+**Categories:** -  
+
+Article URL: https://github.com/sovseal/core Comments URL: https://news.ycombinator.com/item?id=48266721 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/sovseal/core)
+
+---
+
+## 14. Not All On-Device AI Is the Same – Chip Compute Tiers Decide Product Capability
+
+**Author:** EnXu  
+**Published:** 5/25/2026, 1:20:21 PM  
+**Categories:** -  
+
+Article URL: https://www.easelinktech.com/not-all-on-device-ai-is-the-same-how-chip-compute-tiers-decide-what-your-product-can-actually-do/ Comments URL: https://news.ycombinator.com/item?id=48266512 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.easelinktech.com/not-all-on-device-ai-is-the-same-how-chip-compute-tiers-decide-what-your-product-can-actually-do/)
+
+---
+
+## 15. RCF Protocol – license layer to protect code semantics from AI replication
+
+**Author:** rcf-protocol  
+**Published:** 5/25/2026, 1:20:10 PM  
+**Categories:** -  
+
+Article URL: https://aliyev.site/rcf/ Comments URL: https://news.ycombinator.com/item?id=48266509 Points: 3 # Comments: 1
+
+📖 [Read original article](https://aliyev.site/rcf/)
+
+---
+
+## 16. Pope Leo XIV says AI must serve humanity, not the powerful few
+
+**Author:** benwerd  
+**Published:** 5/25/2026, 1:17:58 PM  
+**Categories:** -  
+
+Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 135 # Comments: 52
+
+📖 [Read original article](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+
+---
+
+## 17. Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"
+
+**Author:** embedding-shape  
+**Published:** 5/25/2026, 1:12:40 PM  
+**Categories:** -  
+
+Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/ Comments URL: https://news.ycombinator.com/item?id=48266435 Points: 35 # Comments: 2
+
+📖 [Read original article](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
+
+---
+
+## 18. AI load breaks GitHub – why not other vendors?
+
+**Author:** gtirloni  
+**Published:** 5/25/2026, 12:59:21 PM  
+**Categories:** -  
+
+Article URL: https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/ Comments URL: https://news.ycombinator.com/item?id=48266309 Points: 3 # Comments: 0
+
+📖 [Read original article](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/)
+
+---
+
+## 19. Do you review AI generated code differently based on where it is in your code?
+
+**Author:** thillel  
+**Published:** 5/25/2026, 12:55:59 PM  
+**Categories:** -  
+
+Do you have any systems in place to differentiate between ai generated code and human generated code? do both get the same level of code review? or do some parts of the code get heavier code review than others? Comments URL: https://news.ycombinator.com/item?id=48266275 Points: 2 # Comments: 2
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48266275)
+
+---
+
+## 20. The AI Boom Is Reshuffling the Global Stock Market Hierarchy [video]
 
 **Author:** mgh2  
-**Published:** 5/25/2026, 9:03:40 AM  
+**Published:** 5/25/2026, 12:53:31 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=48gbASLLK7U Comments URL: https://news.ycombinator.com/item?id=48264844 Points: 4 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=48ffHKbQpbE Comments URL: https://news.ycombinator.com/item?id=48266244 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=48gbASLLK7U)
-
----
-
-## 10. I Used AI to Untangle a Legacy Service I'd Never Touched Before
-
-**Author:** talvardi7  
-**Published:** 5/25/2026, 9:01:22 AM  
-**Categories:** -  
-
-Article URL: https://theaileverageweekly.com/posts/how-i-used-ai-to-untangle-a-legacy-service-i-d-never-touched-before.html Comments URL: https://news.ycombinator.com/item?id=48264825 Points: 2 # Comments: 0
-
-📖 [Read original article](https://theaileverageweekly.com/posts/how-i-used-ai-to-untangle-a-legacy-service-i-d-never-touched-before.html)
-
----
-
-## 11. Greetings, Class of 2026 Have You Heard About AI? Wait, Why Are You Booing?
-
-**Author:** Michelangelo11  
-**Published:** 5/25/2026, 8:49:17 AM  
-**Categories:** -  
-
-Article URL: https://www.theatlantic.com/newsletters/2026/05/ai-commencement-speech/687236/ Comments URL: https://news.ycombinator.com/item?id=48264761 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.theatlantic.com/newsletters/2026/05/ai-commencement-speech/687236/)
-
----
-
-## 12. Uvora Growth OS – AI marketing automation and lead generation platform
-
-**Author:** ghcosmin  
-**Published:** 5/25/2026, 8:23:45 AM  
-**Categories:** -  
-
-Article URL: https://growth.uvora.cloud Comments URL: https://news.ycombinator.com/item?id=48264631 Points: 2 # Comments: 0
-
-📖 [Read original article](https://growth.uvora.cloud)
-
----
-
-## 13. The Essential Cloud for AI: Why Purpose-Built Defines the Future of Intelligence
-
-**Author:** janandonly  
-**Published:** 5/25/2026, 7:52:15 AM  
-**Categories:** -  
-
-Article URL: https://www.coreweave.com/blog/the-essential-cloud-for-ai-why-purpose-built-defines-the-future-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48264478 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.coreweave.com/blog/the-essential-cloud-for-ai-why-purpose-built-defines-the-future-of-intelligence)
-
----
-
-## 14. AI is not making software worse, people are
-
-**Author:** purpleberry  
-**Published:** 5/25/2026, 7:29:51 AM  
-**Categories:** -  
-
-Article URL: https://rapha.land/no-ai-is-not-making-software-worse-people-are/ Comments URL: https://news.ycombinator.com/item?id=48264348 Points: 4 # Comments: 2
-
-📖 [Read original article](https://rapha.land/no-ai-is-not-making-software-worse-people-are/)
-
----
-
-## 15. If you let AI do your writing, I will come to your house and kill you
-
-**Author:** ghghgfdfgh  
-**Published:** 5/25/2026, 7:19:14 AM  
-**Categories:** -  
-
-Article URL: https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will Comments URL: https://news.ycombinator.com/item?id=48264290 Points: 23 # Comments: 5
-
-📖 [Read original article](https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will)
-
----
-
-## 16. AI Makes Adding Features Faster – So Why Not Add Just One More?
-
-**Author:** edf13  
-**Published:** 5/25/2026, 6:20:21 AM  
-**Categories:** -  
-
-Article URL: https://grith.ai/blog/just-one-more-feature?nop Comments URL: https://news.ycombinator.com/item?id=48263974 Points: 3 # Comments: 2
-
-📖 [Read original article](https://grith.ai/blog/just-one-more-feature?nop)
-
----
-
-## 17. Ask HN: How to get back into programming without AI?
-
-**Author:** coolcoder613  
-**Published:** 5/25/2026, 6:18:00 AM  
-**Categories:** -  
-
-It's been a long time since I've written code without AI, and I miss it. How can I get back into it without ending up reaching for AI? Comments URL: https://news.ycombinator.com/item?id=48263955 Points: 6 # Comments: 10
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48263955)
-
----
-
-## 18. Claude's Mythos AI model may cause security issues for your money
-
-**Author:** austinallegro  
-**Published:** 5/25/2026, 5:38:52 AM  
-**Categories:** -  
-
-Article URL: https://www.rte.ie/brainstorm/2026/0517/1572343-claude-ai-model-security-issues-humans-work-information-data/ Comments URL: https://news.ycombinator.com/item?id=48263736 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.rte.ie/brainstorm/2026/0517/1572343-claude-ai-model-security-issues-humans-work-information-data/)
-
----
-
-## 19. Kevin O'Leary wants AI data centre in Utah. Some residents aren't happy
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 5/25/2026, 5:05:43 AM  
-**Categories:** -  
-
-Article URL: https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716 Comments URL: https://news.ycombinator.com/item?id=48263564 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716)
-
----
-
-## 20. My AI coding flow was burning tokens to do things code should do
-
-**Author:** toadi  
-**Published:** 5/25/2026, 4:22:34 AM  
-**Categories:** -  
-
-Article URL: https://geerttheys.substack.com/p/i-agent-deterministic-coding-flow Comments URL: https://news.ycombinator.com/item?id=48263366 Points: 3 # Comments: 1
-
-📖 [Read original article](https://geerttheys.substack.com/p/i-agent-deterministic-coding-flow)
+📖 [Read original article](https://www.youtube.com/watch?v=48ffHKbQpbE)
 
 ---
