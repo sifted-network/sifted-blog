@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 32,087 | 2,767 | Python | 83 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
+| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 32,088 | 2,767 | Python | 83 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
 | 2 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,471 | 1,971 | Go | 171 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-24 |
 | 3 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 12,832 | 2,067 | Python | 290 | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | 2024-01-23 |
 | 4 | [HRM](https://github.com/sapientinc/HRM) | 12,476 | 1,822 | Python | 61 | Hierarchical Reasoning Model Official Release | 2026-03-31 |
