@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-05-24"
 date: "2026-05-24"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-05-24
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. New Zealand at wild frontier of AI superhacking
+## 1. What to know about the AI models that are jolting Washington
 
-**Author:** billybuckwheat  
-**Published:** 5/24/2026, 7:05:27 PM  
+**Author:** TMWNN  
+**Published:** 5/24/2026, 11:14:37 PM  
 **Categories:** -  
 
-Article URL: https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking Comments URL: https://news.ycombinator.com/item?id=48260065 Points: 4 # Comments: 1
+Article URL: https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668 Comments URL: https://news.ycombinator.com/item?id=48261970 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.rnz.co.nz/news/science-and-technology/596203/nz-at-wild-frontier-of-ai-superhacking)
+📖 [Read original article](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)
 
 ---
 
-## 2. The Race Is on (AI)
+## 2. AI for Design Needs Solving
 
-**Author:** smesser  
-**Published:** 5/24/2026, 7:05:10 PM  
+**Author:** vinayak-shukla  
+**Published:** 5/24/2026, 11:09:02 PM  
 **Categories:** -  
 
-Article URL: https://www.reloadnyc.com/the-race-is-on/ Comments URL: https://news.ycombinator.com/item?id=48260062 Points: 1 # Comments: 0
+Article URL: https://freedium-mirror.cfd/https://medium.com/@mini.1409/ai-for-design-needs-solving-db3f11af77d4 Comments URL: https://news.ycombinator.com/item?id=48261923 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reloadnyc.com/the-race-is-on/)
+📖 [Read original article](https://freedium-mirror.cfd/https://medium.com/@mini.1409/ai-for-design-needs-solving-db3f11af77d4)
 
 ---
 
-## 3. Google CEO Sundar Pichai says booing graduates will shape AI's future
+## 3. AI in journalism: Live tracker of scandals and mistakes
 
-**Author:** 01-_-  
-**Published:** 5/24/2026, 6:50:17 PM  
+**Author:** gnabgib  
+**Published:** 5/24/2026, 11:09:00 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=48259944 Points: 2 # Comments: 0
+Article URL: https://pressgazette.co.uk/publishers/digital-journalism/ai-journalism-mistakes/ Comments URL: https://news.ycombinator.com/item?id=48261922 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt)
+📖 [Read original article](https://pressgazette.co.uk/publishers/digital-journalism/ai-journalism-mistakes/)
 
 ---
 
-## 4. Show HN: TalkTimer, a micro-SaaS run by an AI agent team
+## 4. Predicting AI Job Exposure
 
-**Author:** a3e7  
-**Published:** 5/24/2026, 6:49:35 PM  
+**Author:** chmaynard  
+**Published:** 5/24/2026, 11:05:48 PM  
 **Categories:** -  
 
-Built TalkTimer for talks, demos, hackathons, and similar live events.TalkTimer is a stage timer app for live events, with AI moderated audience Q&A and AI-assisted schedule rebalancing built in.The product is built and operated by a team of AI agents. Posting it here mainly to get early feedback th...
+Article URL: https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure Comments URL: https://news.ycombinator.com/item?id=48261903 Points: 2 # Comments: 0
 
-📖 [Read original article](https://talktimer.co)
+📖 [Read original article](https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure)
 
 ---
 
-## 5. Show HN: Trickster's Table – 20 free trick-taking card games with AI opponents
+## 5. Portability Is a Myth: Why the Best AI Stacks Will Never Be Hardware-Agnostic
 
-**Author:** dbravender  
-**Published:** 5/24/2026, 6:36:02 PM  
+**Author:** gmays  
+**Published:** 5/24/2026, 10:45:31 PM  
 **Categories:** -  
 
-Hi HN, I’m Dan. I made Trickster's Table, a free mobile and web-based app for playing modern trick-taking card games against AI opponents.The app currently includes 20 games, including Stick 'Em, Yokai Septet, Potato Man, Best of Neapolitan, Pala, Torchlit, and several newer/smaller titles that are ...
+Article URL: https://twitter.com/PatrickToulme/status/2055709800986780028 Comments URL: https://news.ycombinator.com/item?id=48261760 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tricksterstable.playagame.app)
+📖 [Read original article](https://twitter.com/PatrickToulme/status/2055709800986780028)
 
 ---
 
-## 6. Read Trump's unsigned AI executive order
+## 6. AI-Driven Design Automation
 
-**Author:** campuscodi  
-**Published:** 5/24/2026, 6:23:46 PM  
+**Author:** _doctor_love  
+**Published:** 5/24/2026, 10:45:26 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/05/22/heres-a-draft-of-trumps-unsigned-ai-executive-order-00933411 Comments URL: https://news.ycombinator.com/item?id=48259746 Points: 2 # Comments: 0
+Article URL: https://en.wikipedia.org/wiki/AI-driven_design_automation Comments URL: https://news.ycombinator.com/item?id=48261757 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.politico.com/news/2026/05/22/heres-a-draft-of-trumps-unsigned-ai-executive-order-00933411)
+📖 [Read original article](https://en.wikipedia.org/wiki/AI-driven_design_automation)
 
 ---
 
-## 7. Venture Capitalist John Doerr Says AI Is the Biggest Tech 'Tsunami'
+## 7. What's Left for AI-Assisted Coding
 
-**Author:** Brajeshwar  
-**Published:** 5/24/2026, 6:15:49 PM  
+**Author:** sbochins  
+**Published:** 5/24/2026, 10:28:29 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60 Comments URL: https://news.ycombinator.com/item?id=48259685 Points: 2 # Comments: 0
+Article URL: https://stephen.bochinski.dev/blog/2026/05/24/whats-left-for-ai-assisted-coding/ Comments URL: https://news.ycombinator.com/item?id=48261650 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)
+📖 [Read original article](https://stephen.bochinski.dev/blog/2026/05/24/whats-left-for-ai-assisted-coding/)
 
 ---
 
-## 8. AI Can't Care
+## 8. Mcgoats AI-powered game development template
 
-**Author:** mooreds  
-**Published:** 5/24/2026, 6:15:00 PM  
+**Author:** lastdong  
+**Published:** 5/24/2026, 10:21:25 PM  
 **Categories:** -  
 
-Article URL: https://www.mooreds.com/wordpress/archives/3737 Comments URL: https://news.ycombinator.com/item?id=48259679 Points: 3 # Comments: 0
+Article URL: https://github.com/Totes-MickGOATs/mcgoats-game-template Comments URL: https://news.ycombinator.com/item?id=48261605 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.mooreds.com/wordpress/archives/3737)
+📖 [Read original article](https://github.com/Totes-MickGOATs/mcgoats-game-template)
 
 ---
 
-## 9. Find where your AI coding tokens went: local TUI for Codex/Claude logs
+## 9. Vericoding: The End of \"Trust Me Bro, The AI Wrote It\"
 
-**Author:** peterxcli  
-**Published:** 5/24/2026, 5:38:52 PM  
+**Author:** _doctor_love  
+**Published:** 5/24/2026, 10:07:38 PM  
 **Categories:** -  
 
-Article URL: https://github.com/peterxcli/ccost Comments URL: https://news.ycombinator.com/item?id=48259342 Points: 1 # Comments: 0
+Article URL: https://blog.icme.io/vericoding-the-end-of-trust-me-bro-the-ai-wrote-it/ Comments URL: https://news.ycombinator.com/item?id=48261501 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/peterxcli/ccost)
+📖 [Read original article](https://blog.icme.io/vericoding-the-end-of-trust-me-bro-the-ai-wrote-it/)
 
 ---
 
-## 10. Ask HN: What is your daily AI stack?
+## 10. Bone Keeper AI Assisted Feature Film
 
-**Author:** dockerd  
-**Published:** 5/24/2026, 5:34:52 PM  
+**Author:** sosuke  
+**Published:** 5/24/2026, 9:54:59 PM  
 **Categories:** -  
 
-Which AI tools benefiting you most in day-day work? Which tool you stopped using? Let's share so that we can each learn from other experience and use them.I am coder and here is what I am using currently:1. LLM models - Claude / Deepseek 2. AI Coding agent - Pi 3. Agent skills - Pi-subagents 4. Loca...
+Article URL: https://sosuke.com/bone-keeper-ai-assisted-feature-film/ Comments URL: https://news.ycombinator.com/item?id=48261396 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48259299)
+📖 [Read original article](https://sosuke.com/bone-keeper-ai-assisted-feature-film/)
 
 ---
 
-## 11. Neuro; An AOT-compiled language for AI workloads built on LLVM 20
+## 11. Nuance in all things. A dive into (Anti-) \"AI\" Myths (2025)
 
-**Author:** PanzerPeter  
-**Published:** 5/24/2026, 5:34:40 PM  
+**Author:** rendx  
+**Published:** 5/24/2026, 9:50:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/PanzerPeter/Neuro Comments URL: https://news.ycombinator.com/item?id=48259294 Points: 1 # Comments: 0
+Article URL: https://k4tana.github.io/blog/2025/06/04/AI-Nuanced-Take.html Comments URL: https://news.ycombinator.com/item?id=48261351 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/PanzerPeter/Neuro)
-
----
-
-## 12. Resyl – AI memory that ties your notes to people instead of folders (Android)
-
-**Author:** thisisaman408  
-**Published:** 5/24/2026, 5:26:43 PM  
-**Categories:** -  
-
-Article URL: https://play.google.com/store/apps/details?id=com.muragun.resyl&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48259228 Points: 1 # Comments: 0
-
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.muragun.resyl&hl=en_US)
-
----
-
-## 13. Preventing AI agents from executing destructive terminal commands
-
-**Author:** majesty-m  
-**Published:** 5/24/2026, 5:15:39 PM  
-**Categories:** -  
-
-Article URL: https://github.com/7Majesty-M/terminal-guardian-mcp Comments URL: https://news.ycombinator.com/item?id=48259123 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/7Majesty-M/terminal-guardian-mcp)
-
----
-
-## 14. Advancing Mathematics Research with AI-Driven Formal Proof Search
-
-**Author:** tamnd  
-**Published:** 5/24/2026, 5:10:18 PM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=48259081 Points: 2 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2605.22763)
-
----
-
-## 15. Apple Preparing New 'Gen AI' Website Ahead of WWDC
-
-**Author:** Brajeshwar  
-**Published:** 5/24/2026, 4:44:59 PM  
-**Categories:** -  
-
-Article URL: https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/ Comments URL: https://news.ycombinator.com/item?id=48258832 Points: 6 # Comments: 2
-
-📖 [Read original article](https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/)
-
----
-
-## 16. Memory has grown to nearly two-thirds of AI chip component costs
-
-**Author:** intelkishan  
-**Published:** 5/24/2026, 4:31:29 PM  
-**Categories:** -  
-
-Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 139 # Comments: 144
-
-📖 [Read original article](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-
----
-
-## 17. Ask HN: Why do people seem to generally hate AI?
-
-**Author:** Austin_Conlon  
-**Published:** 5/24/2026, 4:25:49 PM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=48258612 Points: 4 # Comments: 8
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48258612)
-
----
-
-## 18. Resonance, randomness, and negotiated meaning for AI-assisted tarot divination
-
-**Author:** lkellar  
-**Published:** 5/24/2026, 4:21:15 PM  
-**Categories:** -  
-
-Article URL: https://dl.acm.org/doi/10.1145/3772318.3791571 Comments URL: https://news.ycombinator.com/item?id=48258553 Points: 2 # Comments: 0
-
-📖 [Read original article](https://dl.acm.org/doi/10.1145/3772318.3791571)
-
----
-
-## 19. AI MOD Music Remastering at 32-bit 96 kHz
-
-**Author:** fechols  
-**Published:** 5/24/2026, 4:11:28 PM  
-**Categories:** -  
-
-Article URL: https://github.com/Kind-Computers/quinlight-audio Comments URL: https://news.ycombinator.com/item?id=48258457 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/Kind-Computers/quinlight-audio)
-
----
-
-## 20. 'AI washing': firms are scrambling to rebrand themselves as tech-focused
-
-**Author:** Brajeshwar  
-**Published:** 5/24/2026, 3:21:28 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 118 # Comments: 91
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
+📖 [Read original article](https://k4tana.github.io/blog/2025/06/04/AI-Nuanced-Take.html)
 
 ---
