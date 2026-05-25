@@ -7,10 +7,10 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [dify](https://github.com/langgenius/dify) | 142,512 | 22,420 | TypeScript | 284 | Production-ready platform for agentic workflow development. | 2026-05-25 |
-| 2 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 59,292 | 4,833 | TypeScript | 325 | omo; the best agent harness - previously oh-my-opencode | 2026-05-25 |
+| 2 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 59,293 | 4,833 | TypeScript | 325 | omo; the best agent harness - previously oh-my-opencode | 2026-05-25 |
 | 3 | [ruflo](https://github.com/ruvnet/ruflo) | 54,832 | 6,235 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-25 |
-| 4 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,121 | 7,224 | Python | 35 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
-| 5 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 44,721 | 3,848 | Python | 336 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | 2026-04-27 |
+| 4 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,122 | 7,224 | Python | 35 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
+| 5 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 44,722 | 3,848 | Python | 336 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | 2026-04-27 |
 | 6 | [agents](https://github.com/wshobson/agents) | 35,892 | 3,902 | Python | 0 | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI | 2026-05-25 |
 | 7 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,765 | 3,183 | TypeScript | 4 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-24 |
 | 8 | [sim](https://github.com/simstudioai/sim) | 28,603 | 3,619 | TypeScript | 100 | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | 2026-05-24 |
