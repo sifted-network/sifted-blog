@@ -6,23 +6,23 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [superpowers](https://github.com/obra/superpowers) | 205,412 | 18,306 | Shell | 139 | An agentic skills framework & software development methodology that works. | 2026-05-24 |
-| 2 | [langchain](https://github.com/langchain-ai/langchain) | 137,573 | 22,774 | Python | 418 | The agent engineering platform. | 2026-05-23 |
-| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 79,325 | 15,462 | Python | 213 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
+| 1 | [superpowers](https://github.com/obra/superpowers) | 205,426 | 18,308 | Shell | 139 | An agentic skills framework & software development methodology that works. | 2026-05-24 |
+| 2 | [langchain](https://github.com/langchain-ai/langchain) | 137,574 | 22,774 | Python | 418 | The agent engineering platform. | 2026-05-23 |
+| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 79,329 | 15,462 | Python | 213 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
 | 4 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 68,266 | 8,698 | Python | 23 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 2026-01-21 |
 | 5 | [autogen](https://github.com/microsoft/autogen) | 58,368 | 8,810 | Python | 527 | A programming framework for agentic AI | 2026-04-15 |
-| 6 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,129 | 7,230 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-25 |
+| 6 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,130 | 7,230 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-25 |
 | 7 | [llama_index](https://github.com/run-llama/llama_index) | 49,644 | 7,456 | Python | 186 | LlamaIndex is the leading document agent and OCR platform | 2026-05-20 |
 | 8 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | 33,039 | 2,274 | Python | 920 | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | 2026-05-23 |
-| 9 | [langgraph](https://github.com/langchain-ai/langgraph) | 32,868 | 5,558 | Python | 313 | Build resilient agents. | 2026-05-24 |
+| 9 | [langgraph](https://github.com/langchain-ai/langgraph) | 32,870 | 5,558 | Python | 313 | Build resilient agents. | 2026-05-24 |
 | 10 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,631 | 4,093 | Python | 43 | A lightweight, powerful framework for multi-agent workflows | 2026-05-22 |
 | 11 | [haystack](https://github.com/deepset-ai/haystack) | 25,369 | 2,806 | MDX | 89 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-22 |
-| 12 | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 25,358 | 3,965 | Python | 190 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | 2026-03-06 |
-| 13 | [mastra](https://github.com/mastra-ai/mastra) | 24,272 | 2,121 | TypeScript | 224 | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | 2026-05-25 |
+| 12 | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 25,359 | 3,965 | Python | 190 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | 2026-03-06 |
+| 13 | [mastra](https://github.com/mastra-ai/mastra) | 24,273 | 2,121 | TypeScript | 224 | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | 2026-05-25 |
 | 14 | [12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 22,258 | 1,675 | TypeScript | 12 | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? | 2025-09-21 |
 | 15 | [swarm](https://github.com/openai/swarm) | 21,525 | 2,292 | Python | 23 | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. | 2026-04-15 |
-| 16 | [hyperframes](https://github.com/heygen-com/hyperframes) | 20,965 | 1,980 | TypeScript | 6 | Write HTML. Render video. Built for agents. | 2026-05-25 |
-| 17 | [eliza](https://github.com/elizaOS/eliza) | 18,450 | 5,550 | TypeScript | 13 | Open source agentic operating system | 2026-05-25 |
+| 16 | [hyperframes](https://github.com/heygen-com/hyperframes) | 20,968 | 1,980 | TypeScript | 6 | Write HTML. Render video. Built for agents. | 2026-05-25 |
+| 17 | [eliza](https://github.com/elizaOS/eliza) | 18,450 | 5,550 | TypeScript | 14 | Open source agentic operating system | 2026-05-25 |
 | 18 | [agent-zero](https://github.com/agent0ai/agent-zero) | 17,796 | 3,633 | Python | 213 | Agent Zero AI framework | 2026-05-23 |
 | 19 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 17,533 | 2,215 | Python | 180 | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. | 2025-01-22 |
 | 20 | [pydantic-ai](https://github.com/pydantic/pydantic-ai) | 17,273 | 2,130 | Python | 378 | AI Agent Framework, the Pydantic way | 2026-05-25 |
@@ -36,13 +36,13 @@
 | 28 | [agents](https://github.com/livekit/agents) | 10,670 | 3,167 | Python | 204 | A framework for building realtime voice AI agents 🤖🎙️📹  | 2026-05-25 |
 | 29 | [PocketFlow](https://github.com/The-Pocket/PocketFlow) | 10,661 | 1,163 | Python | 59 | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | 2026-03-27 |
 | 30 | [ten-framework](https://github.com/TEN-framework/ten-framework) | 10,604 | 1,282 | Python | 157 |  Open-source framework for conversational voice AI agents | 2026-05-20 |
-| 31 | [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 10,553 | 1,004 | Python | 47 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi... | 2026-05-24 |
-| 32 | [mcp-use](https://github.com/mcp-use/mcp-use) | 9,994 | 1,300 | TypeScript | 52 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | 2026-05-24 |
+| 31 | [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 10,555 | 1,004 | Python | 48 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi... | 2026-05-24 |
+| 32 | [mcp-use](https://github.com/mcp-use/mcp-use) | 9,995 | 1,300 | TypeScript | 52 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | 2026-05-24 |
 | 33 | [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 9,720 | 2,176 | Java | 233 | Agentic AI Framework for Java Developers | 2026-05-24 |
 | 34 | [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 9,543 | 947 | Python | 296 | An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL) | 2026-05-15 |
 | 35 | [AutoAgent](https://github.com/HKUDS/AutoAgent) | 9,342 | 1,314 | Python | 54 | "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" | 2025-10-16 |
 | 36 | [voltagent](https://github.com/VoltAgent/voltagent) | 9,137 | 935 | TypeScript | 25 | AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework | 2026-05-22 |
-| 37 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 8,616 | 1,073 | Python | 9 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop... | 2026-05-13 |
+| 37 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 8,620 | 1,073 | Python | 9 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop... | 2026-05-13 |
 | 38 | [PraisonAI](https://github.com/MervinPraison/PraisonAI) | 7,951 | 1,217 | Python | 74 | PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with bui... | 2026-05-24 |
 | 39 | [lamda](https://github.com/firerpa/lamda) | 7,804 | 1,046 | Python | 41 |  The most powerful Android RPA agent framework, next generation mobile automation. | 2026-03-24 |
 | 40 | [agent-squad](https://github.com/2FastLabs/agent-squad) | 7,638 | 720 | Python | 59 | Flexible and powerful framework for managing multiple AI agents and handling complex conversations | 2026-05-22 |
@@ -60,21 +60,21 @@
 | 52 | [ROMA](https://github.com/sentient-agi/ROMA) | 5,067 | 771 | Python | 15 | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. | 2026-02-16 |
 | 53 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5,041 | 512 | JavaScript | 26 | 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation | 2024-09-09 |
 | 54 | [formkit](https://github.com/formkit/formkit) | 4,713 | 201 | TypeScript | 159 | The form framework for coding agents | 2026-05-12 |
-| 55 | [solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) | 4,588 | 249 | Python | 17 | An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s... | 2026-05-22 |
+| 55 | [solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) | 4,590 | 249 | Python | 17 | An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s... | 2026-05-22 |
 | 56 | [youtu-agent](https://github.com/TencentCloudADP/youtu-agent) | 4,563 | 470 | Python | 50 | A simple yet powerful agent framework that delivers with open-source models | 2026-03-21 |
 | 57 | [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 4,490 | 573 | Shell | 0 | Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. | 2026-05-20 |
 | 58 | [PPTAgent](https://github.com/icip-cas/PPTAgent) | 4,438 | 536 | Python | 3 | An Agentic Framework for Reflective PowerPoint Generation | 2026-05-24 |
 | 59 | [agency-swarm](https://github.com/VRSEN/agency-swarm) | 4,414 | 1,056 | Python | 1 | Reliable Multi-Agent Orchestration Framework | 2026-05-25 |
 | 60 | [cognita](https://github.com/truefoundry/cognita) | 4,408 | 387 | Python | 14 | RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry  | 2026-03-13 |
 | 61 | [ms-agent](https://github.com/modelscope/ms-agent) | 4,278 | 503 | Python | 11 | MS-Agent: a lightweight framework to empower agentic execution of complex tasks | 2026-04-15 |
-| 62 | [koog](https://github.com/JetBrains/koog) | 4,228 | 410 | Kotlin | 75 | Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-brow... | 2026-05-22 |
+| 62 | [koog](https://github.com/JetBrains/koog) | 4,229 | 410 | Kotlin | 75 | Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-brow... | 2026-05-22 |
 | 63 | [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) | 4,148 | 373 | Python | 32 | AdalFlow: The library to build & auto-optimize LLM applications. | 2026-05-25 |
 | 64 | [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | 4,135 | 339 | TypeScript | 36 | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f... | 2026-03-25 |
 | 65 | [browser-agent](https://github.com/magnitudedev/browser-agent) | 4,065 | 230 | TypeScript | 25 | Open-source, vision-first browser agent | 2026-02-08 |
 | 66 | [PromptWizard](https://github.com/microsoft/PromptWizard) | 3,867 | 337 | Python | 11 | Task-Aware Agent-driven Prompt Optimization Framework | 2025-10-13 |
 | 67 | [LazyLLM](https://github.com/LazyAGI/LazyLLM) | 3,832 | 389 | Python | 30 | Easiest and laziest way for  building multi-agent LLMs applications. | 2026-05-24 |
 | 68 | [flue](https://github.com/withastro/flue) | 3,699 | 195 | TypeScript | 6 | The sandbox agent framework. | 2026-05-24 |
-| 69 | [open-slide](https://github.com/1weiho/open-slide) | 3,668 | 262 | TypeScript | 4 | A slide framework built for agents. | 2026-05-25 |
+| 69 | [open-slide](https://github.com/1weiho/open-slide) | 3,669 | 262 | TypeScript | 4 | A slide framework built for agents. | 2026-05-25 |
 | 70 | [arrow-js](https://github.com/standardagents/arrow-js) | 3,522 | 75 | TypeScript | 4 | The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. | 2026-04-01 |
 | 71 | [embabel-agent](https://github.com/embabel/embabel-agent) | 3,449 | 343 | Kotlin | 49 | Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ | 2026-05-24 |
 | 72 | [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 3,399 | 443 | Python | 4 | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi... | 2026-05-04 |
@@ -102,7 +102,7 @@
 | 94 | [lagent](https://github.com/InternLM/lagent) | 2,252 | 230 | Python | 8 | A lightweight framework for building LLM-based agents | 2026-05-22 |
 | 95 | [pymarl](https://github.com/oxwhirl/pymarl) | 2,195 | 413 | Python | 48 | Python Multi-Agent Reinforcement Learning framework | 2022-12-08 |
 | 96 | [graph-rag-agent](https://github.com/1517005260/graph-rag-agent) | 2,178 | 304 | Python | 30 | 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架\| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction... | 2025-11-05 |
-| 97 | [harbor](https://github.com/harbor-framework/harbor) | 2,104 | 1,055 | Python | 104 | Harbor is a framework for running agent evaluations and creating and using RL environments. | 2026-05-25 |
+| 97 | [harbor](https://github.com/harbor-framework/harbor) | 2,105 | 1,055 | Python | 104 | Harbor is a framework for running agent evaluations and creating and using RL environments. | 2026-05-25 |
 | 98 | [llama_deploy](https://github.com/run-llama/llama_deploy) | 2,068 | 227 | Python | 28 | Deploy your agentic worfklows to production | 2026-04-06 |
 | 99 | [Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) | 2,034 | 162 | TypeScript | 0 |  JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution | 2026-05-14 |
 | 100 | [notte](https://github.com/nottelabs/notte) | 1,963 | 182 | Python | 5 | 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra. | 2026-05-23 |
