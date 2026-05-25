@@ -28,14 +28,6 @@
       ]
     },
     {
-      "name": "Coding Agent",
-      "desc": "AI Coding Assistant",
-      "topics": [
-        "Coding Agent",
-        "Self-Healing Code"
-      ]
-    },
-    {
       "name": "Computer Use",
       "desc": "Browser & Computer Automation",
       "topics": [
