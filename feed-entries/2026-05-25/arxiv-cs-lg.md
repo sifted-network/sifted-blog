@@ -905,7 +905,7 @@ arXiv:2605.23393v1 Announce Type: new Abstract: Mechanistic interpretability of 
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.23395v1 Announce Type: new Abstract: Compositional energy-based models can generalize to larger combinatorial reasoning problems by reusing a learned factor energy across many local constraints. In our paper, we show that a key bottleneck in compositional reasoning is not composition itse...
+arXiv:2605.23395v2 Announce Type: new Abstract: Compositional energy-based models can generalize to larger combinatorial reasoning problems by reusing a learned factor energy across many local constraints. In our paper, we show that a key bottleneck in compositional reasoning is not composition itse...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23395)
 
@@ -1097,7 +1097,7 @@ arXiv:2605.23471v1 Announce Type: new Abstract: Aggressive driving is a major ca
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.23473v1 Announce Type: new Abstract: Bayesian optimization is widely employed for optimizing complex black-box functions but struggles with the curse of dimensionality. Random embedding, as a dimension reduction strategy, simplifies tasks that possess the effective dimension by optimizing...
+arXiv:2605.23473v2 Announce Type: new Abstract: Bayesian optimization is widely employed for optimizing complex black-box functions but struggles with the curse of dimensionality. Random embedding, as a dimension reduction strategy, simplifies tasks that possess the effective dimension by optimizing...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23473)
 
@@ -1121,7 +1121,7 @@ arXiv:2605.23476v1 Announce Type: new Abstract: Training instabilities in deep n
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2605.23491v1 Announce Type: new Abstract: Recently, Reinforcement Learning with Verifiable Rewards (RLVR) and Test-Time Scaling (TTS) have advanced LLM code generation through executable verification. Yet Ground-Truth Unit Tests (GT UTs) remain a bottleneck: SOTA RLVR methods require them for ...
+arXiv:2605.23491v2 Announce Type: new Abstract: Recently, Reinforcement Learning with Verifiable Rewards (RLVR) and Test-Time Scaling (TTS) have advanced LLM code generation through executable verification. Yet Ground-Truth Unit Tests (GT UTs) remain a bottleneck: SOTA RLVR methods require them for ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23491)
 
@@ -1647,7 +1647,7 @@ arXiv:2605.22855v1 Announce Type: cross Abstract: Personalized pricing negotiati
 
 **Author:** Berkay Guler, Giovanni Geraci, Hamid Jafarkhani  
 **Published:** 5/25/2026, 4:00:00 AM  
-**Categories:** eess.SP, cs.AI, cs.LG  
+**Categories:** eess.SP, cs.AI, cs.IT, cs.LG, cs.NI, math.IT  
 
 arXiv:2605.22856v1 Announce Type: cross Abstract: Channel foundation models assume access to fully observed channels, an assumption that fails in deployment. We introduce PilotWiMAE, a self-supervised framework whose encoder ingests noisy pilot observations directly and whose attention factorizes al...
 
@@ -1757,7 +1757,7 @@ arXiv:2605.22886v1 Announce Type: cross Abstract: AI-native wireless receivers b
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** q-fin.RM, cs.LG  
 
-arXiv:2605.22892v1 Announce Type: cross Abstract: Modelling claim frequency and severity for non-life insurance pricing predominantly relies on generalised linear models, with gradient-boosted machines as the leading machine learning alternative. Tabular foundation models (TFMs) offer a fundamentall...
+arXiv:2605.22892v2 Announce Type: cross Abstract: Modelling claim frequency and severity for non-life insurance pricing predominantly relies on generalised linear models, with gradient-boosted machines as the leading machine learning alternative. Tabular foundation models (TFMs) present a fundamenta...
 
 📖 [Read original article](https://arxiv.org/abs/2605.22892)
 
@@ -1775,13 +1775,13 @@ arXiv:2605.22893v1 Announce Type: cross Abstract: We introduce a novel Longitudi
 
 ---
 
-## 148. SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control
+## 148. SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-based Humanoid Control
 
 **Author:** Jingyan Zhang, Han Liang, Ruichi Zhang, Bin Li, Juze Zhang, Xin Chen, Jingya Wang, Lan Xu, Jingyi Yu  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.GR, cs.LG, cs.RO  
 
-arXiv:2605.22894v1 Announce Type: cross Abstract: Controlling physics-based humanoids from natural-language instructions is a critical step toward general-purpose embodied agents. However, existing methods remain constrained by a tension between semantic expressiveness and physical feasibility, ofte...
+arXiv:2605.22894v2 Announce Type: cross Abstract: Controlling physics-based humanoids from natural-language instructions is a critical step toward general-purpose embodied agents. However, existing methods remain constrained by a tension between semantic expressiveness and physical feasibility, ofte...
 
 📖 [Read original article](https://arxiv.org/abs/2605.22894)
 
@@ -1969,11 +1969,11 @@ arXiv:2605.23066v1 Announce Type: cross Abstract: In a landscape of high-perform
 
 ## 164. KAPLAN: Kolmogorov-Arnold Prognostic Learnable Activation Networks for Survival Analysis
 
-**Author:** Stelios Boulitsakis Logothetis, Angela Wood, Pietro Li \`o  
+**Author:** Stelios Boulitsakis Logothetis, Angela Wood, Pietro Li\`o  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.AI, cs.LG  
 
-arXiv:2605.23082v1 Announce Type: cross Abstract: Survival analysis aims to model how covariates and time jointly shape the time-to-event distribution under right censoring. Classical methods such as the Cox model and generalised additive models (GAMs) require interactions and time-varying effects t...
+arXiv:2605.23082v2 Announce Type: cross Abstract: Survival analysis aims to model how covariates and time jointly shape the time-to-event distribution under right censoring. Classical methods such as the Cox model and generalised additive models (GAMs) require interactions and time-varying effects t...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23082)
 
@@ -2321,7 +2321,7 @@ arXiv:2605.23643v1 Announce Type: cross Abstract: Tools like Tamarin and ProVeri
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2605.23650v1 Announce Type: cross Abstract: Human feedback often arrives as preferences rather than calibrated numeric rewards, motivating reinforcement learning from preferential feedback, also referred to as reinforcement learning from human feedback (RLHF). We present a rigorous theoretical...
+arXiv:2605.23650v2 Announce Type: cross Abstract: Human feedback often arrives as preferences rather than calibrated numeric rewards, motivating reinforcement learning from preferential feedback, also referred to as reinforcement learning from human feedback (RLHF). We present a rigorous theoretical...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23650)
 
@@ -2753,7 +2753,7 @@ arXiv:2511.00266v2 Announce Type: replace Abstract: Accurate trajectory predicti
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2511.05963v2 Announce Type: replace Abstract: Transformers replace recurrence with a memory that grows with sequence length and self-attention that enables ad-hoc lookups over past tokens. Consequently, they lack an inherent incentive to compress history into compact latent states with consist...
+arXiv:2511.05963v3 Announce Type: replace Abstract: Transformers replace recurrence with a memory that grows with sequence length and self-attention that enables ad-hoc lookups over past tokens. Consequently, they lack an inherent incentive to compress history into compact latent states with consist...
 
 📖 [Read original article](https://arxiv.org/abs/2511.05963)
 
@@ -3017,7 +3017,7 @@ arXiv:2602.20102v2 Announce Type: replace Abstract: Despite the strong performan
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2602.20210v2 Announce Type: replace Abstract: Crystal modeling spans a family of conditional and unconditional generation tasks, including crystal structure prediction (CSP) and de novo generation (DNG). While recent deep generative models have shown promising performance, they remain largely ...
+arXiv:2602.20210v3 Announce Type: replace Abstract: Crystal modeling spans a family of conditional and unconditional generation tasks, including crystal structure prediction (CSP) and de novo generation (DNG). While recent deep generative models have shown promising performance, they remain largely ...
 
 📖 [Read original article](https://arxiv.org/abs/2602.20210)
 
@@ -3397,11 +3397,11 @@ arXiv:2605.21851v2 Announce Type: replace Abstract: Reinforcement learning with 
 
 ## 283. ARC-STAR: Auditable Post-Hoc Correction for PDE Foundation Models
 
-**Author:** Chengze Li, Lingwei Wei, Li Sun, Hongbo Lv, Jie Yang, Hongrong Zhang, Kening Zheng, Wei-Chieh Huang, Enze Ma, Philip S. Yu  
+**Author:** Chengze Li, Lingwei Wei, Li Sun, Hongbo Lv, Jie Yang, Hanrong Zhang, Kening Zheng, Wei-Chieh Huang, Enze Ma, Philip S. Yu  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.22222v2 Announce Type: replace Abstract: Partial differential equation (PDE) foundation models are pretrained networks that forecast how physical fields like velocity and pressure evolve from a single reusable solver. On unfamiliar flows their predictions drift step by step, errors concen...
+arXiv:2605.22222v3 Announce Type: replace Abstract: Partial differential equation (PDE) foundation models are pretrained networks that forecast how physical fields like velocity and pressure evolve from a single reusable solver. On unfamiliar flows their predictions drift step by step, errors concen...
 
 📖 [Read original article](https://arxiv.org/abs/2605.22222)
 
@@ -3457,11 +3457,11 @@ arXiv:2404.05108v3 Announce Type: replace-cross Abstract: Gradient estimation is
 
 ## 288. MirrorCheck: Efficient Adversarial Defense for Vision-Language Models
 
-**Author:** Samar Fares, Klea Ziu, Toluwani Aremu, Nikita Durasov, Martin Tak\'a\v{c}, Pascal Fua, Karthik Nandakumar, Ivan Laptev  
+**Author:** Samar Fares, Klea Ziu, Toluwani Aremu, Nikita Durasov, Martin Tak\'a\v{c}, Pascal Fua, Ivan Laptev, Karthik Nandakumar  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2406.09250v3 Announce Type: replace-cross Abstract: Vision-Language Models (VLMs) are increasingly susceptible to sophisticated adversarial attacks, including adaptive strategies specifically designed to bypass existing defenses. To address this vulnerability, we propose MirrorCheck, a robust ...
+arXiv:2406.09250v4 Announce Type: replace-cross Abstract: Vision-Language Models (VLMs) are increasingly susceptible to sophisticated adversarial attacks, including adaptive strategies specifically designed to bypass existing defenses. To address this vulnerability, we propose MirrorCheck, a robust ...
 
 📖 [Read original article](https://arxiv.org/abs/2406.09250)
 
