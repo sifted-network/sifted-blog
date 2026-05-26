@@ -389,7 +389,7 @@ arXiv:2605.23899v1 Announce Type: new Abstract: Language agents increasingly imp
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2605.23904v1 Announce Type: new Abstract: Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback...
+arXiv:2605.23904v2 Announce Type: new Abstract: Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23904)
 
@@ -543,7 +543,7 @@ arXiv:2605.22855v1 Announce Type: cross Abstract: Personalized pricing negotiati
 
 **Author:** Berkay Guler, Giovanni Geraci, Hamid Jafarkhani  
 **Published:** 5/25/2026, 4:00:00 AM  
-**Categories:** eess.SP, cs.AI, cs.LG  
+**Categories:** eess.SP, cs.AI, cs.IT, cs.LG, cs.NI, math.IT  
 
 arXiv:2605.22856v1 Announce Type: cross Abstract: Channel foundation models assume access to fully observed channels, an assumption that fails in deployment. We introduce PilotWiMAE, a self-supervised framework whose encoder ingests noisy pilot observations directly and whose attention factorizes al...
 
@@ -961,11 +961,11 @@ arXiv:2605.23065v1 Announce Type: cross Abstract: Vision foundation models are w
 
 ## 80. KAPLAN: Kolmogorov-Arnold Prognostic Learnable Activation Networks for Survival Analysis
 
-**Author:** Stelios Boulitsakis Logothetis, Angela Wood, Pietro Li \`o  
+**Author:** Stelios Boulitsakis Logothetis, Angela Wood, Pietro Li\`o  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.AI, cs.LG  
 
-arXiv:2605.23082v1 Announce Type: cross Abstract: Survival analysis aims to model how covariates and time jointly shape the time-to-event distribution under right censoring. Classical methods such as the Cox model and generalised additive models (GAMs) require interactions and time-varying effects t...
+arXiv:2605.23082v2 Announce Type: cross Abstract: Survival analysis aims to model how covariates and time jointly shape the time-to-event distribution under right censoring. Classical methods such as the Cox model and generalised additive models (GAMs) require interactions and time-varying effects t...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23082)
 
@@ -1501,11 +1501,11 @@ arXiv:2605.23426v1 Announce Type: cross Abstract: Socially fluent agentic AI can
 
 ## 125. SSDAU: Structured Semantic Data Augmentation for Joint Entity and Relation Extraction
 
-**Author:** Jiawei He, Mengyu Shi, Chunrong Fang  
+**Author:** Jiawei He, Mengyu Shi, Jiawei Liu, Zhijie Wang, Chunrong Fang, Xikai Yang, Zhenyu Chen  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2605.23440v1 Announce Type: cross Abstract: Joint Entity and Relation Extraction (JERE) is highly susceptible to weak generalization due to low-quality training data. Data augmentation is a common strategy to enhance model generalization across different domains. However, existing data augment...
+arXiv:2605.23440v2 Announce Type: cross Abstract: Joint Entity and Relation Extraction (JERE) is highly susceptible to weak generalization due to low-quality training data. Data augmentation is a common strategy to enhance model generalization across different domains. However, existing data augment...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23440)
 
@@ -1577,7 +1577,7 @@ arXiv:2605.23471v1 Announce Type: cross Abstract: Aggressive driving is a major 
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.23473v1 Announce Type: cross Abstract: Bayesian optimization is widely employed for optimizing complex black-box functions but struggles with the curse of dimensionality. Random embedding, as a dimension reduction strategy, simplifies tasks that possess the effective dimension by optimizi...
+arXiv:2605.23473v2 Announce Type: cross Abstract: Bayesian optimization is widely employed for optimizing complex black-box functions but struggles with the curse of dimensionality. Random embedding, as a dimension reduction strategy, simplifies tasks that possess the effective dimension by optimizi...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23473)
 
@@ -1613,7 +1613,7 @@ arXiv:2605.23482v1 Announce Type: cross Abstract: Dataset distillation compresse
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2605.23491v1 Announce Type: cross Abstract: Recently, Reinforcement Learning with Verifiable Rewards (RLVR) and Test-Time Scaling (TTS) have advanced LLM code generation through executable verification. Yet Ground-Truth Unit Tests (GT UTs) remain a bottleneck: SOTA RLVR methods require them fo...
+arXiv:2605.23491v2 Announce Type: cross Abstract: Recently, Reinforcement Learning with Verifiable Rewards (RLVR) and Test-Time Scaling (TTS) have advanced LLM code generation through executable verification. Yet Ground-Truth Unit Tests (GT UTs) remain a bottleneck: SOTA RLVR methods require them fo...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23491)
 
@@ -2341,11 +2341,11 @@ arXiv:2402.17888v5 Announce Type: replace-cross Abstract: Post-hoc out-of-distri
 
 ## 195. MirrorCheck: Efficient Adversarial Defense for Vision-Language Models
 
-**Author:** Samar Fares, Klea Ziu, Toluwani Aremu, Nikita Durasov, Martin Tak\'a\v{c}, Pascal Fua, Karthik Nandakumar, Ivan Laptev  
+**Author:** Samar Fares, Klea Ziu, Toluwani Aremu, Nikita Durasov, Martin Tak\'a\v{c}, Pascal Fua, Ivan Laptev, Karthik Nandakumar  
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2406.09250v3 Announce Type: replace-cross Abstract: Vision-Language Models (VLMs) are increasingly susceptible to sophisticated adversarial attacks, including adaptive strategies specifically designed to bypass existing defenses. To address this vulnerability, we propose MirrorCheck, a robust ...
+arXiv:2406.09250v4 Announce Type: replace-cross Abstract: Vision-Language Models (VLMs) are increasingly susceptible to sophisticated adversarial attacks, including adaptive strategies specifically designed to bypass existing defenses. To address this vulnerability, we propose MirrorCheck, a robust ...
 
 📖 [Read original article](https://arxiv.org/abs/2406.09250)
 
@@ -2621,7 +2621,7 @@ arXiv:2511.22521v3 Announce Type: replace-cross Abstract: Document visual questi
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2512.12677v2 Announce Type: replace-cross Abstract: We explore efficient strategies to fine-tune decoder-only Large Language Models (LLMs) for downstream text classification under resource constraints. Two approaches are investigated: (1) attaching a classification head to a pre-trained causal...
+arXiv:2512.12677v3 Announce Type: replace-cross Abstract: We explore efficient strategies to fine-tune decoder-only Large Language Models (LLMs) for downstream text classification under resource constraints. Two approaches are investigated: (1) attaching a classification head to a pretrained causal ...
 
 📖 [Read original article](https://arxiv.org/abs/2512.12677)
 
@@ -2897,7 +2897,7 @@ arXiv:2602.20102v2 Announce Type: replace-cross Abstract: Despite the strong per
 **Published:** 5/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2602.20210v2 Announce Type: replace-cross Abstract: Crystal modeling spans a family of conditional and unconditional generation tasks, including crystal structure prediction (CSP) and de novo generation (DNG). While recent deep generative models have shown promising performance, they remain la...
+arXiv:2602.20210v3 Announce Type: replace-cross Abstract: Crystal modeling spans a family of conditional and unconditional generation tasks, including crystal structure prediction (CSP) and de novo generation (DNG). While recent deep generative models have shown promising performance, they remain la...
 
 📖 [Read original article](https://arxiv.org/abs/2602.20210)
 
