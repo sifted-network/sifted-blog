@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Pope Leo Compares AI Threat to Biblical 'Tower of Babel'
+## 1. Aperion Shield v0.7 – guardrails for AI coding agents now run as Git hooks
 
-**Author:** doener  
-**Published:** 5/26/2026, 9:56:02 AM  
+**Author:** ScottAperion  
+**Published:** 5/26/2026, 3:17:55 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c Comments URL: https://news.ycombinator.com/item?id=48277442 Points: 1 # Comments: 0
+Article URL: https://github.com/AperionAI/shield/releases/tag/shield-v0.7.0 Comments URL: https://news.ycombinator.com/item?id=48280995 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c)
+📖 [Read original article](https://github.com/AperionAI/shield/releases/tag/shield-v0.7.0)
 
 ---
 
-## 2. The state of AI voice assistants is bad but there's a clear winner
+## 2. AI Is Taking over the Most Cursed Job in the World
 
-**Author:** simianwords  
-**Published:** 5/26/2026, 9:53:00 AM  
+**Author:** srameshc  
+**Published:** 5/26/2026, 3:11:15 PM  
 **Categories:** -  
 
-Article URL: https://simianwords.bearblog.dev/the-state-of-ai-voice-assistants-is-bad-but-theres-a-clear-winner/ Comments URL: https://news.ycombinator.com/item?id=48277414 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/ai-takes-over-debt-collection/ Comments URL: https://news.ycombinator.com/item?id=48280920 Points: 2 # Comments: 0
 
-📖 [Read original article](https://simianwords.bearblog.dev/the-state-of-ai-voice-assistants-is-bad-but-theres-a-clear-winner/)
+📖 [Read original article](https://www.wired.com/story/ai-takes-over-debt-collection/)
 
 ---
 
-## 3. OpenClaw for Sales – Using Local-First AI Agents for Sales Workflows
+## 3. AI Startup Says It Will Pay People $2k a Month to Masturbate
 
-**Author:** mjenul  
-**Published:** 5/26/2026, 8:34:23 AM  
+**Author:** ajay-d  
+**Published:** 5/26/2026, 3:09:48 PM  
 **Categories:** -  
 
-Article URL: https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution Comments URL: https://news.ycombinator.com/item?id=48276845 Points: 4 # Comments: 0
+Article URL: https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate Comments URL: https://news.ycombinator.com/item?id=48280902 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution)
+📖 [Read original article](https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate)
 
 ---
 
-## 4. AI overly affirms users asking for personal advice
+## 4. MCP: Security Design Considerations for AI-Driven Automation by NSA [pdf]
 
-**Author:** ofcyes  
-**Published:** 5/26/2026, 8:16:48 AM  
+**Author:** myworkaccount2  
+**Published:** 5/26/2026, 3:04:10 PM  
 **Categories:** -  
 
-Article URL: https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/ Comments URL: https://news.ycombinator.com/item?id=48276707 Points: 7 # Comments: 2
+Article URL: https://www.nsa.gov/Portals/75/documents/Cybersecurity/CSI_MCP_SECURITY.pdf Comments URL: https://news.ycombinator.com/item?id=48280824 Points: 1 # Comments: 0
 
-📖 [Read original article](https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/)
+📖 [Read original article](https://www.nsa.gov/Portals/75/documents/Cybersecurity/CSI_MCP_SECURITY.pdf)
 
 ---
 
-## 5. Oak Ridge Starts Weaving Together a Quantum, Classical HPC, and AI System Stack
+## 5. GrillKit – self-hosted AI technical interview trainer
 
-**Author:** rbanffy  
-**Published:** 5/26/2026, 8:13:57 AM  
+**Author:** vitchenkokir  
+**Published:** 5/26/2026, 2:56:03 PM  
 **Categories:** -  
 
-Article URL: https://www.nextplatform.com/hpc/2026/05/21/oak-ridge-starts-weaving-together-a-quantum-classical-hpc-and-ai-system-stack/5244272 Comments URL: https://news.ycombinator.com/item?id=48276684 Points: 1 # Comments: 0
+Article URL: https://github.com/GrillKit/grillkit Comments URL: https://news.ycombinator.com/item?id=48280712 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nextplatform.com/hpc/2026/05/21/oak-ridge-starts-weaving-together-a-quantum-classical-hpc-and-ai-system-stack/5244272)
+📖 [Read original article](https://github.com/GrillKit/grillkit)
 
 ---
 
-## 6. Citing Gandalf, Pope Leo says we must \"disarm\" AI
+## 6. AI System Automates Coding for Scientific Research
 
-**Author:** rbanffy  
-**Published:** 5/26/2026, 8:12:26 AM  
+**Author:** geox  
+**Published:** 5/26/2026, 2:49:19 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/ Comments URL: https://news.ycombinator.com/item?id=48276672 Points: 2 # Comments: 2
+Article URL: https://seas.harvard.edu/news/ai-system-automates-coding-scientific-research Comments URL: https://news.ycombinator.com/item?id=48280631 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)
+📖 [Read original article](https://seas.harvard.edu/news/ai-system-automates-coding-scientific-research)
 
 ---
 
-## 7. Improving Local Techdocs for Your AI Coding Agent
+## 7. Laptop AI – local AI memory for your files
 
-**Author:** rhazn  
-**Published:** 5/26/2026, 7:57:15 AM  
+**Author:** takshdange  
+**Published:** 5/26/2026, 2:47:03 PM  
 **Categories:** -  
 
-Article URL: https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/ Comments URL: https://news.ycombinator.com/item?id=48276548 Points: 2 # Comments: 0
+Article URL: https://github.com/takshd15/Laptop-AI Comments URL: https://news.ycombinator.com/item?id=48280596 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/)
+📖 [Read original article](https://github.com/takshd15/Laptop-AI)
 
 ---
 
-## 8. The Open/Closed Problem in AI
+## 8. Google is cannibalizing the web to feed AI
 
-**Author:** vinhnx  
-**Published:** 5/26/2026, 7:43:33 AM  
+**Author:** jonbaer  
+**Published:** 5/26/2026, 2:44:40 PM  
 **Categories:** -  
 
-Article URL: https://blog.mempko.com/the-open-closed-problem-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48276432 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/ai-ml/2026/05/25/google-is-cannibalizing-the-web-to-feed-ai/5244641 Comments URL: https://news.ycombinator.com/item?id=48280563 Points: 4 # Comments: 0
 
-📖 [Read original article](https://blog.mempko.com/the-open-closed-problem-in-ai/)
+📖 [Read original article](https://www.theregister.com/ai-ml/2026/05/25/google-is-cannibalizing-the-web-to-feed-ai/5244641)
 
 ---
 
-## 9. Do I have AI Psychosis?
+## 9. Show HN: I open-sourced two AI agents with real memory (chat and voice, MIT)
 
-**Author:** Curzel  
-**Published:** 5/26/2026, 7:41:03 AM  
+**Author:** SQLv2  
+**Published:** 5/26/2026, 2:43:19 PM  
 **Categories:** -  
 
-Article URL: https://curzel.it/blog/2026_05_26_do_i_have_ai_psychosis.html Comments URL: https://news.ycombinator.com/item?id=48276407 Points: 1 # Comments: 1
+Article URL: https://github.com/SynapCores/synapcores-agent Comments URL: https://news.ycombinator.com/item?id=48280546 Points: 4 # Comments: 0
 
-📖 [Read original article](https://curzel.it/blog/2026_05_26_do_i_have_ai_psychosis.html)
+📖 [Read original article](https://github.com/SynapCores/synapcores-agent)
 
 ---
 
-## 10. Show HN: AI agent token cost calculator for Codex and Claude Code loops
+## 10. The Math Changed: Rewriting Stale Open Source in the AI Era
 
-**Author:** tinyopsstudio  
-**Published:** 5/26/2026, 7:34:28 AM  
+**Author:** gerhardlazu  
+**Published:** 5/26/2026, 2:41:43 PM  
 **Categories:** -  
 
-Article URL: https://tinyopsstudio.com/ai-agent-token-cost-calculator Comments URL: https://news.ycombinator.com/item?id=48276358 Points: 1 # Comments: 0
+Article URL: https://loopholelabs.io/blog/rewriting-oss-in-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48280527 Points: 3 # Comments: 1
 
-📖 [Read original article](https://tinyopsstudio.com/ai-agent-token-cost-calculator)
+📖 [Read original article](https://loopholelabs.io/blog/rewriting-oss-in-the-ai-era)
 
 ---
 
-## 11. Show HN: Presentforme.ai – Make slide decks explain themselves
+## 11. AI-Augmented Software Development Manifesto
 
-**Author:** cheecheongfan  
-**Published:** 5/26/2026, 7:22:07 AM  
+**Author:** hunvreus  
+**Published:** 5/26/2026, 2:39:26 PM  
 **Categories:** -  
 
-I noticed slide decks become much less useful after meetings.People send PDFs around, but much of the information was spoken rather than written.I built PresentForMe.ai think of it as DocSend, but interactive.Upload a PDF or PowerPoint and instead of sharing a static deck, viewers get an AI presente...
+Article URL: https://ronanberder.com/ai-manifesto/ Comments URL: https://news.ycombinator.com/item?id=48280500 Points: 4 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48276264)
+📖 [Read original article](https://ronanberder.com/ai-manifesto/)
 
 ---
 
-## 12. Cognitive Security as an AI Safety Cause Area
+## 12. HN: Wispr Flow vs. Whisper by Remskill – voice typing app vs. full AI assistant
 
-**Author:** joozio  
-**Published:** 5/26/2026, 7:09:30 AM  
+**Author:** denys12  
+**Published:** 5/26/2026, 2:37:11 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area Comments URL: https://news.ycombinator.com/item?id=48276182 Points: 1 # Comments: 0
+Article URL: https://whisper.remskill.com/ Comments URL: https://news.ycombinator.com/item?id=48280463 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area)
+📖 [Read original article](https://whisper.remskill.com/)
 
 ---
 
-## 13. Orchestrating AI code review at scale
+## 13. AI tools lead to 'clear racial disparities' in job hiring
 
-**Author:** pramodbiligiri  
-**Published:** 5/26/2026, 7:06:28 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/26/2026, 2:35:43 PM  
 **Categories:** -  
 
-Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=48276152 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/5c442b38-6989-461a-988e-653f7a275eee Comments URL: https://news.ycombinator.com/item?id=48280442 Points: 6 # Comments: 0
 
-📖 [Read original article](https://blog.cloudflare.com/ai-code-review/)
+📖 [Read original article](https://www.ft.com/content/5c442b38-6989-461a-988e-653f7a275eee)
 
 ---
 
-## 14. The first class of AI natives is graduating
+## 14. Excerpts from Pope Leo XIV's manifesto about humanity in the AI era
 
-**Author:** FDETalkDotCom  
-**Published:** 5/26/2026, 6:58:18 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/26/2026, 2:32:33 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/ai-natives-graduates-job-cuts-6bab8ac9 Comments URL: https://news.ycombinator.com/item?id=48276079 Points: 2 # Comments: 1
+Article URL: https://apnews.com/article/vatican-ai-encyclical-pope-leo-excerpts-ee0de875adbdb3d599d4da2c597ff7bd Comments URL: https://news.ycombinator.com/item?id=48280393 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-natives-graduates-job-cuts-6bab8ac9)
+📖 [Read original article](https://apnews.com/article/vatican-ai-encyclical-pope-leo-excerpts-ee0de875adbdb3d599d4da2c597ff7bd)
 
 ---
 
-## 15. AI guardrails stripped from Meta and Google models in minutes
+## 15. Stack-nudge – Stop babysitting your AI agent's terminal
 
-**Author:** thunderbong  
-**Published:** 5/26/2026, 6:51:11 AM  
+**Author:** Hiskias  
+**Published:** 5/26/2026, 2:17:16 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e Comments URL: https://news.ycombinator.com/item?id=48276012 Points: 5 # Comments: 1
+Article URL: https://github.com/StackOneHQ/stack-nudge Comments URL: https://news.ycombinator.com/item?id=48280200 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e)
+📖 [Read original article](https://github.com/StackOneHQ/stack-nudge)
 
 ---
 
-## 16. Microsoft to Publishers: Don't Block the AI Bots
+## 16. 'BusPatrol' Put AI Cameras in School Buses
 
-**Author:** SVI  
-**Published:** 5/26/2026, 6:38:14 AM  
+**Author:** cdrnsf  
+**Published:** 5/26/2026, 2:00:57 PM  
 **Categories:** -  
 
-Article URL: https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=48275902 Points: 4 # Comments: 0
+Article URL: https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/ Comments URL: https://news.ycombinator.com/item?id=48280022 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/)
+📖 [Read original article](https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/)
 
 ---
 
-## 17. AI Making Work Easy for Data Analysts and Founders
+## 17. AI Killed Stack Overflow (and why that sucks)
 
-**Author:** Sechele  
-**Published:** 5/26/2026, 6:34:50 AM  
+**Author:** par  
+**Published:** 5/26/2026, 1:52:49 PM  
 **Categories:** -  
 
-Article URL: https://anallyst.app/ Comments URL: https://news.ycombinator.com/item?id=48275871 Points: 1 # Comments: 0
+Article URL: https://devcodehack.com/ai-killed-stack-overflow-and-heres-why-that-sucks/ Comments URL: https://news.ycombinator.com/item?id=48279905 Points: 3 # Comments: 3
 
-📖 [Read original article](https://anallyst.app/)
+📖 [Read original article](https://devcodehack.com/ai-killed-stack-overflow-and-heres-why-that-sucks/)
 
 ---
 
-## 18. AI Gurus Are Charging Wall Street Banks $25,000 a Day
+## 18. AI-Powered Cyber Attacks in 2026: How Adversaries Are Evolving
 
-**Author:** helsinkiandrew  
-**Published:** 5/26/2026, 6:33:00 AM  
+**Author:** josanjohnata  
+**Published:** 5/26/2026, 1:49:31 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift Comments URL: https://news.ycombinator.com/item?id=48275849 Points: 6 # Comments: 1
+Article URL: https://www.pentesty.co/blog/ai-powered-cyber-attacks-2026 Comments URL: https://news.ycombinator.com/item?id=48279862 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift)
+📖 [Read original article](https://www.pentesty.co/blog/ai-powered-cyber-attacks-2026)
 
 ---
 
-## 19. Joi AI is hiring masturbation consultants to test \"Daily Guided Masturbation\"
+## 19. U.S. AI Data Center Awareness and Issue Map
 
-**Author:** rjzzleep  
-**Published:** 5/26/2026, 6:30:39 AM  
+**Author:** onel  
+**Published:** 5/26/2026, 1:49:24 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/joi___ai/status/2056518876243149258 Comments URL: https://news.ycombinator.com/item?id=48275827 Points: 2 # Comments: 0
+Article URL: https://www.brockovichdatacenter.com/ Comments URL: https://news.ycombinator.com/item?id=48279861 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/joi___ai/status/2056518876243149258)
+📖 [Read original article](https://www.brockovichdatacenter.com/)
 
 ---
 
-## 20. Show HN: Desktop GUI sandbox for AI agents and MCP servers
+## 20. Show HN: Treats Human and AI the Same
 
-**Author:** rednakta  
-**Published:** 5/26/2026, 5:08:26 AM  
+**Author:** haozeli  
+**Published:** 5/26/2026, 1:44:19 PM  
 **Categories:** -  
 
-Article URL: https://github.com/rednakta/nilbox Comments URL: https://news.ycombinator.com/item?id=48275251 Points: 1 # Comments: 0
+AI Agents operate in the digital world. Humans operate in the physical world. Hands&Claws is a social platform that brings together all intelligent individuals. And allow them to work together.I developed this software because I discovered that there are some things that humans need AI agents to do,...
 
-📖 [Read original article](https://github.com/rednakta/nilbox)
+📖 [Read original article](https://github.com/haozeli2009/Hands-and-Claws)
 
 ---
