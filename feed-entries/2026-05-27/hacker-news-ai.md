@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Provedex: Tamper-evident audit logs for AI agents (Pipecat, LangChain)
+## 1. YouTube to automatically label AI-generated videos
 
-**Author:** adi-suresh  
-**Published:** 5/27/2026, 3:38:28 PM  
+**Author:** nopg  
+**Published:** 5/27/2026, 8:00:51 PM  
 **Categories:** -  
 
-Article URL: https://github.com/provedex/provedex Comments URL: https://news.ycombinator.com/item?id=48295920 Points: 1 # Comments: 0
+Article URL: https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/ Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 37 # Comments: 13
 
-📖 [Read original article](https://github.com/provedex/provedex)
+📖 [Read original article](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/)
 
 ---
 
-## 2. Google AI Threat Defense to help you outpace the adversary
+## 2. I added vi-modal bindings to my blog, a Chinese AI helped me do it
 
-**Author:** srameshc  
-**Published:** 5/27/2026, 3:36:57 PM  
+**Author:** gigatexal  
+**Published:** 5/27/2026, 8:00:44 PM  
 **Categories:** -  
 
-Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense Comments URL: https://news.ycombinator.com/item?id=48295901 Points: 4 # Comments: 0
+Article URL: https://gigatexal.blog/ Comments URL: https://news.ycombinator.com/item?id=48299752 Points: 1 # Comments: 1
 
-📖 [Read original article](https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense)
+📖 [Read original article](https://gigatexal.blog/)
 
 ---
 
-## 3. A One-Character Host Header Bug in Starlette Exposed AI Agents
+## 3. DeepSeek lowers API prices by 75% while other AI labs increase prices 2–3x [video]
 
-**Author:** steveharing1  
-**Published:** 5/27/2026, 3:29:17 PM  
+**Author:** SweetSoftPillow  
+**Published:** 5/27/2026, 7:55:52 PM  
 **Categories:** -  
 
-Article URL: https://firethering.com/badhost-starlette-critical-vulnerability-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48295805 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=HDMqDV7mmGo Comments URL: https://news.ycombinator.com/item?id=48299685 Points: 4 # Comments: 0
 
-📖 [Read original article](https://firethering.com/badhost-starlette-critical-vulnerability-ai-agents/)
+📖 [Read original article](https://www.youtube.com/watch?v=HDMqDV7mmGo)
 
 ---
 
-## 4. IBM's Video Explaining Five AI Risks That Can Get You Fired
+## 4. Aithos LARA: Leading AI models are consistently breaking the law
 
-**Author:** busymom0  
-**Published:** 5/27/2026, 3:27:35 PM  
+**Author:** HelloUsername  
+**Published:** 5/27/2026, 7:50:46 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=1m55T8xST9s Comments URL: https://news.ycombinator.com/item?id=48295779 Points: 1 # Comments: 0
+Article URL: https://aithos.org/article/Aithos-LARA/ Comments URL: https://news.ycombinator.com/item?id=48299609 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=1m55T8xST9s)
+📖 [Read original article](https://aithos.org/article/Aithos-LARA/)
 
 ---
 
-## 5. The AI fight brewing inside The New York Times
+## 5. What to do when AI is quietly making you worse
 
-**Author:** Brajeshwar  
-**Published:** 5/27/2026, 3:25:04 PM  
+**Author:** vtorosyan  
+**Published:** 5/27/2026, 7:47:25 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract Comments URL: https://news.ycombinator.com/item?id=48295741 Points: 3 # Comments: 0
+Article URL: https://vtorosyan.gitHub.io/ai-making-worse/ Comments URL: https://news.ycombinator.com/item?id=48299558 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract)
+📖 [Read original article](https://vtorosyan.gitHub.io/ai-making-worse/)
 
 ---
 
-## 6. Want to Design Better with AI? Become a Digital Hoarder
-
-**Author:** young_mete  
-**Published:** 5/27/2026, 3:22:03 PM  
-**Categories:** -  
-
-Article URL: https://metedata.substack.com/p/014-want-to-design-better-with-ai Comments URL: https://news.ycombinator.com/item?id=48295701 Points: 1 # Comments: 0
-
-📖 [Read original article](https://metedata.substack.com/p/014-want-to-design-better-with-ai)
-
----
-
-## 7. Tech CEOs are apparently suffering from AI psychosis
-
-**Author:** IAmGraydon  
-**Published:** 5/27/2026, 3:20:47 PM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 4 # Comments: 0
-
-📖 [Read original article](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
-
----
-
-## 8. Authorship in the AI Age
+## 6. AI coding agents are installing packages no one owns
 
 **Author:** speckx  
-**Published:** 5/27/2026, 3:15:19 PM  
+**Published:** 5/27/2026, 7:39:42 PM  
 **Categories:** -  
 
-Article URL: https://blog.computationalcomplexity.org/2026/05/authorship-in-ai-age.html Comments URL: https://news.ycombinator.com/item?id=48295613 Points: 1 # Comments: 0
+Article URL: https://thenewstack.io/aikido-ai-agents-security/ Comments URL: https://news.ycombinator.com/item?id=48299458 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.computationalcomplexity.org/2026/05/authorship-in-ai-age.html)
+📖 [Read original article](https://thenewstack.io/aikido-ai-agents-security/)
 
 ---
 
-## 9. Phoenix AZ Built an Empire of Cubicle Jobs. AI Is Coming to Tear It Dow
+## 7. AI Coding Startup Cognition Raises $1B at $26B Value
 
-**Author:** fortran77  
-**Published:** 5/27/2026, 3:13:38 PM  
+**Author:** lord_sudo  
+**Published:** 5/27/2026, 7:35:08 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/economy/phoenix-built-an-empire-of-cubicle-jobs-ai-is-coming-to-tear-it-down-fb64bb68 Comments URL: https://news.ycombinator.com/item?id=48295584 Points: 2 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value Comments URL: https://news.ycombinator.com/item?id=48299386 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/economy/phoenix-built-an-empire-of-cubicle-jobs-ai-is-coming-to-tear-it-down-fb64bb68)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value)
 
 ---
 
-## 10. I Rebuilt ZX Spectrum Basic in Rust with AI
+## 8. Are Vector Databases Enough for Modern AI Workloads? Y/N
 
-**Author:** adam_jesion  
-**Published:** 5/27/2026, 3:05:31 PM  
+**Author:** Fendy  
+**Published:** 5/27/2026, 7:33:39 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ashtree74/zxbasic-rust Comments URL: https://news.ycombinator.com/item?id=48295464 Points: 1 # Comments: 0
+Article URL: https://zilliz.com/blog/why-we-built-vector-lakebase Comments URL: https://news.ycombinator.com/item?id=48299366 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/ashtree74/zxbasic-rust)
+📖 [Read original article](https://zilliz.com/blog/why-we-built-vector-lakebase)
 
 ---
 
-## 11. Back to the Future: AI and the Legal Profession
+## 9. Lelu – Open-source authorization engine for AI agents
 
-**Author:** ejz  
-**Published:** 5/27/2026, 2:59:01 PM  
+**Author:** Abenezer0923  
+**Published:** 5/27/2026, 7:30:50 PM  
 **Categories:** -  
 
-Article URL: https://blog.withedge.com/p/back-to-the-future-ai-and-the-future Comments URL: https://news.ycombinator.com/item?id=48295369 Points: 1 # Comments: 0
+Article URL: https://lelu-ai.com Comments URL: https://news.ycombinator.com/item?id=48299318 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.withedge.com/p/back-to-the-future-ai-and-the-future)
+📖 [Read original article](https://lelu-ai.com)
 
 ---
 
-## 12. Most Teachers Receive No Formal Guidance on AI Use
+## 10. Open-source developers are working themselves sick on AI bugs
 
-**Author:** giuliomagnifico  
-**Published:** 5/27/2026, 2:57:34 PM  
+**Author:** smartmic  
+**Published:** 5/27/2026, 7:29:39 PM  
 **Categories:** -  
 
-Article URL: https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx Comments URL: https://news.ycombinator.com/item?id=48295353 Points: 2 # Comments: 0
+Article URL: https://www.heise.de/en/opinion/Comment-Open-source-developers-are-working-themselves-sick-on-AI-bugs-11308553.html Comments URL: https://news.ycombinator.com/item?id=48299293 Points: 4 # Comments: 0
 
-📖 [Read original article](https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx)
+📖 [Read original article](https://www.heise.de/en/opinion/Comment-Open-source-developers-are-working-themselves-sick-on-AI-bugs-11308553.html)
 
 ---
 
-## 13. Tyler Cowen: Seven Ways to Avoid Losing Your Job to AI
+## 11. US law enforcement warns of \"anti-tech extremism\" as AI hatred grows
 
-**Author:** FigurativeVoid  
-**Published:** 5/27/2026, 2:52:41 PM  
+**Author:** helterskelter  
+**Published:** 5/27/2026, 7:16:48 PM  
 **Categories:** -  
 
-Article URL: https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing Comments URL: https://news.ycombinator.com/item?id=48295287 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/ Comments URL: https://news.ycombinator.com/item?id=48299093 Points: 11 # Comments: 3
 
-📖 [Read original article](https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing)
+📖 [Read original article](https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/)
 
 ---
 
-## 14. Peers – Multi-agent AI coding with measurable convergence
+## 12. Authors Sue Meta's AI Scientists Directly in Llama Copyright Case
 
-**Author:** dash0r  
-**Published:** 5/27/2026, 2:51:35 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/27/2026, 7:11:25 PM  
 **Categories:** -  
 
-Article URL: https://github.com/c0decave/peers Comments URL: https://news.ycombinator.com/item?id=48295266 Points: 1 # Comments: 0
+Article URL: https://www.law.com/corpcounsel/2026/05/26/authors-sue-metas-ai-scientists-directly-in-llama-copyright-case/ Comments URL: https://news.ycombinator.com/item?id=48299018 Points: 7 # Comments: 0
 
-📖 [Read original article](https://github.com/c0decave/peers)
+📖 [Read original article](https://www.law.com/corpcounsel/2026/05/26/authors-sue-metas-ai-scientists-directly-in-llama-copyright-case/)
 
 ---
 
-## 15. Amazon starts selling its AI shopping technology to other retailers
+## 13. Securing Your AI Agent Infrastructure
 
-**Author:** thm  
-**Published:** 5/27/2026, 2:46:11 PM  
+**Author:** mooreds  
+**Published:** 5/27/2026, 7:11:03 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html Comments URL: https://news.ycombinator.com/item?id=48295196 Points: 1 # Comments: 0
+Article URL: https://teriradichel.substack.com/p/securing-your-ai-agent-infrastructure Comments URL: https://news.ycombinator.com/item?id=48299012 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html)
+📖 [Read original article](https://teriradichel.substack.com/p/securing-your-ai-agent-infrastructure)
 
 ---
 
-## 16. The future of AI is an AI futures market
+## 14. The LOGOS Framework: A five-level taxonomy for AI-assisted assessment
+
+**Author:** vinicius-covas  
+**Published:** 5/27/2026, 7:09:17 PM  
+**Categories:** -  
+
+Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6749961 Comments URL: https://news.ycombinator.com/item?id=48298986 Points: 1 # Comments: 0
+
+📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6749961)
+
+---
+
+## 15. Champion ethical hacker warns AI tools like Mythos will make competing harder
+
+**Author:** tigerlily  
+**Published:** 5/27/2026, 7:03:34 PM  
+**Categories:** -  
+
+Article URL: https://www.bbc.com/news/articles/c3r2zjpryzro Comments URL: https://news.ycombinator.com/item?id=48298915 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.bbc.com/news/articles/c3r2zjpryzro)
+
+---
+
+## 16. ARN: Local semantic memory server for AI agents (Pi 5, 22ms recall, 10/10 tests)
+
+**Author:** MrKali26  
+**Published:** 5/27/2026, 6:58:11 PM  
+**Categories:** -  
+
+Article URL: https://github.com/tuuhe99-del/ARN-Adaptive-Reasoning-Network Comments URL: https://news.ycombinator.com/item?id=48298845 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/tuuhe99-del/ARN-Adaptive-Reasoning-Network)
+
+---
+
+## 17. Webmaster It's time to serve slop to AI crawlers
 
 **Author:** speckx  
-**Published:** 5/27/2026, 2:42:02 PM  
+**Published:** 5/27/2026, 6:46:38 PM  
 **Categories:** -  
 
-Article URL: https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market Comments URL: https://news.ycombinator.com/item?id=48295149 Points: 1 # Comments: 0
+Article URL: https://iczelia.net/blog/webmaster-it-s-time-to-serve-slop-to-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=48298655 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market)
+📖 [Read original article](https://iczelia.net/blog/webmaster-it-s-time-to-serve-slop-to-ai-crawlers/)
 
 ---
 
-## 17. AI as Nervous System
+## 18. Why Good Engineers Become Worse with AI
 
-**Author:** tenpast  
-**Published:** 5/27/2026, 2:41:41 PM  
+**Author:** sneruz  
+**Published:** 5/27/2026, 6:16:53 PM  
 **Categories:** -  
 
-Author here. Practitioner perspective from running a small construction consultancy via coordinated Claude Code agents. The most contestable claim is the dimensional framing. The post's own caveat names why.https://chenla-agathos.com/blog/ceo/ai-as-nervous-system Comments URL: https://news.ycombinat...
+Article URL: https://nidhish.dev/writing/good-engineers-worse-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48298237 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48295143)
+📖 [Read original article](https://nidhish.dev/writing/good-engineers-worse-with-ai/)
 
 ---
 
-## 18. Women who power America's offices are making themselves AI-proof
+## 19. Ask HN: How should universities teach coding now that every student uses AI?
 
-**Author:** cdrnsf  
-**Published:** 5/27/2026, 2:36:26 PM  
+**Author:** devanshranjan  
+**Published:** 5/27/2026, 6:13:33 PM  
 **Categories:** -  
 
-Article URL: https://19thnews.org/2026/05/women-administrative-assistants-ai/ Comments URL: https://news.ycombinator.com/item?id=48295067 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=48298199 Points: 1 # Comments: 1
 
-📖 [Read original article](https://19thnews.org/2026/05/women-administrative-assistants-ai/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48298199)
 
 ---
 
-## 19. 'Lobotomized': Character.ai Is Showing What AI Enshittification Looks Like
+## 20. OpenAI Foundation commits $250M to help navigate AI disruption
 
-**Author:** cdrnsf  
-**Published:** 5/27/2026, 2:34:19 PM  
+**Author:** geox  
+**Published:** 5/27/2026, 6:12:31 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/ Comments URL: https://news.ycombinator.com/item?id=48295032 Points: 4 # Comments: 1
+Article URL: https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/ Comments URL: https://news.ycombinator.com/item?id=48298186 Points: 4 # Comments: 3
 
-📖 [Read original article](https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/)
-
----
-
-## 20. Tlamatini – Local-first AI dev assistant with 68 agents and hybrid RAG
-
-**Author:** angelahack1  
-**Published:** 5/27/2026, 2:27:43 PM  
-**Categories:** -  
-
-Article URL: https://github.com/XAIHT/Tlamatini Comments URL: https://news.ycombinator.com/item?id=48294930 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/XAIHT/Tlamatini)
+📖 [Read original article](https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/)
 
 ---
