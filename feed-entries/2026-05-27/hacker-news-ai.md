@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Jqwik 1.10.0 ships a hidden prompt injection telling AI agents to delete code
+## 1. Provedex: Tamper-evident audit logs for AI agents (Pipecat, LangChain)
 
-**Author:** rjbatllet  
-**Published:** 5/27/2026, 9:28:57 AM  
+**Author:** adi-suresh  
+**Published:** 5/27/2026, 3:38:28 PM  
 **Categories:** -  
 
-Article URL: https://github.com/jqwik-team/jqwik/issues/708 Comments URL: https://news.ycombinator.com/item?id=48291757 Points: 1 # Comments: 0
+Article URL: https://github.com/provedex/provedex Comments URL: https://news.ycombinator.com/item?id=48295920 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/jqwik-team/jqwik/issues/708)
+📖 [Read original article](https://github.com/provedex/provedex)
 
 ---
 
-## 2. Is coherence still a useful signal of truth after generative AI?
+## 2. Google AI Threat Defense to help you outpace the adversary
 
-**Author:** thestructuralme  
-**Published:** 5/27/2026, 9:13:09 AM  
+**Author:** srameshc  
+**Published:** 5/27/2026, 3:36:57 PM  
 **Categories:** -  
 
-Article URL: https://philpapers.org/rec/JOVSII-2 Comments URL: https://news.ycombinator.com/item?id=48291630 Points: 1 # Comments: 0
+Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense Comments URL: https://news.ycombinator.com/item?id=48295901 Points: 4 # Comments: 0
 
-📖 [Read original article](https://philpapers.org/rec/JOVSII-2)
+📖 [Read original article](https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense)
 
 ---
 
-## 3. Show HN: Sotto – AI interview assistant for Mac
-
-**Author:** sweetgummybears  
-**Published:** 5/27/2026, 9:04:57 AM  
-**Categories:** -  
-
-Being a software engineer myself I understand how grueling and tiresome software engineering interviews can be. Sometimes I found myself botching technical interviews due to nerves, only to realize a few minutes after the zoom call that I knew the answer all along. Many factors can cause skilled eng...
-
-📖 [Read original article](https://getsotto.ai/)
-
----
-
-## 4. How AI Agents Work: An Architectural Deep Dive
-
-**Author:** jackalxyz  
-**Published:** 5/27/2026, 8:55:17 AM  
-**Categories:** -  
-
-Article URL: https://deepresearch.ninja/2026/05/How-AI-Agents-Actually-Work-An-Architectural-Deep-Dive/ Comments URL: https://news.ycombinator.com/item?id=48291524 Points: 1 # Comments: 0
-
-📖 [Read original article](https://deepresearch.ninja/2026/05/How-AI-Agents-Actually-Work-An-Architectural-Deep-Dive/)
-
----
-
-## 5. Ask HN: Why do none of the major AI agents persist memory across sessions?
-
-**Author:** hannahLiang  
-**Published:** 5/27/2026, 8:55:00 AM  
-**Categories:** -  
-
-ChatGPT has “memory” but it’s basically a notepad. Claude’s CLAUDE.md is manual. No agent actually learns from past interaction. What am I missing? Is this fundamentally hard or just not prioritized? Comments URL: https://news.ycombinator.com/item?id=48291522 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48291522)
-
----
-
-## 6. QVAC Hackathon I – Unleash Edge AI – Hackathon – DoraHacks
-
-**Author:** janandonly  
-**Published:** 5/27/2026, 8:54:29 AM  
-**Categories:** -  
-
-Article URL: https://dorahacks.io/hackathon/qvac-unleach-edge-ai-i/team Comments URL: https://news.ycombinator.com/item?id=48291518 Points: 2 # Comments: 0
-
-📖 [Read original article](https://dorahacks.io/hackathon/qvac-unleach-edge-ai-i/team)
-
----
-
-## 7. Atrophy: A novella about AI eroding a student's mind
-
-**Author:** glouppe  
-**Published:** 5/27/2026, 8:44:57 AM  
-**Categories:** -  
-
-Article URL: https://glouppe.github.io/atrophy/ Comments URL: https://news.ycombinator.com/item?id=48291455 Points: 1 # Comments: 1
-
-📖 [Read original article](https://glouppe.github.io/atrophy/)
-
----
-
-## 8. AI Warfare Is Here
-
-**Author:** gorgmah  
-**Published:** 5/27/2026, 8:29:27 AM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines Comments URL: https://news.ycombinator.com/item?id=48291352 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines)
-
----
-
-## 9. AI Threatens the Giants of Consulting
-
-**Author:** uxhacker  
-**Published:** 5/27/2026, 8:25:06 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670 Comments URL: https://news.ycombinator.com/item?id=48291324 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670)
-
----
-
-## 10. SWE Tasks Doable by AI
-
-**Author:** abrbhat  
-**Published:** 5/27/2026, 8:24:37 AM  
-**Categories:** -  
-
-Article URL: https://www.signalbloom.ai/posts/why-task-proficiency-doesnt-equal-ai-autonomy/ Comments URL: https://news.ycombinator.com/item?id=48291319 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.signalbloom.ai/posts/why-task-proficiency-doesnt-equal-ai-autonomy/)
-
----
-
-## 11. Agent-workspace-Linux An isolated Linux desktop that an AI agent control
-
-**Author:** anotherCodder  
-**Published:** 5/27/2026, 8:18:34 AM  
-**Categories:** -  
-
-Article URL: https://github.com/agent-sh/agent-workspace-linux Comments URL: https://news.ycombinator.com/item?id=48291255 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/agent-sh/agent-workspace-linux)
-
----
-
-## 12. Fighting the AI Scraperbot Scourge
-
-**Author:** prakashqwerty  
-**Published:** 5/27/2026, 8:10:39 AM  
-**Categories:** -  
-
-Article URL: https://lwn.net/Articles/1008897/ Comments URL: https://news.ycombinator.com/item?id=48291189 Points: 1 # Comments: 0
-
-📖 [Read original article](https://lwn.net/Articles/1008897/)
-
----
-
-## 13. How to Make Sure AI Doesn't Spy on Us or Kill Innocent People
-
-**Author:** rendall  
-**Published:** 5/27/2026, 8:00:30 AM  
-**Categories:** -  
-
-Article URL: https://reason.com/video/2026/05/26/how-to-make-sure-ai-doesnt-spy-on-us-or-kill-innocent-people/ Comments URL: https://news.ycombinator.com/item?id=48291113 Points: 2 # Comments: 0
-
-📖 [Read original article](https://reason.com/video/2026/05/26/how-to-make-sure-ai-doesnt-spy-on-us-or-kill-innocent-people/)
-
----
-
-## 14. Show HN: YouTube MCP – let your AI agent search YouTube for research
-
-**Author:** therohitdas  
-**Published:** 5/27/2026, 7:57:11 AM  
-**Categories:** -  
-
-YouTube is an untapped data source for deep research. Add this MCP and let your agent search YouTube for the latest videos related to your topic. Comments URL: https://news.ycombinator.com/item?id=48291089 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/ZeroPointRepo/youtube-mcp)
-
----
-
-## 15. Anthropic's Dogma on US-China AI Competition
-
-**Author:** pretext  
-**Published:** 5/27/2026, 7:56:08 AM  
-**Categories:** -  
-
-Article URL: https://chinai.substack.com/p/anthropics-dogmatic-views-on-us-china Comments URL: https://news.ycombinator.com/item?id=48291077 Points: 2 # Comments: 1
-
-📖 [Read original article](https://chinai.substack.com/p/anthropics-dogmatic-views-on-us-china)
-
----
-
-## 16. Spotify CEO defends AI music, wants you to stop calling it 'slop'
-
-**Author:** bundie  
-**Published:** 5/27/2026, 7:51:39 AM  
-**Categories:** -  
-
-Article URL: https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/ Comments URL: https://news.ycombinator.com/item?id=48291034 Points: 6 # Comments: 4
-
-📖 [Read original article](https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/)
-
----
-
-## 17. Even (very) noisy LLM evaluators are useful for improving AI agents
-
-**Author:** GabrielBianconi  
-**Published:** 5/27/2026, 7:49:56 AM  
-**Categories:** -  
-
-Article URL: https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48291016 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/)
-
----
-
-## 18. AI Agents Plunged the Tech World into Chaos
-
-**Author:** swolpers  
-**Published:** 5/27/2026, 7:41:24 AM  
-**Categories:** -  
-
-Article URL: https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/ Comments URL: https://news.ycombinator.com/item?id=48290974 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/)
-
----
-
-## 19. DuckDuckGo Installs Increased 30% Amid Backlash to Google AI Search
+## 3. A One-Character Host Header Bug in Starlette Exposed AI Agents
 
 **Author:** steveharing1  
-**Published:** 5/27/2026, 7:34:37 AM  
+**Published:** 5/27/2026, 3:29:17 PM  
 **Categories:** -  
 
-Article URL: https://firethering.com/duckduckgo-installs-google-ai-search-backlash/ Comments URL: https://news.ycombinator.com/item?id=48290926 Points: 2 # Comments: 0
+Article URL: https://firethering.com/badhost-starlette-critical-vulnerability-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48295805 Points: 1 # Comments: 0
 
-📖 [Read original article](https://firethering.com/duckduckgo-installs-google-ai-search-backlash/)
+📖 [Read original article](https://firethering.com/badhost-starlette-critical-vulnerability-ai-agents/)
 
 ---
 
-## 20. Writing can help you escape AI delirium
+## 4. IBM's Video Explaining Five AI Risks That Can Get You Fired
 
-**Author:** cwbuilds  
-**Published:** 5/27/2026, 7:34:23 AM  
+**Author:** busymom0  
+**Published:** 5/27/2026, 3:27:35 PM  
 **Categories:** -  
 
-Article URL: https://cantible.com/@chris/posts/how-writing-can-help-you-escape-ai-delerium Comments URL: https://news.ycombinator.com/item?id=48290924 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=1m55T8xST9s Comments URL: https://news.ycombinator.com/item?id=48295779 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cantible.com/@chris/posts/how-writing-can-help-you-escape-ai-delerium)
+📖 [Read original article](https://www.youtube.com/watch?v=1m55T8xST9s)
+
+---
+
+## 5. The AI fight brewing inside The New York Times
+
+**Author:** Brajeshwar  
+**Published:** 5/27/2026, 3:25:04 PM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract Comments URL: https://news.ycombinator.com/item?id=48295741 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract)
+
+---
+
+## 6. Want to Design Better with AI? Become a Digital Hoarder
+
+**Author:** young_mete  
+**Published:** 5/27/2026, 3:22:03 PM  
+**Categories:** -  
+
+Article URL: https://metedata.substack.com/p/014-want-to-design-better-with-ai Comments URL: https://news.ycombinator.com/item?id=48295701 Points: 1 # Comments: 0
+
+📖 [Read original article](https://metedata.substack.com/p/014-want-to-design-better-with-ai)
+
+---
+
+## 7. Tech CEOs are apparently suffering from AI psychosis
+
+**Author:** IAmGraydon  
+**Published:** 5/27/2026, 3:20:47 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 4 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+
+---
+
+## 8. Authorship in the AI Age
+
+**Author:** speckx  
+**Published:** 5/27/2026, 3:15:19 PM  
+**Categories:** -  
+
+Article URL: https://blog.computationalcomplexity.org/2026/05/authorship-in-ai-age.html Comments URL: https://news.ycombinator.com/item?id=48295613 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.computationalcomplexity.org/2026/05/authorship-in-ai-age.html)
+
+---
+
+## 9. Phoenix AZ Built an Empire of Cubicle Jobs. AI Is Coming to Tear It Dow
+
+**Author:** fortran77  
+**Published:** 5/27/2026, 3:13:38 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/economy/phoenix-built-an-empire-of-cubicle-jobs-ai-is-coming-to-tear-it-down-fb64bb68 Comments URL: https://news.ycombinator.com/item?id=48295584 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.wsj.com/economy/phoenix-built-an-empire-of-cubicle-jobs-ai-is-coming-to-tear-it-down-fb64bb68)
+
+---
+
+## 10. I Rebuilt ZX Spectrum Basic in Rust with AI
+
+**Author:** adam_jesion  
+**Published:** 5/27/2026, 3:05:31 PM  
+**Categories:** -  
+
+Article URL: https://github.com/ashtree74/zxbasic-rust Comments URL: https://news.ycombinator.com/item?id=48295464 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/ashtree74/zxbasic-rust)
+
+---
+
+## 11. Back to the Future: AI and the Legal Profession
+
+**Author:** ejz  
+**Published:** 5/27/2026, 2:59:01 PM  
+**Categories:** -  
+
+Article URL: https://blog.withedge.com/p/back-to-the-future-ai-and-the-future Comments URL: https://news.ycombinator.com/item?id=48295369 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.withedge.com/p/back-to-the-future-ai-and-the-future)
+
+---
+
+## 12. Most Teachers Receive No Formal Guidance on AI Use
+
+**Author:** giuliomagnifico  
+**Published:** 5/27/2026, 2:57:34 PM  
+**Categories:** -  
+
+Article URL: https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx Comments URL: https://news.ycombinator.com/item?id=48295353 Points: 2 # Comments: 0
+
+📖 [Read original article](https://news.gallup.com/poll/710534/teachers-receive-no-formal-guidance.aspx)
+
+---
+
+## 13. Tyler Cowen: Seven Ways to Avoid Losing Your Job to AI
+
+**Author:** FigurativeVoid  
+**Published:** 5/27/2026, 2:52:41 PM  
+**Categories:** -  
+
+Article URL: https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing Comments URL: https://news.ycombinator.com/item?id=48295287 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing)
+
+---
+
+## 14. Peers – Multi-agent AI coding with measurable convergence
+
+**Author:** dash0r  
+**Published:** 5/27/2026, 2:51:35 PM  
+**Categories:** -  
+
+Article URL: https://github.com/c0decave/peers Comments URL: https://news.ycombinator.com/item?id=48295266 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/c0decave/peers)
+
+---
+
+## 15. Amazon starts selling its AI shopping technology to other retailers
+
+**Author:** thm  
+**Published:** 5/27/2026, 2:46:11 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html Comments URL: https://news.ycombinator.com/item?id=48295196 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html)
+
+---
+
+## 16. The future of AI is an AI futures market
+
+**Author:** speckx  
+**Published:** 5/27/2026, 2:42:02 PM  
+**Categories:** -  
+
+Article URL: https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market Comments URL: https://news.ycombinator.com/item?id=48295149 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.semafor.com/article/05/26/2026/the-future-of-ai-is-an-ai-futures-market)
+
+---
+
+## 17. AI as Nervous System
+
+**Author:** tenpast  
+**Published:** 5/27/2026, 2:41:41 PM  
+**Categories:** -  
+
+Author here. Practitioner perspective from running a small construction consultancy via coordinated Claude Code agents. The most contestable claim is the dimensional framing. The post's own caveat names why.https://chenla-agathos.com/blog/ceo/ai-as-nervous-system Comments URL: https://news.ycombinat...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48295143)
+
+---
+
+## 18. Women who power America's offices are making themselves AI-proof
+
+**Author:** cdrnsf  
+**Published:** 5/27/2026, 2:36:26 PM  
+**Categories:** -  
+
+Article URL: https://19thnews.org/2026/05/women-administrative-assistants-ai/ Comments URL: https://news.ycombinator.com/item?id=48295067 Points: 1 # Comments: 0
+
+📖 [Read original article](https://19thnews.org/2026/05/women-administrative-assistants-ai/)
+
+---
+
+## 19. 'Lobotomized': Character.ai Is Showing What AI Enshittification Looks Like
+
+**Author:** cdrnsf  
+**Published:** 5/27/2026, 2:34:19 PM  
+**Categories:** -  
+
+Article URL: https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/ Comments URL: https://news.ycombinator.com/item?id=48295032 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/)
+
+---
+
+## 20. Tlamatini – Local-first AI dev assistant with 68 agents and hybrid RAG
+
+**Author:** angelahack1  
+**Published:** 5/27/2026, 2:27:43 PM  
+**Categories:** -  
+
+Article URL: https://github.com/XAIHT/Tlamatini Comments URL: https://news.ycombinator.com/item?id=48294930 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/XAIHT/Tlamatini)
 
 ---
