@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-05-27"
 date: "2026-05-27"
 source: "OpenAI Blog"
-count: 1
+count: 3
 ---
 
 # OpenAI Blog - 2026-05-27
 
-1 items collected.
+3 items collected.
 
 ---
 
@@ -20,5 +20,29 @@ count: 1
 See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.
 
 📖 [Read original article](https://openai.com/index/building-self-improving-tax-agents-with-codex)
+
+---
+
+## 2. Warp’s big bet on building open source with GPT-5.5
+
+**Author:** -  
+**Published:** 5/27/2026, 12:00:00 AM  
+**Categories:** Startup  
+
+Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
+
+📖 [Read original article](https://openai.com/index/warp)
+
+---
+
+## 3. Election information and safeguards in 2026
+
+**Author:** -  
+**Published:** 5/27/2026, 12:00:00 AM  
+**Categories:** Global Affairs  
+
+Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency
+
+📖 [Read original article](https://openai.com/index/election-safeguards-2026)
 
 ---
