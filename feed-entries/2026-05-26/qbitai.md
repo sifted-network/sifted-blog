@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-26"
 date: "2026-05-26"
 source: "qbitai"
-count: 9
+count: 6
 ---
 
 # qbitai - 2026-05-26
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ MTS（技术员工） @Anthropic
 独特“幸运星”ID设计，打造数字系列史上最精致外观
 
 📖 [Read original article](https://www.qbitai.com/2026/05/425155.html)
-
----
-
-## 7. “卡车界特斯拉”，刚刚又融了2亿美元
-
-**Author:** 杰西卡  
-**Published:** 5/26/2026, 5:37:38 AM  
-**Categories:** 智能车参考, 无人车往哪里开？, 车圈最新认知, 零一汽车  
-
-90后天才+70后老将打造
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425058.html)
-
----
-
-## 8. 编程权威榜单：千问3.7仅次于Claude，阿里全球第二
-
-**Author:** 量子位的朋友们  
-**Published:** 5/26/2026, 5:32:12 AM  
-**Categories:** 资讯, Qwen3.7  
-
-跻身全球编程模型第一梯队
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425150.html)
-
----
-
-## 9. 刚刚，国产Agent模型闯入全球第一梯队！限时免费
-
-**Author:** 一水  
-**Published:** 5/26/2026, 4:13:32 AM  
-**Categories:** 资讯, 首页轮播, Agent模型, 昆仑万维  
-
-深度适配OpenClaw、Claude Code、Hermes等
-
-📖 [Read original article](https://www.qbitai.com/2026/05/424851.html)
 
 ---
