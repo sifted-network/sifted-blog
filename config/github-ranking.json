@@ -23,15 +23,8 @@
         "Task Planning",
         "Reasoning",
         "Memory",
-        "Persona"
-      ]
-    },
-    {
-      "name": "Coding Agent",
-      "desc": "AI Coding Assistant",
-      "topics": [
-        "Coding Agent",
-        "Self-Healing Code"
+        "Persona",
+        "Harness"
       ]
     },
     {
