@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-26"
 date: "2026-05-26"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-05-26
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ count: 6
 MTS（技术员工） @Anthropic
 
 📖 [Read original article](https://www.qbitai.com/2026/05/425304.html)
-
----
-
-## 5. 华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升
-
-**Author:** 量子位的朋友们  
-**Published:** 5/26/2026, 6:52:33 AM  
-**Categories:** 资讯  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425296.html)
-
----
-
-## 6. 荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起
-
-**Author:** 量子位的朋友们  
-**Published:** 5/26/2026, 5:50:01 AM  
-**Categories:** 资讯, AI手机, 荣耀, 荣耀600系列  
-
-独特“幸运星”ID设计，打造数字系列史上最精致外观
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425155.html)
 
 ---
