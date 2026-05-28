@@ -161,7 +161,7 @@ arXiv:2605.26184v1 Announce Type: new Abstract: Hybrid post-training usually com
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26189v1 Announce Type: new Abstract: Quantization-aware training (QAT) with low-bit floating-point formats enables efficient LLM deployment, yet introduces subtle failure modes invisible to standard training metrics. We present a systematic study of HiF8 W8A8 QAT for OpenPangu-Embedded-1B...
+arXiv:2605.26189v2 Announce Type: new Abstract: Quantization-aware training (QAT) with low-bit floating-point formats enables efficient LLM deployment, yet introduces subtle failure modes invisible to standard training metrics. We present a systematic study of HiF8 W8A8 QAT for OpenPangu-Embedded-1B...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26189)
 
@@ -461,7 +461,7 @@ arXiv:2605.26355v1 Announce Type: new Abstract: Standard transformer attention c
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.26357v1 Announce Type: new Abstract: A hallmark of intelligence is the ability to adapt in non-stationary environments, yet deep Reinforcement Learning (RL) agents often struggle in such settings. Prior studies introduce non-stationarity through abrupt shifts in features or dynamics, wher...
+arXiv:2605.26357v2 Announce Type: new Abstract: A hallmark of intelligence is the ability to adapt in non-stationary environments, yet deep Reinforcement Learning (RL) agents often struggle in such settings. Prior studies introduce non-stationarity through abrupt shifts in features or dynamics, wher...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26357)
 
@@ -685,11 +685,11 @@ arXiv:2605.26535v1 Announce Type: new Abstract: Generative models have emerged a
 
 ## 57. Aligning Few-Step Generative Models by Amortizing Sample-based Variational Inference
 
-**Author:** Jaewoo Lee, Hyeongyu Kang, Dohyun Kim, Kyuil Sim, Woocheol Shin, Minsu Kim, Taeyoung Yun, Jeongjae Lee, Sanghyeok Choi, Tabitha Edith Lee, Jongchul Ye, Jinkyoo Park  
+**Author:** Jaewoo Lee, Hyeongyu Kang, Dohyun Kim, Kyuil Sim, Woocheol Shin, Minsu Kim, Taeyoung Yun, Jeongjae Lee, Sanghyeok Choi, Tabitha Edith Lee, Jong Chul Ye, Jinkyoo Park  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26552v1 Announce Type: new Abstract: Aligning a few-step generative model is challenging, since existing alignment frameworks typically rely on restrictive assumptions: a tractable likelihood, a specific ODE/SDE solver, or a particular model family. We introduce FAV, Few-step Generative M...
+arXiv:2605.26552v2 Announce Type: new Abstract: Aligning a few-step generative model is challenging, since existing alignment frameworks typically rely on restrictive assumptions: a tractable likelihood, a specific ODE/SDE solver, or a particular model family. We introduce FAV, Few-step Generative M...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26552)
 
@@ -1049,7 +1049,7 @@ arXiv:2605.26784v1 Announce Type: new Abstract: Standard on-policy reinforcement
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, physics.space-ph  
 
-arXiv:2605.26790v1 Announce Type: new Abstract: Low-thrust trajectory design relies heavily on repeated evaluations of fuel consumption and transfer feasibility, which require expensive optimal control solutions. In this work, we show these quantities can be accurately approximated by machine learni...
+arXiv:2605.26790v2 Announce Type: new Abstract: Low-thrust trajectory design relies heavily on repeated evaluations of fuel consumption and transfer feasibility, which require expensive optimal control solutions. In this work, we show these quantities can be accurately approximated by machine learni...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26790)
 
@@ -1215,7 +1215,7 @@ arXiv:2605.26900v1 Announce Type: new Abstract: A fundamental open question in s
 
 **Author:** Xianheng Wang, Yige Yang, Damien Coyle  
 **Published:** 5/27/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, q-bio.NC  
 
 arXiv:2605.26910v1 Announce Type: new Abstract: Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified contributions of co...
 
@@ -1829,7 +1829,7 @@ arXiv:2605.26183v1 Announce Type: cross Abstract: Graph Neural Networks (GNNs) h
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL, cs.LG  
 
-arXiv:2605.26186v1 Announce Type: cross Abstract: Functionality-correct repository setup aims to configure execution environments (e.g., dependencies, build scripts) to successfully execute a repository's documented features. It presents significant challenges due to diverse, repository-specific fai...
+arXiv:2605.26186v2 Announce Type: cross Abstract: Functionality-correct repository setup aims to configure execution environments (e.g., dependencies, build scripts) to successfully execute a repository's documented features. It presents significant challenges due to diverse, repository-specific fai...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26186)
 
@@ -2247,7 +2247,7 @@ arXiv:2605.26702v1 Announce Type: cross Abstract: Reliable watermarking of panor
 
 **Author:** Dean P. Foster, Sergiu Hart  
 **Published:** 5/27/2026, 4:00:00 AM  
-**Categories:** econ.TH, cs.LG, stat.ML  
+**Categories:** econ.TH, cs.GT, cs.LG, stat.ML  
 
 arXiv:2605.26703v1 Announce Type: cross Abstract: The classic concept of "calibrated forecasts" and its more recent refinement, "calibeating," are defined with respect to the standard quadratic scoring rule. We extend these notions to the class of $\textit{proper}$ scoring rules (for which the best ...
 
@@ -2485,11 +2485,11 @@ arXiv:2605.27093v1 Announce Type: cross Abstract: In probabilstic supervised lea
 
 ## 207. JLT: Clean-Latent Prediction in Latent Diffusion Transformers
 
-**Author:** Funing Fu, Tenghui Wang, Junyong Cen, Qichao Zhu, Guanyu Zhou  
+**Author:** Funing Fu, Tenghui Wang, Guanyu Zhou, Junyong Cen, Qichao Zhu  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2605.27102v1 Announce Type: cross Abstract: Flow matching with clean-data prediction has shown that regressing the clean point can exploit low-dimensional structure more effectively than predicting an ambient noised quantity. We ask whether this principle remains useful after images are mapped...
+arXiv:2605.27102v2 Announce Type: cross Abstract: Flow matching with clean-data prediction has shown that regressing the clean point can exploit low-dimensional structure more effectively than predicting an ambient noised quantity. We ask whether this principle remains useful after images are mapped...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27102)
 
@@ -2621,7 +2621,7 @@ arXiv:2605.27355v1 Announce Type: cross Abstract: Reinforcement Learning from Hu
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG, cs.RO  
 
-arXiv:2605.27365v1 Announce Type: cross Abstract: Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding...
+arXiv:2605.27365v2 Announce Type: cross Abstract: Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27365)
 
@@ -3053,7 +3053,7 @@ arXiv:2510.09405v2 Announce Type: replace Abstract: Radio frequency fingerprint 
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CV  
 
-arXiv:2510.18668v2 Announce Type: replace Abstract: The vast majority of cardiovascular diseases may be preventable if early signs and risk factors are detected. Cardiovascular monitoring with body-worn sensor devices like sensor patches allows for the detection of such signs while preserving the fr...
+arXiv:2510.18668v3 Announce Type: replace Abstract: The vast majority of cardiovascular diseases may be preventable if early signs and risk factors are detected. Cardiovascular monitoring with body-worn sensor devices like sensor patches allows for the detection of such signs while preserving the fr...
 
 📖 [Read original article](https://arxiv.org/abs/2510.18668)
 
@@ -3677,7 +3677,7 @@ arXiv:2605.08455v2 Announce Type: replace Abstract: Debugging CUDA programs has 
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL, cs.IR  
 
-arXiv:2605.11374v3 Announce Type: replace Abstract: Test-time compute is widely believed to benefit only large reasoning models. We show it also helps small embedding models. Since modern embedding models are distilled from LLM backbones, a frozen encoder should benefit from extra inference compute ...
+arXiv:2605.11374v4 Announce Type: replace Abstract: Test-time compute is widely believed to benefit only large reasoning models. We show it also helps small embedding models. Since modern embedding models are distilled from LLM backbones, a frozen encoder should benefit from extra inference compute ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.11374)
 
@@ -3821,7 +3821,7 @@ arXiv:2605.21617v2 Announce Type: replace Abstract: Inference from interaction m
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.22297v2 Announce Type: replace Abstract: Learning rate configuration is a fundamental aspect of modern deep learning. The prevailing practice of applying a uniform learning rate across all layers overlooks the structural heterogeneity of Transformers, potentially limiting their effectiven...
+arXiv:2605.22297v3 Announce Type: replace Abstract: Learning rate configuration is a fundamental aspect of modern deep learning. The prevailing practice of applying a uniform learning rate across all layers overlooks the structural heterogeneity of Transformers, potentially limiting their effectiven...
 
 📖 [Read original article](https://arxiv.org/abs/2605.22297)
 
@@ -4361,7 +4361,7 @@ arXiv:2601.20796v2 Announce Type: replace-cross Abstract: Transformer-based mult
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2601.22519v2 Announce Type: replace-cross Abstract: Discrete flow models (DFMs) have been proposed to learn the data distribution on finite state space, offering a flexible framework as an alternative to discrete diffusion models. A line of recent work has studied samplers for discrete diffusi...
+arXiv:2601.22519v3 Announce Type: replace-cross Abstract: Discrete flow models (DFMs) have been proposed to learn the data distribution on finite state space, offering a flexible framework as an alternative to discrete diffusion models. A line of recent work has studied samplers for discrete diffusi...
 
 📖 [Read original article](https://arxiv.org/abs/2601.22519)
 
@@ -4385,7 +4385,7 @@ arXiv:2601.22648v2 Announce Type: replace-cross Abstract: The key to building tr
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI, cs.LG  
 
-arXiv:2602.01665v3 Announce Type: replace-cross Abstract: The design of environments plays a critical role in shaping the development and evaluation of cooperative multi-agent reinforcement learning (MARL) algorithms. While existing benchmarks highlight critical challenges, they often lack the modul...
+arXiv:2602.01665v4 Announce Type: replace-cross Abstract: The design of environments plays a critical role in shaping the development and evaluation of cooperative multi-agent reinforcement learning (MARL) algorithms. While existing benchmarks highlight critical challenges, they often lack the modul...
 
 📖 [Read original article](https://arxiv.org/abs/2602.01665)
 
@@ -4659,7 +4659,7 @@ arXiv:2604.26197v2 Announce Type: replace-cross Abstract: Large Language Model (
 
 **Author:** Yuanhao Chen, Peter Chin  
 **Published:** 5/27/2026, 4:00:00 AM  
-**Categories:** q-bio.NC, cs.CL, cs.HC, cs.LG  
+**Categories:** q-bio.NC, cs.CL, cs.HC, cs.LG, eess.AS  
 
 arXiv:2605.00025v2 Announce Type: replace-cross Abstract: Speech neuroprosthesis systems decode intended speech from neural activity in the absence of audible output, offering a path to restoring communication for individuals with speech-impairing conditions. Current approaches decode predominantly ...
 
