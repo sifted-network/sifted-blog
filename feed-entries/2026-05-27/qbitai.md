@@ -2,16 +2,28 @@
 title: "qbitai - 2026-05-27"
 date: "2026-05-27"
 source: "qbitai"
-count: 5
+count: 2
 ---
 
 # qbitai - 2026-05-27
 
-5 items collected.
+2 items collected.
 
 ---
 
-## 1. 1400亿Agent入场，“流量”这条护城河要塌了
+## 1. 雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告
+
+**Author:** 量子位的朋友们  
+**Published:** 5/27/2026, 11:55:55 AM  
+**Categories:** 资讯, 雷鸟  
+
+专业影视级 AR 眼镜
+
+📖 [Read original article](https://www.qbitai.com/2026/05/425897.html)
+
+---
+
+## 2. 1400亿Agent入场，“流量”这条护城河要塌了
 
 **Author:** 衡宇  
 **Published:** 5/27/2026, 9:31:05 AM  
@@ -20,53 +32,5 @@ count: 5
 看到大厂押注Agent生态的新方向
 
 📖 [Read original article](https://www.qbitai.com/2026/05/425881.html)
-
----
-
-## 2. 5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了
-
-**Author:** 听雨  
-**Published:** 5/27/2026, 9:01:54 AM  
-**Categories:** 资讯, AI  
-
-不再绕回2D
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425870.html)
-
----
-
-## 3. OpenAI挖来了个F1级别车手搞公关
-
-**Author:** 一水  
-**Published:** 5/27/2026, 6:55:44 AM  
-**Categories:** 资讯, OpenAI  
-
-曾在Salesforce干了13年营销
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425857.html)
-
----
-
-## 4. 触觉具身来了个梦之队：天使轮近亿
-
-**Author:** 思邈  
-**Published:** 5/27/2026, 5:18:06 AM  
-**Categories:** 资讯, Meta, 华为, 复旦, 新智具身, 阿里  
-
-复旦系具身新星，想让机器人真正会“触摸”
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425660.html)
-
----
-
-## 5. Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动
-
-**Author:** 听雨  
-**Published:** 5/27/2026, 5:12:18 AM  
-**Categories:** 资讯, AI  
-
-只需一段提示词
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425810.html)
 
 ---
