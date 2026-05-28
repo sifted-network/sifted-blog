@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Why $/token is the wrong metric for Enterprise AI (agentic) applications
+## 1. Why Tesla's AI trainers don't trust its self-driving tech – or its safety stats
 
-**Author:** ravikiran9gopal  
-**Published:** 5/28/2026, 3:32:26 PM  
+**Author:** JumpCrisscross  
+**Published:** 5/28/2026, 8:18:08 PM  
 **Categories:** -  
 
-Article URL: https://canyoncode.ai/blog/beyond-per-token Comments URL: https://news.ycombinator.com/item?id=48310448 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48314850 Points: 1 # Comments: 0
 
-📖 [Read original article](https://canyoncode.ai/blog/beyond-per-token)
+📖 [Read original article](https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/)
 
 ---
 
-## 2. The people who want AI to replace humanity
+## 2. Ask HN: Has AI-generated code changed your perspective on \"tech debt\"?
 
-**Author:** mrdependable  
-**Published:** 5/28/2026, 3:25:30 PM  
+**Author:** mavsman  
+**Published:** 5/28/2026, 8:10:47 PM  
 **Categories:** -  
 
-Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48310332 Points: 4 # Comments: 0
+Are there certain things you used to care about that you don't any longer? What even is tech debt to you these days? Comments URL: https://news.ycombinator.com/item?id=48314746 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism)
+📖 [Read original article](https://news.ycombinator.com/item?id=48314746)
 
 ---
 
-## 3. Top grossing law firm Kirkland & Ellis set aside $500M to create own AI platform
+## 3. AI used to identify miscreant judge
 
-**Author:** cwwc  
-**Published:** 5/28/2026, 3:20:12 PM  
+**Author:** mandevil  
+**Published:** 5/28/2026, 8:08:03 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3 Comments URL: https://news.ycombinator.com/item?id=48310233 Points: 4 # Comments: 1
+Article URL: https://abovethelaw.com/2026/05/judiciary-tried-to-hide-sex-in-chambers-judges-name-it-left-a-roadmap-to-identify-eleanor-ross-instead/ Comments URL: https://news.ycombinator.com/item?id=48314704 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3)
+📖 [Read original article](https://abovethelaw.com/2026/05/judiciary-tried-to-hide-sex-in-chambers-judges-name-it-left-a-roadmap-to-identify-eleanor-ross-instead/)
 
 ---
 
-## 4. Data pipelines powering generative AI systems rooted in invasions of privacy
+## 4. An AI-Native Leaderboard
+
+**Author:** grahac  
+**Published:** 5/28/2026, 7:52:07 PM  
+**Categories:** -  
+
+Article URL: https://www.aiqrank.com/leaderboard Comments URL: https://news.ycombinator.com/item?id=48314452 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.aiqrank.com/leaderboard)
+
+---
+
+## 5. SIA: Self Improving AI with Harness and Weight Updates
+
+**Author:** mitchwainer  
+**Published:** 5/28/2026, 7:50:25 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2605.27276 Comments URL: https://news.ycombinator.com/item?id=48314431 Points: 1 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2605.27276)
+
+---
+
+## 6. New Intel Bureau Eyes AI Data Center Critics
 
 **Author:** cdrnsf  
-**Published:** 5/28/2026, 3:18:51 PM  
+**Published:** 5/28/2026, 7:43:16 PM  
 **Categories:** -  
 
-Article URL: https://www.amnesty.org/en/latest/news/2026/05/global-enormous-data-pipelines-powering-major-generative-ai-systems-are-rooted-in-mass-invasions-of-privacy-by-design/ Comments URL: https://news.ycombinator.com/item?id=48310213 Points: 1 # Comments: 0
+Article URL: https://www.kenklippenstein.com/p/exclusive-new-intel-agency-eyes-ai Comments URL: https://news.ycombinator.com/item?id=48314364 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.amnesty.org/en/latest/news/2026/05/global-enormous-data-pipelines-powering-major-generative-ai-systems-are-rooted-in-mass-invasions-of-privacy-by-design/)
+📖 [Read original article](https://www.kenklippenstein.com/p/exclusive-new-intel-agency-eyes-ai)
 
 ---
 
-## 5. Show HN: AI Skill to port PostgreSQL extensions to MySQL
+## 7. Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions
 
-**Author:** deesix  
-**Published:** 5/28/2026, 3:18:45 PM  
+**Author:** ianrahman  
+**Published:** 5/28/2026, 7:43:14 PM  
 **Categories:** -  
 
-Agent skills for working with VillageSQL. Skills run in Claude Code, Gemini CLI, agy, Codex, Cursor, Amp, and Kiro. Comments URL: https://news.ycombinator.com/item?id=48310211 Points: 1 # Comments: 0
+Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48314363 Points: 23 # Comments: 12
 
-📖 [Read original article](https://github.com/villagesql/villagesql-skills)
+📖 [Read original article](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 
 ---
 
-## 6. Wix cuts 20% of workforce in AI and currency restructuring
+## 8. If there is an AI bubble, where is it?
 
-**Author:** thm  
-**Published:** 5/28/2026, 3:17:01 PM  
+**Author:** gphil  
+**Published:** 5/28/2026, 7:31:54 PM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/wix-is-cutting-20-of-its-workforce-as-a-strong-shekel-and-ai-competition-squeeze-the-website-builder-from-both-sides Comments URL: https://news.ycombinator.com/item?id=48310183 Points: 2 # Comments: 0
+Article URL: https://gregoryap.substack.com/p/if-there-is-an-ai-bubble-where-is Comments URL: https://news.ycombinator.com/item?id=48314249 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenextweb.com/news/wix-is-cutting-20-of-its-workforce-as-a-strong-shekel-and-ai-competition-squeeze-the-website-builder-from-both-sides)
+📖 [Read original article](https://gregoryap.substack.com/p/if-there-is-an-ai-bubble-where-is)
 
 ---
 
-## 7. Celebrities are telling women to use more AI or be 'left behind.'
+## 9. To Gen or Not to Gen: The Ethical Use of Generative AI
 
-**Author:** andy99  
-**Published:** 5/28/2026, 3:07:20 PM  
+**Author:** archagon  
+**Published:** 5/28/2026, 7:24:07 PM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/entertainment/women-celebrities-ai-9.7213256 Comments URL: https://news.ycombinator.com/item?id=48310016 Points: 2 # Comments: 0
+Article URL: https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/ Comments URL: https://news.ycombinator.com/item?id=48314135 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.cbc.ca/news/entertainment/women-celebrities-ai-9.7213256)
+📖 [Read original article](https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/)
 
 ---
 
-## 8. Incognito Chat with Meta AI: a private way to chat with AI
+## 10. The AI Resist List
 
-**Author:** commandersaki  
-**Published:** 5/28/2026, 3:01:49 PM  
+**Author:** lylo  
+**Published:** 5/28/2026, 7:22:03 PM  
 **Categories:** -  
 
-Article URL: https://blog.whatsapp.com/introducing-incognito-chat-with-meta-ai-a-completely-private-way-to-chat-with-ai?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=48309942 Points: 2 # Comments: 1
+Article URL: https://airesistlist.org/ Comments URL: https://news.ycombinator.com/item?id=48314098 Points: 5 # Comments: 0
 
-📖 [Read original article](https://blog.whatsapp.com/introducing-incognito-chat-with-meta-ai-a-completely-private-way-to-chat-with-ai?_fb_noscript=1)
+📖 [Read original article](https://airesistlist.org/)
 
 ---
 
-## 9. IBM and Red Hat Commit $5B to Redefine the Future of Open Source in the AI Era
+## 11. Built a chat-first AI personal operator in 48h – need 5 honest beta testers
 
-**Author:** fredski42  
-**Published:** 5/28/2026, 3:00:33 PM  
+**Author:** tomdieter  
+**Published:** 5/28/2026, 7:19:46 PM  
 **Categories:** -  
 
-Article URL: https://www.redhat.com/en/about/press-releases/project-lightwell-secure-open-source Comments URL: https://news.ycombinator.com/item?id=48309927 Points: 2 # Comments: 0
+Article URL: https://operatoros-web-czi4.onrender.com Comments URL: https://news.ycombinator.com/item?id=48314063 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.redhat.com/en/about/press-releases/project-lightwell-secure-open-source)
+📖 [Read original article](https://operatoros-web-czi4.onrender.com)
 
 ---
 
-## 10. Ask HN: Why is problem solving in math still important in the AI age?
+## 12. Nobody talks about the AI bubble anymore
 
-**Author:** amichail  
-**Published:** 5/28/2026, 2:59:48 PM  
+**Author:** xchip  
+**Published:** 5/28/2026, 7:11:38 PM  
 **Categories:** -  
 
-AI will soon be better than almost all human mathematicians at math problem solving.So maybe it's time for math teachers and students to stop worrying about developing strong math problem solving skills (e.g., via math contests, etc.)? Comments URL: https://news.ycombinator.com/item?id=48309915 Poin...
+What's your theory about this? Comments URL: https://news.ycombinator.com/item?id=48313947 Points: 1 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48309915)
+📖 [Read original article](https://news.ycombinator.com/item?id=48313947)
 
 ---
 
-## 11. Spotify CEO defends AI music, wants you to stop calling it 'slop'
+## 13. Did Google's AI agents build an operating system for $916?
 
-**Author:** bundie  
-**Published:** 5/28/2026, 2:59:32 PM  
+**Author:** wslh  
+**Published:** 5/28/2026, 7:04:42 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/ Comments URL: https://news.ycombinator.com/item?id=48309909 Points: 6 # Comments: 7
+Article URL: https://www.normaltech.ai/p/did-googles-ai-agents-really-build Comments URL: https://news.ycombinator.com/item?id=48313843 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/)
+📖 [Read original article](https://www.normaltech.ai/p/did-googles-ai-agents-really-build)
 
 ---
 
-## 12. AI Didn't Create These Problems. It Just Stopped Routing Around Them
+## 14. Is AI Going to Destroy Our Lives or Not?
 
-**Author:** kurinikku  
-**Published:** 5/28/2026, 2:58:07 PM  
+**Author:** bsgada  
+**Published:** 5/28/2026, 6:58:17 PM  
 **Categories:** -  
 
-Article URL: https://baweaver.com/writing/2026/05/27/ai-didnt-create-these-problems/ Comments URL: https://news.ycombinator.com/item?id=48309893 Points: 2 # Comments: 0
+Article URL: https://kyla.substack.com/p/is-ai-going-to-destroy-our-lives Comments URL: https://news.ycombinator.com/item?id=48313762 Points: 1 # Comments: 0
 
-📖 [Read original article](https://baweaver.com/writing/2026/05/27/ai-didnt-create-these-problems/)
+📖 [Read original article](https://kyla.substack.com/p/is-ai-going-to-destroy-our-lives)
 
 ---
 
-## 13. Occupy Wall Street co-founder built an on-device AI for activists
+## 15. Show HN: Minicart – Run your store by chatting with AI
 
-**Author:** micahwhite  
-**Published:** 5/28/2026, 2:50:21 PM  
+**Author:** chrisab  
+**Published:** 5/28/2026, 6:56:36 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/occupy-wall-street-co-founder-built-an-ai-app-to-help-activists-seize-the-means-of-computation-2000762031 Comments URL: https://news.ycombinator.com/item?id=48309775 Points: 4 # Comments: 1
+Article URL: https://minicart.com/ Comments URL: https://news.ycombinator.com/item?id=48313736 Points: 2 # Comments: 0
 
-📖 [Read original article](https://gizmodo.com/occupy-wall-street-co-founder-built-an-ai-app-to-help-activists-seize-the-means-of-computation-2000762031)
+📖 [Read original article](https://minicart.com/)
 
 ---
 
-## 14. A funny thing happened on the way to teaching advanced AI core frontier tech
+## 16. Cloudflare's data platform and the AI agent on top of it
 
-**Author:** srepetti  
-**Published:** 5/28/2026, 2:49:23 PM  
+**Author:** jgrahamc  
+**Published:** 5/28/2026, 6:46:45 PM  
 **Categories:** -  
 
-Article URL: https://steverepetti.substack.com/p/collaborative-teaching-of-frontier Comments URL: https://news.ycombinator.com/item?id=48309761 Points: 1 # Comments: 0
+Article URL: https://blog.cloudflare.com/our-unified-data-platform/ Comments URL: https://news.ycombinator.com/item?id=48313598 Points: 2 # Comments: 0
 
-📖 [Read original article](https://steverepetti.substack.com/p/collaborative-teaching-of-frontier)
+📖 [Read original article](https://blog.cloudflare.com/our-unified-data-platform/)
 
 ---
 
-## 15. AI Marketing and Growth Specilaist
+## 17. Show HN: AI IDE that converts websites and designs into code
 
-**Author:** AiGrowth  
-**Published:** 5/28/2026, 2:41:59 PM  
+**Author:** aliadelelroby  
+**Published:** 5/28/2026, 6:38:26 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48309641 Points: 1 # Comments: 1
+Hi HN Community! I'm Ali, Founder of Velork. I built Velork because I wanted something that I can really depend on to build production and client UI work, something that's professional enough that I can use day in and day out in my freelancing business.Velork is a full IDE built on VS Code. It combi...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48309641)
+📖 [Read original article](https://velork.com)
 
 ---
 
-## 16. Learning from Ava:Lessons from Trustworthy AI for Policy and Dev Research
+## 18. How do you catch AI agent regressions after prompt or model changes?
 
-**Author:** hek2sch  
-**Published:** 5/28/2026, 2:33:37 PM  
+**Author:** 1taimoorkhan0  
+**Published:** 5/28/2026, 6:30:40 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2604.17843 Comments URL: https://news.ycombinator.com/item?id=48309525 Points: 1 # Comments: 0
+Seeing a pattern where teams fix a failure in an agent, change the prompt or model a week later, and the same failure quietly comes back. Nobody catches it until a user does. Curious how people are handling this today. Manual test cases? Evals? Logs? Nothing? Not trying to pitch anything. Just tryin...
 
-📖 [Read original article](https://arxiv.org/abs/2604.17843)
+📖 [Read original article](https://news.ycombinator.com/item?id=48313367)
 
 ---
 
-## 17. Why Google's AI can't spell Google (or anything else)
+## 19. The AI Gold Rush Is Eating Its Own
 
-**Author:** Brajeshwar  
-**Published:** 5/28/2026, 2:32:28 PM  
+**Author:** lylo  
+**Published:** 5/28/2026, 6:15:14 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/ Comments URL: https://news.ycombinator.com/item?id=48309496 Points: 2 # Comments: 0
+Article URL: https://blog.ppb1701.com/the-ai-gold-rush-is-eating-its-own Comments URL: https://news.ycombinator.com/item?id=48313120 Points: 5 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
+📖 [Read original article](https://blog.ppb1701.com/the-ai-gold-rush-is-eating-its-own)
 
 ---
 
-## 18. Wix laying off about 20% of its workforce. CEO cites AI, exchange rates
+## 20. Show HN: Skills for spec-driven AI software development
 
-**Author:** tcp_handshaker  
-**Published:** 5/28/2026, 2:31:13 PM  
+**Author:** puristajs  
+**Published:** 5/28/2026, 6:14:42 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html Comments URL: https://news.ycombinator.com/item?id=48309476 Points: 3 # Comments: 1
+Article URL: https://github.com/sebastianwessel/skills Comments URL: https://news.ycombinator.com/item?id=48313112 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html)
-
----
-
-## 19. The enterprise security risks of autonomous AI agents, and how to manage them
-
-**Author:** volshield  
-**Published:** 5/28/2026, 2:25:14 PM  
-**Categories:** -  
-
-Article URL: https://www.volshield.com/intel/autonomous-ai-agent-dilemma Comments URL: https://news.ycombinator.com/item?id=48309393 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.volshield.com/intel/autonomous-ai-agent-dilemma)
-
----
-
-## 20. How long until AI automates all cognitive labor?
-
-**Author:** mckennameyer  
-**Published:** 5/28/2026, 2:21:35 PM  
-**Categories:** -  
-
-Article URL: https://futuresearch.ai/blog/agi-timeline-tracker/ Comments URL: https://news.ycombinator.com/item?id=48309344 Points: 41 # Comments: 73
-
-📖 [Read original article](https://futuresearch.ai/blog/agi-timeline-tracker/)
+📖 [Read original article](https://github.com/sebastianwessel/skills)
 
 ---
