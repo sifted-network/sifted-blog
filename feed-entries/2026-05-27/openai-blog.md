@@ -35,19 +35,7 @@ See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, a
 
 ---
 
-## 3. Election information and safeguards in 2026
-
-**Author:** -  
-**Published:** 5/27/2026, 12:00:00 AM  
-**Categories:** Global Affairs  
-
-Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency
-
-📖 [Read original article](https://openai.com/index/election-safeguards-2026)
-
----
-
-## 4. Warp’s big bet on building open source with GPT-5.5
+## 3. Warp’s big bet on building open source with GPT-5.5
 
 **Author:** -  
 **Published:** 5/27/2026, 12:00:00 AM  
@@ -56,5 +44,17 @@ Ahead of global elections, we’re helping people access information, supporting
 Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
 
 📖 [Read original article](https://openai.com/index/warp)
+
+---
+
+## 4. Election information and safeguards in 2026
+
+**Author:** -  
+**Published:** 5/27/2026, 12:00:00 AM  
+**Categories:** Global Affairs  
+
+Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency
+
+📖 [Read original article](https://openai.com/index/election-safeguards-2026)
 
 ---
