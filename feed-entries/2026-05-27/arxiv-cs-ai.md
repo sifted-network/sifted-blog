@@ -1121,7 +1121,7 @@ arXiv:2605.26184v1 Announce Type: cross Abstract: Hybrid post-training usually c
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL, cs.LG  
 
-arXiv:2605.26186v1 Announce Type: cross Abstract: Functionality-correct repository setup aims to configure execution environments (e.g., dependencies, build scripts) to successfully execute a repository's documented features. It presents significant challenges due to diverse, repository-specific fai...
+arXiv:2605.26186v2 Announce Type: cross Abstract: Functionality-correct repository setup aims to configure execution environments (e.g., dependencies, build scripts) to successfully execute a repository's documented features. It presents significant challenges due to diverse, repository-specific fai...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26186)
 
@@ -1133,7 +1133,7 @@ arXiv:2605.26186v1 Announce Type: cross Abstract: Functionality-correct reposito
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26189v1 Announce Type: cross Abstract: Quantization-aware training (QAT) with low-bit floating-point formats enables efficient LLM deployment, yet introduces subtle failure modes invisible to standard training metrics. We present a systematic study of HiF8 W8A8 QAT for OpenPangu-Embedded-...
+arXiv:2605.26189v2 Announce Type: cross Abstract: Quantization-aware training (QAT) with low-bit floating-point formats enables efficient LLM deployment, yet introduces subtle failure modes invisible to standard training metrics. We present a systematic study of HiF8 W8A8 QAT for OpenPangu-Embedded-...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26189)
 
@@ -1261,11 +1261,11 @@ arXiv:2605.26266v1 Announce Type: cross Abstract: Chunk-wise autoregressive vide
 
 ## 105. VesselSim: learning 3D blood vessel segmentation without expert annotations
 
-**Author:** Erin Rainville, Melissa Ananian, Tristan Mirolla, Hassan Rivax, Yiming Xiao  
+**Author:** Erin Rainville, Melissa Ananian, Tristan Mirolla, Hassan Rivaz, Yiming Xiao  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2605.26277v1 Announce Type: cross Abstract: Blood vessel segmentation is a core task in medical image analysis for the care of vascular diseases and surgical planning, yet the challenges of providing expert vascular annotations pose a major obstacle for the progress of related deep learning te...
+arXiv:2605.26277v2 Announce Type: cross Abstract: Blood vessel segmentation is a core task in medical image analysis for the care of vascular diseases and surgical planning, yet the challenges of providing expert vascular annotations pose a major obstacle for the progress of related deep learning te...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26277)
 
@@ -1397,7 +1397,7 @@ arXiv:2605.26362v1 Announce Type: cross Abstract: In many reasoning tasks, large
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2605.26368v1 Announce Type: cross Abstract: Geometry estimation from perspective images has greatly advanced, maturing to the point where off-the-shelf foundation models are able to reconstruct 3D scene structure not only from multi-view imagery, but even from a single view. A natural extensio...
+arXiv:2605.26368v2 Announce Type: cross Abstract: Geometry estimation from perspective images has greatly advanced, maturing to the point where off-the-shelf foundation models are able to reconstruct 3D scene structure not only from multi-view imagery, but even from a single view. A natural extensio...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26368)
 
@@ -1849,11 +1849,11 @@ arXiv:2605.26542v1 Announce Type: cross Abstract: Tool-using agents increasingly
 
 ## 154. Aligning Few-Step Generative Models by Amortizing Sample-based Variational Inference
 
-**Author:** Jaewoo Lee, Hyeongyu Kang, Dohyun Kim, Kyuil Sim, Woocheol Shin, Minsu Kim, Taeyoung Yun, Jeongjae Lee, Sanghyeok Choi, Tabitha Edith Lee, Jongchul Ye, Jinkyoo Park  
+**Author:** Jaewoo Lee, Hyeongyu Kang, Dohyun Kim, Kyuil Sim, Woocheol Shin, Minsu Kim, Taeyoung Yun, Jeongjae Lee, Sanghyeok Choi, Tabitha Edith Lee, Jong Chul Ye, Jinkyoo Park  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26552v1 Announce Type: cross Abstract: Aligning a few-step generative model is challenging, since existing alignment frameworks typically rely on restrictive assumptions: a tractable likelihood, a specific ODE/SDE solver, or a particular model family. We introduce FAV, Few-step Generative...
+arXiv:2605.26552v2 Announce Type: cross Abstract: Aligning a few-step generative model is challenging, since existing alignment frameworks typically rely on restrictive assumptions: a tractable likelihood, a specific ODE/SDE solver, or a particular model family. We introduce FAV, Few-step Generative...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26552)
 
@@ -2465,7 +2465,7 @@ arXiv:2605.26898v1 Announce Type: cross Abstract: Large Language Models (LLMs) c
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2605.26902v1 Announce Type: cross Abstract: Generative retrieval (GR) maps queries directly to document identifiers (docids) using parametric knowledge, However, this design makes corpus expansion costly: adding new documents requires updating model parameters to encode new document-docid asso...
+arXiv:2605.26902v2 Announce Type: cross Abstract: Generative retrieval (GR) maps queries directly to document identifiers (docids) using parametric knowledge, However, this design makes corpus expansion costly: adding new documents requires updating model parameters to encode new document-docid asso...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26902)
 
@@ -2487,7 +2487,7 @@ arXiv:2605.26903v1 Announce Type: cross Abstract: Structured data is well handle
 
 **Author:** Xianheng Wang, Yige Yang, Damien Coyle  
 **Published:** 5/27/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, q-bio.NC  
 
 arXiv:2605.26910v1 Announce Type: cross Abstract: Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified contributions of ...
 
@@ -2789,7 +2789,7 @@ arXiv:2605.27133v1 Announce Type: cross Abstract: Deep unfolding neural networks
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2605.27155v1 Announce Type: cross Abstract: Testing object detectors in safety-critical domains requires semantically meaningful probes beyond pixel-level corruptions. We present SemProbe, a tool for semantic robustness probing: users upload deployment images, create masks manually or automati...
+arXiv:2605.27155v2 Announce Type: cross Abstract: Testing object detectors in safety-critical domains requires semantically meaningful probes beyond pixel-level corruptions. We present SemProbe, a tool for semantic robustness probing: users upload deployment images, create masks manually or automati...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27155)
 
@@ -2929,11 +2929,11 @@ arXiv:2605.27255v1 Announce Type: cross Abstract: Long chain-of-thought reasonin
 
 ## 244. PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis
 
-**Author:** Bowen Li, Shaotong Guo, Zhen Wang, Yang Xiang, Mingli Jin, Yihang Lin, Jiahui Zhao, Weibo Xiong, Dongrui Li, Keming Chen, Yunze Gao, Yuze Zhou, Zeyang Lin, Yue Liu  
+**Author:** Bowen Li, Shaotong Guo, Zhen Wang, Yang Xiang, Mingli Jin, Yihang Lin, Jiahui Zhao, Weibo Xiong, Dongrui Zhang, Keming Chen, Yunze Gao, Zeyang Lin, Yuze Zhou, Yue Liu  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.AI  
 
-arXiv:2605.27258v1 Announce Type: cross Abstract: Building state-of-the-art text-to-speech (TTS) systems typically demands millions of hours of proprietary data and complex multi-stage architectures, creating substantial barriers for resource-constrained research teams. In this report, we present Pi...
+arXiv:2605.27258v2 Announce Type: cross Abstract: Building state-of-the-art text-to-speech (TTS) systems typically demands millions of hours of proprietary data and complex multi-stage architectures, creating substantial barriers for resource-constrained research teams. In this report, we present Pi...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27258)
 
@@ -3025,11 +3025,11 @@ arXiv:2605.27332v1 Announce Type: cross Abstract: Flowcharts are widely used in 
 
 ## 252. When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection
 
-**Author:** Kim Jihyeon, Sohee Kim, Soosan Lee, Souhwan Jung, James Matthew Rehg, Hyesong Choi  
+**Author:** Jihyeon Kim, Sohee Kim, Soosan Lee, Souhwan Jung, James Matthew Rehg, Hyesong Choi  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2605.27348v1 Announce Type: cross Abstract: Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings where the manipulated region is small and surrounded b...
+arXiv:2605.27348v2 Announce Type: cross Abstract: Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings where the manipulated region is small and surrounded b...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27348)
 
@@ -3077,7 +3077,7 @@ arXiv:2605.27360v1 Announce Type: cross Abstract: Cellular research and developm
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG, cs.RO  
 
-arXiv:2605.27365v1 Announce Type: cross Abstract: Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding...
+arXiv:2605.27365v2 Announce Type: cross Abstract: Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27365)
 
@@ -3737,7 +3737,7 @@ arXiv:2605.25507v2 Announce Type: replace Abstract: Contemporary reinforcement l
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2605.25815v2 Announce Type: replace Abstract: Agent-to-Agent (A2A) networks enable autonomous AI agents to collaborate by sharing reusable problem-solving instructions. However, how these decentralized ecosystems operate in practice remains largely unexplored. We present the first large-scale ...
+arXiv:2605.25815v3 Announce Type: replace Abstract: Agent-to-Agent (A2A) networks enable autonomous AI agents to collaborate by sharing reusable problem-solving instructions. However, how these decentralized ecosystems operate in practice remains largely unexplored. We present the first large-scale ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.25815)
 
@@ -3961,11 +3961,11 @@ arXiv:2507.13428v3 Announce Type: replace-cross Abstract: Video generation model
 
 ## 330. PICACO: Pluralistic In-Context Value Alignment of LLMs via Total Correlation Optimization
 
-**Author:** Han Jiang, Dongyao Zhu, Zhihua Wei, Xiaoyuan Yi, Ziang Xiao, Xing Xie  
+**Author:** Han Jiang, Dongyao Zhu, Xiaoyuan Yi, Ziang Xiao, Zhihua Wei, Xing Xie  
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.CY  
 
-arXiv:2507.16679v3 Announce Type: replace-cross Abstract: In-Context Learning has shown great potential for aligning Large Language Models (LLMs) with human values, helping reduce harmful outputs and accommodate diverse preferences without costly post-training, known as In-Context Alignment (ICA). H...
+arXiv:2507.16679v4 Announce Type: replace-cross Abstract: In-Context Learning has shown great potential for aligning Large Language Models (LLMs) with human values, helping reduce harmful outputs and accommodate diverse preferences without costly post-training, known as In-Context Alignment (ICA). H...
 
 📖 [Read original article](https://arxiv.org/abs/2507.16679)
 
@@ -4373,7 +4373,7 @@ arXiv:2601.08146v3 Announce Type: replace-cross Abstract: Existing circuit disco
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.AI, eess.AS  
 
-arXiv:2601.09239v3 Announce Type: replace-cross Abstract: Speech tokenizers are a key building block of fully discrete Speech LLMs. Existing tokenizers either prioritize semantic encoding, fuse semantic content with acoustic style inseparably, or achieve incomplete semantic-acoustic disentanglement....
+arXiv:2601.09239v4 Announce Type: replace-cross Abstract: Speech tokenizers are a key building block of fully discrete Speech LLMs.Existing tokenizers either prioritize semantic encoding,fuse semantic content with acoustic style inseparably,or achieve incomplete semantic-acoustic disentanglement.To ...
 
 📖 [Read original article](https://arxiv.org/abs/2601.09239)
 
@@ -4469,7 +4469,7 @@ arXiv:2601.22476v2 Announce Type: replace-cross Abstract: Floorplanning determin
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI, cs.LG  
 
-arXiv:2602.01665v3 Announce Type: replace-cross Abstract: The design of environments plays a critical role in shaping the development and evaluation of cooperative multi-agent reinforcement learning (MARL) algorithms. While existing benchmarks highlight critical challenges, they often lack the modul...
+arXiv:2602.01665v4 Announce Type: replace-cross Abstract: The design of environments plays a critical role in shaping the development and evaluation of cooperative multi-agent reinforcement learning (MARL) algorithms. While existing benchmarks highlight critical challenges, they often lack the modul...
 
 📖 [Read original article](https://arxiv.org/abs/2602.01665)
 
@@ -4589,7 +4589,7 @@ arXiv:2602.16449v2 Announce Type: replace-cross Abstract: Generative model evalu
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2602.17003v2 Announce Type: replace-cross Abstract: Large language models have advanced web agents, yet current agents lack personalization capabilities. Since users rarely specify every detail of their intent, practical web agents must be able to interpret ambiguous queries by inferring user ...
+arXiv:2602.17003v3 Announce Type: replace-cross Abstract: Large language models have advanced web agents, yet current agents lack personalization capabilities. Since users rarely specify every detail of their intent, practical web agents must be able to interpret ambiguous queries by inferring user ...
 
 📖 [Read original article](https://arxiv.org/abs/2602.17003)
 
@@ -5393,7 +5393,7 @@ arXiv:2605.22133v3 Announce Type: replace-cross Abstract: Recent advances in gen
 **Published:** 5/27/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.22297v2 Announce Type: replace-cross Abstract: Learning rate configuration is a fundamental aspect of modern deep learning. The prevailing practice of applying a uniform learning rate across all layers overlooks the structural heterogeneity of Transformers, potentially limiting their effe...
+arXiv:2605.22297v3 Announce Type: replace-cross Abstract: Learning rate configuration is a fundamental aspect of modern deep learning. The prevailing practice of applying a uniform learning rate across all layers overlooks the structural heterogeneity of Transformers, potentially limiting their effe...
 
 📖 [Read original article](https://arxiv.org/abs/2605.22297)
 
