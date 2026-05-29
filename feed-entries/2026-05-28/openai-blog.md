@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-05-28"
 date: "2026-05-28"
 source: "OpenAI Blog"
-count: 2
+count: 3
 ---
 
 # OpenAI Blog - 2026-05-28
 
-2 items collected.
+3 items collected.
 
 ---
 
@@ -23,7 +23,19 @@ Learn how Endava uses Codex to build an agentic organization, accelerating softw
 
 ---
 
-## 2. OpenAI’s Frontier Governance Framework
+## 2. MUFG aims to become AI-native with OpenAI
+
+**Author:** -  
+**Published:** 5/28/2026, 12:00:00 AM  
+**Categories:** -  
+
+MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
+
+📖 [Read original article](https://openai.com/index/mufg)
+
+---
+
+## 3. OpenAI’s Frontier Governance Framework
 
 **Author:** -  
 **Published:** 5/28/2026, 12:00:00 AM  
