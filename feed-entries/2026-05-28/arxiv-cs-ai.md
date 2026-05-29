@@ -25,11 +25,11 @@ arXiv:2605.27373v1 Announce Type: new Abstract: As intelligent systems become mo
 
 ## 2. Soro: A Lightweight Foundation Model and Chatbot for Tajik
 
-**Author:** Stanislav Liashkov, Haitz S\'aez de Oc\'ariz Borde, Azizjon Azimi, Khushbakht Shaymardonov, Shuhratjon Khalitbekov, Bonu Boboeva  
+**Author:** Stanislav Liashkov, Haitz S\'aez de Oc\'ariz Borde, Azizjon Azimi, Khushbakht Shoymardonov, Shuhratjon Khalilbekov, Bonu Boboeva  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2605.27379v1 Announce Type: new Abstract: We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment under tight compute and connectivity constraints in Tajikistan. Starting from open-weight Gemma 3 checkpoints, we perform Taji...
+arXiv:2605.27379v2 Announce Type: new Abstract: We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment under tight compute and connectivity constraints in Tajikistan. Starting from open-weight Gemma 3 checkpoints, we perform Taji...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27379)
 
@@ -125,7 +125,7 @@ arXiv:2605.27575v1 Announce Type: new Abstract: As organizations move toward pro
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.AI, q-bio.NC  
 
-arXiv:2605.27580v1 Announce Type: new Abstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on different occasion...
+arXiv:2605.27580v2 Announce Type: new Abstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on different occasion...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27580)
 
@@ -485,7 +485,7 @@ arXiv:2605.27860v1 Announce Type: new Abstract: Retrieval-augmented generation c
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2605.27864v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied in finance, yet most existing work emphasizes trading signals or financial NLP tasks centered on prediction. Institutional fundamental research, by contrast, requires human analysts or AI agents to ...
+arXiv:2605.27864v2 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied in finance, yet most existing work emphasizes trading signals or financial NLP tasks centered on prediction. Institutional fundamental research, by contrast, requires human analysts or AI agents to ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27864)
 
@@ -685,11 +685,11 @@ arXiv:2605.27981v1 Announce Type: new Abstract: Evaluating the efficiency of alg
 
 ## 57. AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios
 
-**Author:** Kou Shi (University of Science and Technology of China), Ziao Zhang (University of Science and Technology of China), Shiting Huang (University of Science and Technology of China), Avery Nie (University of Toronto), Zhen Fang (University of Science and Technology of China), Qiuchen Wang (University of Science and Technology of China), Lin Chen (University of Science and Technology of China), Huaian Chen (University of Science and Technology of China), Zehui Chen (University of Science and Technology of China), Feng Zhao (University of Science and Technology of China)  
+**Author:** Kou Shi, Ziao Zhang, Shiting Huang, Avery Nie, Zhen Fang, Qiuchen Wang, Lin Chen, Huaian Chen, Zehui Chen, Feng Zhao  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2605.27995v1 Announce Type: new Abstract: Large language model (LLM)-based agents have shown strong capabilities in using external tools to solve complex tasks. However, existing evaluations often overlook the temporal dimension of tool use, especially the impact of tool response latency, and ...
+arXiv:2605.27995v2 Announce Type: new Abstract: Large language model (LLM)-based agents have shown strong capabilities in using external tools to solve complex tasks. However, existing evaluations often overlook the temporal dimension of tool use, especially the impact of tool response latency, and ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27995)
 
@@ -1765,11 +1765,11 @@ arXiv:2605.28699v1 Announce Type: new Abstract: Large language models increasing
 
 ## 147. The Importance of Being Statistically Earnest: A Critical Re-evaluation of GSM-Symbolic
 
-**Author:** Dominika Agnieszka D{\l}ugosz, Arlindo Oliveira, Natalia D\'iaz Rodr\'iguez  
+**Author:** Dominika Agnieszka D{\l}ugosz, Arlindo Oliveira, Natalia D\'iaz-Rodr\'iguez  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2605.28700v1 Announce Type: new Abstract: The GSM-Symbolic benchmark (Mirzadeh et al., 2025) reported consistent performance drops across 25 Large Language Models (LLMs) when tested on template-generated variants of GSM8K problems, concluding that the models lack genuine reasoning capabilities...
+arXiv:2605.28700v2 Announce Type: new Abstract: The GSM-Symbolic benchmark (Mirzadeh et al., 2025) reported consistent performance drops across 25 Large Language Models (LLMs) when tested on template-generated variants of GSM8K problems, concluding that the models lack genuine reasoning capabilities...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28700)
 
@@ -1943,13 +1943,13 @@ arXiv:2605.27376v1 Announce Type: cross Abstract: While prompt-based text-to-spe
 
 ---
 
-## 162. RAG-Coding: Enhancing LLM Medical Coding with Structured External Knowledge
+## 162. Enhancing LLM Medical Coding with Structured External Knowledge
 
 **Author:** Yidong Gan, David D. Nguyen, Yang Lin, Peter Zhong, Thanh Vu, Long Duong, Yuan-Fang Li  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.IR  
 
-arXiv:2605.27377v1 Announce Type: cross Abstract: We present RAG-Coding, an agentic method for automated ICD-10-CM coding. RAG-Coding orchestrates four large language model (LLM) agents and grounds their coding decisions in external knowledge sources (e.g. the official coding tabular list and guidel...
+arXiv:2605.27377v2 Announce Type: cross Abstract: Accurate medical coding requires consulting authoritative resources such as the ICD tabular list and coding guidelines. Existing LLM-based automated methods largely rely on LLMs' internal knowledge, which is prone to hallucination and cannot keep pac...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27377)
 
@@ -1979,13 +1979,13 @@ arXiv:2605.27381v1 Announce Type: cross Abstract: Claims about recursive self-im
 
 ---
 
-## 165. The Alignment Floor: When Persona Customization Is Safe
+## 165. The Alignment Floor: How Persona Customization Breaks Safety in Weakly-Aligned LLMs
 
 **Author:** Xing Zhang, Guanghui Wang, Yanwei Cui, Wei Qiu, Ziyuan Li, Bing Zhu, Peiyang He  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI, cs.CL  
 
-arXiv:2605.27382v1 Announce Type: cross Abstract: A key promise of pluralistic AI is behavioral adaptation: persona prompts like "be creative" or "be thorough" let systems respect diverse user values and communication styles. But how much customization can a model absorb before its alignment breaks?...
+arXiv:2605.27382v2 Announce Type: cross Abstract: Telling an LLM to "be enthusiastic" raises its sycophancy rate from 30\% to 50\% on a lightly-aligned model, but has zero effect on a strongly-aligned one. We define this gap as the alignment floor, $\Delta_{\text{floor}}(m)=\max_pS(m,p)-\min_pS(m,p)...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27382)
 
@@ -2033,7 +2033,7 @@ arXiv:2605.27385v1 Announce Type: cross Abstract: Federated reinforcement learni
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2605.27387v1 Announce Type: cross Abstract: Diffusion models promise efficient parallel text generation but rely on bidirectional attention, creating a structural mismatch with pre-trained Autoregressive (AR) models. This incompatibility precludes reusing robust AR priors, necessitating prohib...
+arXiv:2605.27387v2 Announce Type: cross Abstract: Diffusion models promise efficient parallel text generation but rely on bidirectional attention, creating a structural mismatch with pre-trained Autoregressive (AR) models. This incompatibility precludes reusing robust AR priors, necessitating prohib...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27387)
 
@@ -2063,13 +2063,13 @@ arXiv:2605.27389v1 Announce Type: cross Abstract: We study how conditioning cont
 
 ---
 
-## 172. EvoSpec: Evolving Speculative Decoding via Real-Time Vocabulary and Parameter AdaptationTarget
+## 172. EvoSpec: Evolving Speculative Decoding via Real-Time Vocabulary and Parameter Adaptation
 
 **Author:** Shuyu Zhang, Lingfeng Pan, Qicheng Wang, Yaqi Shi, Yueyang Tan, Ruyu Yan, Jiaqi Chen, Lixing Du, Lu Wang  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2605.27390v1 Announce Type: cross Abstract: Speculative decoding accelerates Large Language Model inference via a draft-then-verify paradigm, yet the output projection layer becomes a bottleneck as vocabulary sizes scale. While existing static pruning methods effectively reduce this overhead, ...
+arXiv:2605.27390v2 Announce Type: cross Abstract: Speculative decoding accelerates Large Language Model inference via a draft-then-verify paradigm, yet the output projection layer becomes a bottleneck as vocabulary sizes scale. While existing static pruning methods effectively reduce this overhead, ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27390)
 
@@ -2573,7 +2573,7 @@ arXiv:2605.27479v1 Announce Type: cross Abstract: Affective computing systems ar
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** q-bio.OT, cs.AI, cs.CY  
 
-arXiv:2605.27480v1 Announce Type: cross Abstract: Large language model (LLM) serving creates environmental impacts beyond carbon and water, including ecosystem damage through biodiversity-related pathways. We present BIRDS, a framework for Biodiversity Impact of Request-Driven LLM Serving. BIRDS def...
+arXiv:2605.27480v2 Announce Type: cross Abstract: Large language model (LLM) serving creates environmental impacts beyond carbon and water, including ecosystem damage through biodiversity-related pathways. We present BIRDS, a framework for Biodiversity Impact of Request-Driven LLM Serving. BIRDS def...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27480)
 
@@ -3289,11 +3289,11 @@ arXiv:2605.27958v1 Announce Type: cross Abstract: Linear probes trained on LLM a
 
 ## 274. ROVER: Routing Object-Centric Visual Evidence for Grounded Multi-Image Reasoning
 
-**Author:** Guannan Lv, Ren Nie, Hongjian Dou  
+**Author:** Guannan Lv, Ren Nie, Hongjian Dou, Tingting Gao  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2605.27959v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have increasingly localized and interleaved visual evidence for deliberative reasoning. Grounding-based approaches typically focus on regions of interest (RoIs) by injecting cropped image patches or RoI-specif...
+arXiv:2605.27959v2 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have increasingly localized and interleaved visual evidence for deliberative reasoning. Grounding-based approaches typically focus on regions of interest (RoIs) by injecting cropped image patches or RoI-specif...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27959)
 
@@ -3653,7 +3653,7 @@ arXiv:2605.28164v1 Announce Type: cross Abstract: Evolutionary computation offer
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.28166v1 Announce Type: cross Abstract: Irregular Multivariate Time Series (IMTS) are common in practice, yet their irregular sampling complicates effective modeling. Existing approaches typically either (i) design specialized architectures that limit the reuse of proven Multivariate Time ...
+arXiv:2605.28166v2 Announce Type: cross Abstract: Irregular Multivariate Time Series (IMTS) are common in practice, yet their irregular sampling complicates effective modeling. Existing approaches typically either (i) design specialized architectures that limit the reuse of proven Multivariate Time ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28166)
 
@@ -3785,7 +3785,7 @@ arXiv:2605.28283v1 Announce Type: cross Abstract: Feed-forward networks (FFNs) d
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.28293v1 Announce Type: cross Abstract: Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled framework for optimizing such sequential decision tasks...
+arXiv:2605.28293v2 Announce Type: cross Abstract: Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled framework for optimizing such sequential decision tasks...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28293)
 
@@ -4385,7 +4385,7 @@ arXiv:2605.28740v1 Announce Type: cross Abstract: As large language models are i
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.AI, cs.NE  
 
-arXiv:2605.28746v1 Announce Type: cross Abstract: This paper studies preference-shaped expected improvement criteria for Bayesian multiobjective optimization. We consider two indicator families which are often used for similar algorithmic purposes, but which are geometrically different. The hypervol...
+arXiv:2605.28746v2 Announce Type: cross Abstract: This paper studies preference-shaped expected improvement criteria for Bayesian multiobjective optimization. We consider two indicator families which are often used for similar algorithmic purposes, but which are geometrically different. The hypervol...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28746)
 
@@ -5513,7 +5513,7 @@ arXiv:2511.11896v3 Announce Type: replace-cross Abstract: Large language models 
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2511.14584v3 Announce Type: replace-cross Abstract: We present ReflexGrad, a dual-process architecture for within-episode failure recovery in LLM agents without demonstrations. When agents commit to a wrong approach early and exhaust the step budget, the post-failure trajectory contains the in...
+arXiv:2511.14584v4 Announce Type: replace-cross Abstract: We present ReflexGrad, a dual-process architecture for within-episode failure recovery in LLM agents without demonstrations. When agents commit to a wrong approach early and exhaust the step budget, the post-failure trajectory contains the in...
 
 📖 [Read original article](https://arxiv.org/abs/2511.14584)
 
@@ -5669,7 +5669,7 @@ arXiv:2601.03048v2 Announce Type: replace-cross Abstract: Vision Transformers (V
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG, physics.comp-ph  
 
-arXiv:2601.04765v4 Announce Type: replace-cross Abstract: We study how syntactic and semantic information is encoded in inner layer representations of Large Language Models (LLMs), focusing on the very large DeepSeek-V3. We find that, by averaging hidden-representation vectors of sentences sharing s...
+arXiv:2601.04765v5 Announce Type: replace-cross Abstract: We study how syntactic and semantic information is encoded in inner layer representations of Large Language Models (LLMs), focusing on the very large DeepSeek-V3. We find that, by averaging hidden-representation vectors of sentences sharing s...
 
 📖 [Read original article](https://arxiv.org/abs/2601.04765)
 
@@ -5753,7 +5753,7 @@ arXiv:2601.19926v2 Announce Type: replace-cross Abstract: We present a systemati
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2601.19947v2 Announce Type: replace-cross Abstract: Learning from Noisy Labels (LNL) remains a fundamental challenge in deep learning because real-world datasets often contain corrupted annotations. Most existing methods rely on label correction or sample selection mechanisms. In contrast, we ...
+arXiv:2601.19947v3 Announce Type: replace-cross Abstract: Learning from Noisy Labels (LNL) remains a fundamental challenge in deep learning because real-world datasets often contain corrupted annotations. Most existing methods rely on label correction or sample selection mechanisms. In contrast, we ...
 
 📖 [Read original article](https://arxiv.org/abs/2601.19947)
 
@@ -6289,11 +6289,11 @@ arXiv:2604.23061v2 Announce Type: replace-cross Abstract: Large language models 
 
 ## 524. Graph Memory Transformer (GMT)
 
-**Author:** Nicola Zanarini, Niccol\`o Ferrari  
+**Author:** Nicola Zanarini, Niccol\`o Ferrari, Evelina Lamma  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2604.23862v2 Announce Type: replace-cross Abstract: We investigate whether the Feed-Forward Network (FFN) sublayer in a decoder-only transformer can be replaced by an explicit learned memory graph while preserving the surrounding autoregressive architecture. The proposed Graph Memory Transform...
+arXiv:2604.23862v3 Announce Type: replace-cross Abstract: We investigate whether the Feed-Forward Network (FFN) sublayer in a decoder-only transformer can be replaced by an explicit learned memory graph while preserving the surrounding autoregressive architecture. The proposed Graph Memory Transform...
 
 📖 [Read original article](https://arxiv.org/abs/2604.23862)
 
@@ -6517,11 +6517,11 @@ arXiv:2605.22547v2 Announce Type: replace-cross Abstract: Deep learning has brou
 
 ## 543. SSDAU: Structured Semantic Data Augmentation for Joint Entity and Relation Extraction
 
-**Author:** Jiawei He, Mengyu Shi, Jiawei Liu, Dong Sun, Zhijie Wang, Chunrong Fang, Xikai Yang, Zhenyu Chen  
+**Author:** Jiawei He, Mengyu Shi, Jiawei Liu, Dong Sun, Chunrong Fang, Xikai Yang, Zhijie Wang, Lei Ma, Zhenyu Chen  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2605.23440v3 Announce Type: replace-cross Abstract: Joint Entity and Relation Extraction (JERE) is highly susceptible to weak generalization due to low-quality training data. Data augmentation is a common strategy to enhance model generalization across different domains. However, existing data...
+arXiv:2605.23440v4 Announce Type: replace-cross Abstract: Joint Entity and Relation Extraction (JERE) is highly sensitive to training data quality, making data augmentation a natural way to improve generalization. However, existing augmentation methods often weaken entity relevance and disrupt seman...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23440)
 
@@ -6593,7 +6593,7 @@ arXiv:2605.25378v2 Announce Type: replace-cross Abstract: Customized image editi
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26092v2 Announce Type: replace-cross Abstract: The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ...
+arXiv:2605.26092v3 Announce Type: replace-cross Abstract: The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26092)
 
