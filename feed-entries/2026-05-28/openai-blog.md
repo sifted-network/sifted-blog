@@ -23,19 +23,7 @@ Learn how Endava uses Codex to build an agentic organization, accelerating softw
 
 ---
 
-## 2. MUFG aims to become AI-native with OpenAI
-
-**Author:** -  
-**Published:** 5/28/2026, 12:00:00 AM  
-**Categories:** -  
-
-MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
-
-📖 [Read original article](https://openai.com/index/mufg)
-
----
-
-## 3. OpenAI’s Frontier Governance Framework
+## 2. OpenAI’s Frontier Governance Framework
 
 **Author:** -  
 **Published:** 5/28/2026, 12:00:00 AM  
@@ -44,5 +32,17 @@ MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflo
 Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.
 
 📖 [Read original article](https://openai.com/index/openai-frontier-governance-framework)
+
+---
+
+## 3. MUFG aims to become AI-native with OpenAI
+
+**Author:** -  
+**Published:** 5/28/2026, 12:00:00 AM  
+**Categories:** -  
+
+MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
+
+📖 [Read original article](https://openai.com/index/mufg)
 
 ---
