@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-05-29"
 date: "2026-05-29"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-05-29
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Ruby inventor Matz working on native compiler with AI help
+## 1. US law enforcement warns of \"anti-tech extremism\" as AI hatred grows
 
-**Author:** kristianp  
-**Published:** 5/29/2026, 3:44:57 AM  
+**Author:** rbanffy  
+**Published:** 5/29/2026, 9:44:43 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532 Comments URL: https://news.ycombinator.com/item?id=48318760 Points: 2 # Comments: 1
+Article URL: https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/ Comments URL: https://news.ycombinator.com/item?id=48321056 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532)
+📖 [Read original article](https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/)
 
 ---
 
-## 2. Ask HN: How are you handling upfront AI token costs when building products?
+## 2. GPUs and RAM Are in Short Supply, but the Real Bottleneck for AI Is Electricians
 
-**Author:** nextma  
-**Published:** 5/29/2026, 3:21:55 AM  
+**Author:** rbanffy  
+**Published:** 5/29/2026, 9:37:38 AM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48318622 Points: 1 # Comments: 0
+Article URL: https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566 Comments URL: https://news.ycombinator.com/item?id=48320997 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48318622)
+📖 [Read original article](https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566)
 
 ---
 
-## 3. Disposable Software – How to Stop Worrying and Love the AI Code
+## 3. Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires
 
-**Author:** mooreds  
-**Published:** 5/29/2026, 3:00:28 AM  
+**Author:** rbanffy  
+**Published:** 5/29/2026, 9:37:20 AM  
 **Categories:** -  
 
-Article URL: https://mattrogish.com/blog/2026/04/03/disposable-software-how-to-stop-worrying-and-love-the-ai-code/ Comments URL: https://news.ycombinator.com/item?id=48318479 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/ Comments URL: https://news.ycombinator.com/item?id=48320996 Points: 4 # Comments: 0
 
-📖 [Read original article](https://mattrogish.com/blog/2026/04/03/disposable-software-how-to-stop-worrying-and-love-the-ai-code/)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/)
 
 ---
 
-## 4. How to optimize your AI token usage
+## 4. The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival
 
-**Author:** krishiv-piduri  
-**Published:** 5/29/2026, 2:24:46 AM  
+**Author:** steveharing1  
+**Published:** 5/29/2026, 9:34:37 AM  
 **Categories:** -  
 
-Article URL: https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=48318255 Points: 1 # Comments: 0
+Article URL: https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/ Comments URL: https://news.ycombinator.com/item?id=48320985 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0)
+📖 [Read original article](https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/)
 
 ---
 
-## 5. ReadyToTalk – AI receptionist for small businesses, built solo with AI agents
+## 5. The Text Box Is the Command Line of AI
 
-**Author:** iamwren  
-**Published:** 5/29/2026, 2:04:37 AM  
+**Author:** zeynepevecen  
+**Published:** 5/29/2026, 9:33:08 AM  
 **Categories:** -  
 
-Article URL: https://readyto.talk/ Comments URL: https://news.ycombinator.com/item?id=48318111 Points: 1 # Comments: 0
+Article URL: https://www.zey.dev/essays/RbIIZqV9ttY0DIhyzUcT Comments URL: https://news.ycombinator.com/item?id=48320977 Points: 1 # Comments: 0
 
-📖 [Read original article](https://readyto.talk/)
+📖 [Read original article](https://www.zey.dev/essays/RbIIZqV9ttY0DIhyzUcT)
 
 ---
 
-## 6. StudySong – paste anything you need to memorize, get a full AI-generated song
+## 6. Why Tesla's AI trainers don't trust its self-driving tech
 
-**Author:** 0ethan  
-**Published:** 5/29/2026, 1:53:20 AM  
+**Author:** kuerbel  
+**Published:** 5/29/2026, 9:31:18 AM  
 **Categories:** -  
 
-Article URL: https://www.studysong.org/ Comments URL: https://news.ycombinator.com/item?id=48318008 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48320957 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.studysong.org/)
+📖 [Read original article](https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/)
 
 ---
 
-## 7. Starbucks retired AI agent that miscounted inventories, slowed down baristas
+## 7. AI to be used to estimate age of UK asylum seekers
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 5/29/2026, 1:41:02 AM  
+**Author:** dabinat  
+**Published:** 5/29/2026, 9:31:09 AM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48317932 Points: 3 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/ce3pe36qe7ro Comments URL: https://news.ycombinator.com/item?id=48320953 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/)
+📖 [Read original article](https://www.bbc.com/news/articles/ce3pe36qe7ro)
 
 ---
 
-## 8. Bixonimania – the fake illness that AI fell for
+## 8. You're Not Going to Lose Your Job to AI
 
-**Author:** thunderbong  
-**Published:** 5/29/2026, 1:26:53 AM  
+**Author:** perpetua  
+**Published:** 5/29/2026, 9:23:34 AM  
 **Categories:** -  
 
-Article URL: https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/ Comments URL: https://news.ycombinator.com/item?id=48317852 Points: 4 # Comments: 0
+Article URL: https://softwarecrafter.substack.com/p/the-miracle-years-and-what-comes Comments URL: https://news.ycombinator.com/item?id=48320909 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/)
+📖 [Read original article](https://softwarecrafter.substack.com/p/the-miracle-years-and-what-comes)
 
 ---
 
-## 9. Dis Dat – Loom for AI coding agents
+## 9. Agentkeeper solved the Goldfish Memory problem in AI Agents.v1.1 out now
 
-**Author:** peterneyra  
-**Published:** 5/29/2026, 1:18:58 AM  
+**Author:** tomtom1977  
+**Published:** 5/29/2026, 9:06:28 AM  
 **Categories:** -  
 
-Article URL: https://disdat.dev Comments URL: https://news.ycombinator.com/item?id=48317796 Points: 2 # Comments: 0
+Article URL: https://github.com/Thinklanceai/agentkeeper Comments URL: https://news.ycombinator.com/item?id=48320817 Points: 1 # Comments: 0
 
-📖 [Read original article](https://disdat.dev)
+📖 [Read original article](https://github.com/Thinklanceai/agentkeeper)
 
 ---
 
-## 10. Are AI PowerPoint Tools Worth Using?
+## 10. A 20-Minute AI Audit Caught a Bug That 3 Senior Devs Missed (Week 3 Roundup)
 
-**Author:** wpppppppppp  
-**Published:** 5/29/2026, 1:18:06 AM  
+**Author:** talvardi7  
+**Published:** 5/29/2026, 9:01:05 AM  
 **Categories:** -  
 
-Article URL: https://smallppt.com/blog/ai-tools/genspark-alternatives Comments URL: https://news.ycombinator.com/item?id=48317791 Points: 1 # Comments: 0
+Article URL: https://theaileverageweekly.com/posts/how-a-20-minute-ai-audit-caught-a-bug-that-3-senior-devs-missed-week-3.html Comments URL: https://news.ycombinator.com/item?id=48320777 Points: 1 # Comments: 1
 
-📖 [Read original article](https://smallppt.com/blog/ai-tools/genspark-alternatives)
+📖 [Read original article](https://theaileverageweekly.com/posts/how-a-20-minute-ai-audit-caught-a-bug-that-3-senior-devs-missed-week-3.html)
 
 ---
 
-## 11. Musk abandoned his own solar electric economy to burn gas for an unused AI chat
+## 11. Nonfiction Book Publishers Aren't Remotely Ready for AI
 
-**Author:** xbmcuser  
-**Published:** 5/29/2026, 12:54:53 AM  
+**Author:** thm  
+**Published:** 5/29/2026, 8:54:53 AM  
 **Categories:** -  
 
-Article URL: https://electrek.co/2026/05/25/musk-solar-hypocrisy-gas-ai-chatbot-space-solar-spacex-ipo/ Comments URL: https://news.ycombinator.com/item?id=48317628 Points: 4 # Comments: 0
+Article URL: https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48320743 Points: 2 # Comments: 1
 
-📖 [Read original article](https://electrek.co/2026/05/25/musk-solar-hypocrisy-gas-ai-chatbot-space-solar-spacex-ipo/)
+📖 [Read original article](https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html)
 
 ---
 
-## 12. Microsoft data suggests using AI is more expensive than hiring people
+## 12. Unhealthy code makes AI agents consume 35-50% more tokens
 
-**Author:** voxadam  
-**Published:** 5/29/2026, 12:49:05 AM  
+**Author:** ailinter  
+**Published:** 5/29/2026, 8:52:45 AM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 29 # Comments: 3
+Article URL: https://codescene.com/blog/unhealthy-code-is-burning-your-token-usage-heres-the-data Comments URL: https://news.ycombinator.com/item?id=48320729 Points: 2 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html)
+📖 [Read original article](https://codescene.com/blog/unhealthy-code-is-burning-your-token-usage-heres-the-data)
 
 ---
 
-## 13. CosAI Releases \"AI Shared Responsibility Framework\"
+## 13. Ask HN: What/how are you teaching your kids in the age of AI?
 
-**Author:** fatpil  
-**Published:** 5/29/2026, 12:42:52 AM  
+**Author:** nunodonato  
+**Published:** 5/29/2026, 8:47:42 AM  
 **Categories:** -  
 
-Article URL: https://www.coalitionforsecureai.org/whos-responsible-when-ai-goes-wrong-a-new-framework-aims-to-answer-that-question/ Comments URL: https://news.ycombinator.com/item?id=48317514 Points: 1 # Comments: 1
+I've been feeling more and more lost. Had plans to teach my 10yr python, maybe something fun with games or robotics. But then I look around and I see others doing 100x more advanced things using AI.Yesterday I tried google ai studio. 1hr later I had an app on my phone. Its hard to justify the motiva...
 
-📖 [Read original article](https://www.coalitionforsecureai.org/whos-responsible-when-ai-goes-wrong-a-new-framework-aims-to-answer-that-question/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48320698)
 
 ---
 
-## 14. Kirkland Investing $500M in Proprietary AI System
+## 14. Why ipynb is a perfect format for saving AI data analysis conversations
 
-**Author:** rayiner  
-**Published:** 5/29/2026, 12:42:26 AM  
+**Author:** pplonski86  
+**Published:** 5/29/2026, 8:41:54 AM  
 **Categories:** -  
 
-Article URL: https://www.law.com/americanlawyer/2026/05/28/kirkland-investing-500m-in-proprietary-ai-system-to-support-client-work-start-to-finish/ Comments URL: https://news.ycombinator.com/item?id=48317509 Points: 2 # Comments: 0
+Article URL: https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/ Comments URL: https://news.ycombinator.com/item?id=48320664 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.law.com/americanlawyer/2026/05/28/kirkland-investing-500m-in-proprietary-ai-system-to-support-client-work-start-to-finish/)
+📖 [Read original article](https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/)
 
 ---
 
-## 15. Evaluating \"Co-Scientist\", a New AI Science System
+## 15. Slow AI-Journal App
 
-**Author:** rsfern  
-**Published:** 5/29/2026, 12:42:18 AM  
+**Author:** djampodev  
+**Published:** 5/29/2026, 8:39:38 AM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/blog-post/evaluating-co-scientist-new-ai-science-system Comments URL: https://news.ycombinator.com/item?id=48317507 Points: 1 # Comments: 0
+Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48320655 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/blog-post/evaluating-co-scientist-new-ai-science-system)
+📖 [Read original article](https://nemejournal.app/)
 
 ---
 
-## 16. AI and the End of Recessions as We Know Them
+## 16. StoryScope: Investigating Idiosyncrasies in AI Fiction
 
-**Author:** johnbarron  
-**Published:** 5/29/2026, 12:17:23 AM  
+**Author:** ironyman  
+**Published:** 5/29/2026, 8:22:30 AM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/brandonkochkodin/2026/05/28/ai-and-the-end-of-recessions-as-we-know-them/ Comments URL: https://news.ycombinator.com/item?id=48317347 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2604.03136 Comments URL: https://news.ycombinator.com/item?id=48320536 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.forbes.com/sites/brandonkochkodin/2026/05/28/ai-and-the-end-of-recessions-as-we-know-them/)
+📖 [Read original article](https://arxiv.org/abs/2604.03136)
 
 ---
 
-## 17. NBA to use AI for automatic out-of-bounds calls, Silver says
+## 17. An AI Audit of FreeBSD
 
-**Author:** cainxinth  
-**Published:** 5/29/2026, 12:15:37 AM  
+**Author:** SVI  
+**Published:** 5/29/2026, 8:13:40 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/sports/league-use-ai-objective-calls-silver-says-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48317332 Points: 3 # Comments: 0
+Article URL: https://blog.calif.io/p/an-ai-audit-of-freebsd Comments URL: https://news.ycombinator.com/item?id=48320476 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/sports/league-use-ai-objective-calls-silver-says-2026-05-28/)
+📖 [Read original article](https://blog.calif.io/p/an-ai-audit-of-freebsd)
+
+---
+
+## 18. Corporate America Is Starting to Ration AI as Cost Skyrockets
+
+**Author:** doener  
+**Published:** 5/29/2026, 8:11:36 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48320454 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+
+---
+
+## 19. Show HN: Would a learning-first AI evaluation platform be useful?
+
+**Author:** xiaozx  
+**Published:** 5/29/2026, 8:07:50 AM  
+**Categories:** -  
+
+Article URL: https://www.alphaset.io/ Comments URL: https://news.ycombinator.com/item?id=48320417 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.alphaset.io/)
+
+---
+
+## 20. Show HN: OSSentinel.live – AI-powered open source security monitoring
+
+**Author:** FortivSolutions  
+**Published:** 5/29/2026, 7:43:57 AM  
+**Categories:** -  
+
+Built OSSentinel.live to help developers monitor open-source dependencies, security vulnerabilities, package health, and repository risks from a single dashboard. Looking for feedback on the product, integrations, and whether AI-generated security insights are actually useful in practice. Comments U...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48320262)
 
 ---
