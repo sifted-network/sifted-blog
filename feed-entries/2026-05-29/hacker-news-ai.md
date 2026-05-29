@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. US law enforcement warns of \"anti-tech extremism\" as AI hatred grows
+## 1. HTTP Streaming and AI
+
+**Author:** zknill  
+**Published:** 5/29/2026, 3:34:31 PM  
+**Categories:** -  
+
+Article URL: https://ably.com/docs/ai-transport/why/http-streaming-and-ai Comments URL: https://news.ycombinator.com/item?id=48324538 Points: 1 # Comments: 0
+
+📖 [Read original article](https://ably.com/docs/ai-transport/why/http-streaming-and-ai)
+
+---
+
+## 2. Show HN: Agent Memory Guard – OWASP defense for AI agent memory poisoning
+
+**Author:** vgudur297  
+**Published:** 5/29/2026, 3:33:16 PM  
+**Categories:** -  
+
+Article URL: https://github.com/OWASP/www-project-agent-memory-guard Comments URL: https://news.ycombinator.com/item?id=48324512 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/OWASP/www-project-agent-memory-guard)
+
+---
+
+## 3. When AI starts writing systems code
+
+**Author:** walz  
+**Published:** 5/29/2026, 3:26:59 PM  
+**Categories:** -  
+
+Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=48324381 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.coreauto.com/blog/when-ai-starts-writing-systems-code)
+
+---
+
+## 4. Brilliant launches AI tutor to get kids to think
+
+**Author:** stochastician  
+**Published:** 5/29/2026, 3:25:25 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/suekhim/status/2060378988606878147 Comments URL: https://news.ycombinator.com/item?id=48324357 Points: 2 # Comments: 0
+
+📖 [Read original article](https://twitter.com/suekhim/status/2060378988606878147)
+
+---
+
+## 5. Does AI Make Totalitarianism More Likely?
+
+**Author:** demonstrandom  
+**Published:** 5/29/2026, 3:23:17 PM  
+**Categories:** -  
+
+Article URL: https://demonstrandom.com/essays/posts/ai_totalitarianism/ Comments URL: https://news.ycombinator.com/item?id=48324319 Points: 2 # Comments: 3
+
+📖 [Read original article](https://demonstrandom.com/essays/posts/ai_totalitarianism/)
+
+---
+
+## 6. The literary world is sleepwalking into an AI disaster
+
+**Author:** Michelangelo11  
+**Published:** 5/29/2026, 3:20:49 PM  
+**Categories:** -  
+
+Article URL: https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking Comments URL: https://news.ycombinator.com/item?id=48324276 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking)
+
+---
+
+## 7. Replacing Employees with AI
+
+**Author:** redbell  
+**Published:** 5/29/2026, 3:18:01 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/EscanorReloaded/status/2059637607403831732 Comments URL: https://news.ycombinator.com/item?id=48324232 Points: 2 # Comments: 0
+
+📖 [Read original article](https://twitter.com/EscanorReloaded/status/2059637607403831732)
+
+---
+
+## 8. The Biggest Tell That Something Was Written by AI
+
+**Author:** Jtsummers  
+**Published:** 5/29/2026, 3:13:28 PM  
+**Categories:** -  
+
+Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48324146 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)
+
+---
+
+## 9. Resistance Against AI Is Not Futile. A List Is a Good Start
+
+**Author:** lcubw  
+**Published:** 5/29/2026, 3:11:47 PM  
+**Categories:** -  
+
+Article URL: https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e Comments URL: https://news.ycombinator.com/item?id=48324109 Points: 1 # Comments: 0
+
+📖 [Read original article](https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e)
+
+---
+
+## 10. AI Content Fatigue
+
+**Author:** bushido  
+**Published:** 5/29/2026, 3:10:53 PM  
+**Categories:** -  
+
+Article URL: https://dheer.co/ai-content-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48324090 Points: 2 # Comments: 0
+
+📖 [Read original article](https://dheer.co/ai-content-fatigue/)
+
+---
+
+## 11. Show HN: Tab Council – turn your AI tabs into a model council
+
+**Author:** srinivasvaddi  
+**Published:** 5/29/2026, 3:02:25 PM  
+**Categories:** -  
+
+Article URL: https://github.com/vaddisrinivas/tab-council Comments URL: https://news.ycombinator.com/item?id=48323971 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/vaddisrinivas/tab-council)
+
+---
+
+## 12. ON1 (G116 V8): 38μs Black-Box AI Memory Retrieval on Virtual Chip ISA
+
+**Author:** ON1-Hao  
+**Published:** 5/29/2026, 3:00:09 PM  
+**Categories:** -  
+
+Article URL: https://github.com/ON1-Hao/ON1 Comments URL: https://news.ycombinator.com/item?id=48323932 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/ON1-Hao/ON1)
+
+---
+
+## 13. South Africa AI Policy Leverage as Africa's Test Case
 
 **Author:** rbanffy  
-**Published:** 5/29/2026, 9:44:43 AM  
+**Published:** 5/29/2026, 2:38:16 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/ Comments URL: https://news.ycombinator.com/item?id=48321056 Points: 1 # Comments: 0
+Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/)
+📖 [Read original article](https://spectrum.ieee.org/south-africa-ai-policy)
 
 ---
 
-## 2. GPUs and RAM Are in Short Supply, but the Real Bottleneck for AI Is Electricians
+## 14. Selling a House with AI
 
-**Author:** rbanffy  
-**Published:** 5/29/2026, 9:37:38 AM  
+**Author:** onlypassingthru  
+**Published:** 5/29/2026, 2:36:37 PM  
 **Categories:** -  
 
-Article URL: https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566 Comments URL: https://news.ycombinator.com/item?id=48320997 Points: 1 # Comments: 0
+Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566)
+📖 [Read original article](https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html)
 
 ---
 
-## 3. Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires
+## 15. Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them
 
-**Author:** rbanffy  
-**Published:** 5/29/2026, 9:37:20 AM  
+**Author:** ananandreas  
+**Published:** 5/29/2026, 2:35:42 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/ Comments URL: https://news.ycombinator.com/item?id=48320996 Points: 4 # Comments: 0
+I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple agent interactions and context windows and then forgotten by the next context window.So I built Ope...
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/)
+📖 [Read original article](https://openhivemind.vercel.app/)
 
 ---
 
-## 4. The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival
+## 16. Show HN: Repolog, website audit for SEO, performance, security, and AI readiness
 
-**Author:** steveharing1  
-**Published:** 5/29/2026, 9:34:37 AM  
+**Author:** petersas  
+**Published:** 5/29/2026, 2:32:46 PM  
 **Categories:** -  
 
-Article URL: https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/ Comments URL: https://news.ycombinator.com/item?id=48320985 Points: 2 # Comments: 0
+Article URL: https://repolog.io/ Comments URL: https://news.ycombinator.com/item?id=48323578 Points: 4 # Comments: 0
 
-📖 [Read original article](https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/)
+📖 [Read original article](https://repolog.io/)
 
 ---
 
-## 5. The Text Box Is the Command Line of AI
+## 17. Ask HK: How are you building AI apps today?
 
-**Author:** zeynepevecen  
-**Published:** 5/29/2026, 9:33:08 AM  
+**Author:** Mnexium  
+**Published:** 5/29/2026, 2:30:19 PM  
 **Categories:** -  
 
-Article URL: https://www.zey.dev/essays/RbIIZqV9ttY0DIhyzUcT Comments URL: https://news.ycombinator.com/item?id=48320977 Points: 1 # Comments: 0
+Generally curious how folks are using LLM APIs today.Are folks doing anything bespoke, unique or different?I think we've seen a lot of usage with harnesses, CLIs, Cursor/Windsurf etc which uses the APIs underneath.If you are using the API itself, what does your architecture look like with said API? ...
 
-📖 [Read original article](https://www.zey.dev/essays/RbIIZqV9ttY0DIhyzUcT)
+📖 [Read original article](https://news.ycombinator.com/item?id=48323554)
 
 ---
 
-## 6. Why Tesla's AI trainers don't trust its self-driving tech
+## 18. Food for Agile Thought #546: Customer Research by LLM, AI Product-Market Fit
 
-**Author:** kuerbel  
-**Published:** 5/29/2026, 9:31:18 AM  
+**Author:** swolpers  
+**Published:** 5/29/2026, 2:25:46 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48320957 Points: 2 # Comments: 0
+Article URL: https://age-of-product.com/food-agile-thought-546-staying-human/ Comments URL: https://news.ycombinator.com/item?id=48323515 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/)
+📖 [Read original article](https://age-of-product.com/food-agile-thought-546-staying-human/)
 
 ---
 
-## 7. AI to be used to estimate age of UK asylum seekers
+## 19. A full stack platform for Edge AI from Google
 
-**Author:** dabinat  
-**Published:** 5/29/2026, 9:31:09 AM  
+**Author:** LyalinDotCom  
+**Published:** 5/29/2026, 2:24:48 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/ce3pe36qe7ro Comments URL: https://news.ycombinator.com/item?id=48320953 Points: 2 # Comments: 0
+Article URL: https://developers.google.com/coral Comments URL: https://news.ycombinator.com/item?id=48323506 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/ce3pe36qe7ro)
+📖 [Read original article](https://developers.google.com/coral)
 
 ---
 
-## 8. You're Not Going to Lose Your Job to AI
+## 20. Agents aren't the problem – Existing systems and API's were not built for AI
 
-**Author:** perpetua  
-**Published:** 5/29/2026, 9:23:34 AM  
+**Author:** keithneilson  
+**Published:** 5/29/2026, 2:18:45 PM  
 **Categories:** -  
 
-Article URL: https://softwarecrafter.substack.com/p/the-miracle-years-and-what-comes Comments URL: https://news.ycombinator.com/item?id=48320909 Points: 2 # Comments: 2
+Article URL: https://www.appfactor.io/blog/how-we-made-getprocinfo3-agent-readable-semantic-discovery-ai-enrichment Comments URL: https://news.ycombinator.com/item?id=48323441 Points: 1 # Comments: 1
 
-📖 [Read original article](https://softwarecrafter.substack.com/p/the-miracle-years-and-what-comes)
-
----
-
-## 9. Agentkeeper solved the Goldfish Memory problem in AI Agents.v1.1 out now
-
-**Author:** tomtom1977  
-**Published:** 5/29/2026, 9:06:28 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Thinklanceai/agentkeeper Comments URL: https://news.ycombinator.com/item?id=48320817 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Thinklanceai/agentkeeper)
-
----
-
-## 10. A 20-Minute AI Audit Caught a Bug That 3 Senior Devs Missed (Week 3 Roundup)
-
-**Author:** talvardi7  
-**Published:** 5/29/2026, 9:01:05 AM  
-**Categories:** -  
-
-Article URL: https://theaileverageweekly.com/posts/how-a-20-minute-ai-audit-caught-a-bug-that-3-senior-devs-missed-week-3.html Comments URL: https://news.ycombinator.com/item?id=48320777 Points: 1 # Comments: 1
-
-📖 [Read original article](https://theaileverageweekly.com/posts/how-a-20-minute-ai-audit-caught-a-bug-that-3-senior-devs-missed-week-3.html)
-
----
-
-## 11. Nonfiction Book Publishers Aren't Remotely Ready for AI
-
-**Author:** thm  
-**Published:** 5/29/2026, 8:54:53 AM  
-**Categories:** -  
-
-Article URL: https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48320743 Points: 2 # Comments: 1
-
-📖 [Read original article](https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html)
-
----
-
-## 12. Unhealthy code makes AI agents consume 35-50% more tokens
-
-**Author:** ailinter  
-**Published:** 5/29/2026, 8:52:45 AM  
-**Categories:** -  
-
-Article URL: https://codescene.com/blog/unhealthy-code-is-burning-your-token-usage-heres-the-data Comments URL: https://news.ycombinator.com/item?id=48320729 Points: 2 # Comments: 0
-
-📖 [Read original article](https://codescene.com/blog/unhealthy-code-is-burning-your-token-usage-heres-the-data)
-
----
-
-## 13. Ask HN: What/how are you teaching your kids in the age of AI?
-
-**Author:** nunodonato  
-**Published:** 5/29/2026, 8:47:42 AM  
-**Categories:** -  
-
-I've been feeling more and more lost. Had plans to teach my 10yr python, maybe something fun with games or robotics. But then I look around and I see others doing 100x more advanced things using AI.Yesterday I tried google ai studio. 1hr later I had an app on my phone. Its hard to justify the motiva...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48320698)
-
----
-
-## 14. Why ipynb is a perfect format for saving AI data analysis conversations
-
-**Author:** pplonski86  
-**Published:** 5/29/2026, 8:41:54 AM  
-**Categories:** -  
-
-Article URL: https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/ Comments URL: https://news.ycombinator.com/item?id=48320664 Points: 1 # Comments: 0
-
-📖 [Read original article](https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/)
-
----
-
-## 15. Slow AI-Journal App
-
-**Author:** djampodev  
-**Published:** 5/29/2026, 8:39:38 AM  
-**Categories:** -  
-
-Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48320655 Points: 1 # Comments: 0
-
-📖 [Read original article](https://nemejournal.app/)
-
----
-
-## 16. StoryScope: Investigating Idiosyncrasies in AI Fiction
-
-**Author:** ironyman  
-**Published:** 5/29/2026, 8:22:30 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2604.03136 Comments URL: https://news.ycombinator.com/item?id=48320536 Points: 1 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2604.03136)
-
----
-
-## 17. An AI Audit of FreeBSD
-
-**Author:** SVI  
-**Published:** 5/29/2026, 8:13:40 AM  
-**Categories:** -  
-
-Article URL: https://blog.calif.io/p/an-ai-audit-of-freebsd Comments URL: https://news.ycombinator.com/item?id=48320476 Points: 1 # Comments: 0
-
-📖 [Read original article](https://blog.calif.io/p/an-ai-audit-of-freebsd)
-
----
-
-## 18. Corporate America Is Starting to Ration AI as Cost Skyrockets
-
-**Author:** doener  
-**Published:** 5/29/2026, 8:11:36 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48320454 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
-
----
-
-## 19. Show HN: Would a learning-first AI evaluation platform be useful?
-
-**Author:** xiaozx  
-**Published:** 5/29/2026, 8:07:50 AM  
-**Categories:** -  
-
-Article URL: https://www.alphaset.io/ Comments URL: https://news.ycombinator.com/item?id=48320417 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.alphaset.io/)
-
----
-
-## 20. Show HN: OSSentinel.live – AI-powered open source security monitoring
-
-**Author:** FortivSolutions  
-**Published:** 5/29/2026, 7:43:57 AM  
-**Categories:** -  
-
-Built OSSentinel.live to help developers monitor open-source dependencies, security vulnerabilities, package health, and repository risks from a single dashboard. Looking for feedback on the product, integrations, and whether AI-generated security insights are actually useful in practice. Comments U...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48320262)
+📖 [Read original article](https://www.appfactor.io/blog/how-we-made-getprocinfo3-agent-readable-semantic-discovery-ai-enrichment)
 
 ---
