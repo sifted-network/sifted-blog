@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-05-30"
 date: "2026-05-30"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-05-30
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4
+## 1. Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation
+
+**Author:** Michal Sutter  
+**Published:** 5/30/2026, 9:25:14 AM  
+**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Machine Learning, New Releases, Physical AI, Robotics, Staff, Tech News, Technology  
+
+Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 h...
+
+📖 [Read original article](https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/)
+
+---
+
+## 2. Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4
 
 **Author:** Asif Razzaq  
 **Published:** 5/30/2026, 3:11:59 AM  
@@ -23,7 +35,7 @@ Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM2
 
 ---
 
-## 2. How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python
+## 3. How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python
 
 **Author:** Sana Hassan  
 **Published:** 5/30/2026, 12:46:05 AM  
