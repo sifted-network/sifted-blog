@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-29"
 date: "2026-05-29"
 source: "qbitai"
-count: 6
+count: 5
 ---
 
 # qbitai - 2026-05-29
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ count: 6
 这是这个时代的印刷机
 
 📖 [Read original article](https://www.qbitai.com/2026/05/426479.html)
-
----
-
-## 6. 下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了
-
-**Author:** 鹭羽  
-**Published:** 5/29/2026, 8:50:10 AM  
-**Categories:** 资讯, AI, 游戏开发  
-
-下一波AI创作浪潮正在游戏领域发生
-
-📖 [Read original article](https://www.qbitai.com/2026/05/426447.html)
 
 ---
