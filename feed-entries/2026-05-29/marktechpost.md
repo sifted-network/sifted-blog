@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-05-29"
 date: "2026-05-29"
 source: "MarkTechPost"
-count: 5
+count: 4
 ---
 
 # MarkTechPost - 2026-05-29
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ UC Berkeley's UCCL team releases mKernel, fusing intra-node NVLink, inter-node R
 Hexo Labs released SIA, an open-source self-improving loop, under an MIT license. A Feedback-Agent reads each run's trajectory, then either rewrites the scaffold or triggers a LoRA weight update on gpt-oss-120b. Combining both levers beat scaffold-only iteration on LawBench, TriMul GPU kernels, and ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/)
-
----
-
-## 5. How to Design an End-to-End Ansible Automation Lab with Playbooks, Inventories, Roles, Vault, Dynamic Inventory, and Custom Modules
-
-**Author:** Sana Hassan  
-**Published:** 5/29/2026, 3:49:31 AM  
-**Categories:** AI Infrastructure, Artificial Intelligence, Editors Pick, Machine Learning, Staff, Tutorials  
-
-In this tutorial, we build a complete Ansible lab that runs end-to-end in Google Colab or any Linux environment. We start by installing ansible-core, setting up a local workspace, creating an Ansible configuration file, and defining both static and dynamic inventories. We then explore key Ansible co...
-
-📖 [Read original article](https://www.marktechpost.com/2026/05/28/how-to-design-an-end-to-end-ansible-automation-lab-with-playbooks-inventories-roles-vault-dynamic-inventory-and-custom-modules/)
 
 ---
