@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-05-29"
 date: "2026-05-29"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-05-29
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ StepFun releases Step 3.7 Flash, a 198B MoE model with native vision, 256k conte
 UC Berkeley's UCCL team releases mKernel, fusing intra-node NVLink, inter-node RDMA, and dense compute into a single persistent CUDA kernel. The post Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/05/29/meet-mkernel-a-multi-gpu-multi-node-fused-kernel-library-for-gpu-driven-communication/)
-
----
-
-## 4. Hexo Labs Open-Sources SIA: A Self-Improving Agent That Updates Both the Harness and the Model Weights
-
-**Author:** Asif Razzaq  
-**Published:** 5/29/2026, 7:28:37 AM  
-**Categories:** Agentic AI, AI Agents, Editors Pick, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Hexo Labs released SIA, an open-source self-improving loop, under an MIT license. A Feedback-Agent reads each run's trajectory, then either rewrites the scaffold or triggers a LoRA weight update on gpt-oss-120b. Combining both levers beat scaffold-only iteration on LawBench, TriMul GPU kernels, and ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/)
 
 ---
