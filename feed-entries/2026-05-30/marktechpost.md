@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-05-30"
 date: "2026-05-30"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-05-30
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation
+## 1. Best Text-to-Speech TTS Models in 2026: A Benchmark-Based Comparison
+
+**Author:** Asif Razzaq  
+**Published:** 5/30/2026, 9:26:24 PM  
+**Categories:** Agentic AI, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Staff, Technology, Text to Audio, Top, TTS, Voice AI  
+
+Text-to-speech changed fast in 2026. This guide ranks the leading commercial and open-weight TTS models, comparing quality, latency, cost, language coverage, and licensing so engineers can match a model to the job. The post Best Text-to-Speech TTS Models in 2026: A Benchmark-Based Comparison appeare...
+
+📖 [Read original article](https://www.marktechpost.com/2026/05/30/best-text-to-speech-tts-models-in-2026-a-benchmark-based-comparison/)
+
+---
+
+## 2. Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation
 
 **Author:** Michal Sutter  
 **Published:** 5/30/2026, 9:25:14 AM  
@@ -23,7 +35,7 @@ Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simul
 
 ---
 
-## 2. Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4
+## 3. Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4
 
 **Author:** Asif Razzaq  
 **Published:** 5/30/2026, 3:11:59 AM  
@@ -35,7 +47,7 @@ Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM2
 
 ---
 
-## 3. How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python
+## 4. How to Use AgentTrove: Streaming 1.7M Agentic Traces and Building a Clean ShareGPT SFT Dataset in Python
 
 **Author:** Sana Hassan  
 **Published:** 5/30/2026, 12:46:05 AM  
