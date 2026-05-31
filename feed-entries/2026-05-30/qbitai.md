@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-30"
 date: "2026-05-30"
 source: "qbitai"
-count: 3
+count: 2
 ---
 
 # qbitai - 2026-05-30
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -24,18 +24,6 @@ count: 3
 ---
 
 ## 2. 英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」
-
-**Author:** 闻乐  
-**Published:** 5/30/2026, 6:33:58 AM  
-**Categories:** 资讯, 世界模型, 英伟达  
-
-让世界模型迈向多智能体交互仿真
-
-📖 [Read original article](https://www.qbitai.com/2026/05/426662.html)
-
----
-
-## 3. 英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」
 
 **Author:** 思邈  
 **Published:** 5/30/2026, 3:17:17 AM  
