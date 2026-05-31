@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Turn your PC, Mac, or Linux box into an AI server
+## 1. Netflix Wiz creates app to slash AI bills, then open sources it
 
-**Author:** dreamserver  
-**Published:** 5/31/2026, 1:44:31 PM  
+**Author:** joebuckwilliams  
+**Published:** 5/31/2026, 7:09:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Light-Heart-Labs/DreamServer Comments URL: https://news.ycombinator.com/item?id=48345623 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702 Comments URL: https://news.ycombinator.com/item?id=48348679 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Light-Heart-Labs/DreamServer)
+📖 [Read original article](https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702)
 
 ---
 
-## 2. AiLock: Hide source from AI assistants while tests still run
+## 2. The Authorization Paradox: Who Has the Keys to Your AI? [video]
 
-**Author:** yoliliya  
-**Published:** 5/31/2026, 1:37:53 PM  
+**Author:** mooreds  
+**Published:** 5/31/2026, 7:06:29 PM  
 **Categories:** -  
 
-Article URL: https://github.com/lo2589/AILOCK Comments URL: https://news.ycombinator.com/item?id=48345582 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=5UUpxgcGKXk Comments URL: https://news.ycombinator.com/item?id=48348655 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/lo2589/AILOCK)
+📖 [Read original article](https://www.youtube.com/watch?v=5UUpxgcGKXk)
 
 ---
 
-## 3. Vox Dictum, on-device transcription with speaker diarisation and AI summaries
+## 3. AI agents get their own phone directory built atop DNS
 
-**Author:** mozairr  
-**Published:** 5/31/2026, 1:25:04 PM  
+**Author:** benkan  
+**Published:** 5/31/2026, 6:50:58 PM  
 **Categories:** -  
 
-Article URL: https://cobaltinfx.com/ Comments URL: https://news.ycombinator.com/item?id=48345511 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539 Comments URL: https://news.ycombinator.com/item?id=48348513 Points: 3 # Comments: 0
 
-📖 [Read original article](https://cobaltinfx.com/)
+📖 [Read original article](https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539)
 
 ---
 
-## 4. Mid-size local models are now competitive for AI Agents
+## 4. Guidelines for Respectful Use of AI
 
-**Author:** sfifs  
-**Published:** 5/31/2026, 1:19:33 PM  
+**Author:** ruds  
+**Published:** 5/31/2026, 6:35:45 PM  
 **Categories:** -  
 
-Article URL: https://srinathh.medium.com/mid-size-local-models-are-now-competitive-for-ai-agents-7696b2e8b535 Comments URL: https://news.ycombinator.com/item?id=48345470 Points: 1 # Comments: 0
+Article URL: https://www.elidedbranches.com/ Comments URL: https://news.ycombinator.com/item?id=48348360 Points: 2 # Comments: 0
 
-📖 [Read original article](https://srinathh.medium.com/mid-size-local-models-are-now-competitive-for-ai-agents-7696b2e8b535)
+📖 [Read original article](https://www.elidedbranches.com/)
 
 ---
 
-## 5. AI content is great if you know it's AI
+## 5. Open-source spectre haunts the AI feast
 
-**Author:** drunx  
-**Published:** 5/31/2026, 1:08:22 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/31/2026, 6:23:25 PM  
 **Categories:** -  
 
-Article URL: https://www.geekbeard.dev/p/cosplaying-humans Comments URL: https://news.ycombinator.com/item?id=48345392 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48348227 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.geekbeard.dev/p/cosplaying-humans)
+📖 [Read original article](https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/)
 
 ---
 
-## 6. Ask HN: Anyone missing the human aspect of pre AI?
+## 6. The math world is losing its mind over the new AI solution to an Erdős problem
 
-**Author:** hnthrow10282910  
-**Published:** 5/31/2026, 1:05:03 PM  
+**Author:** fortran77  
+**Published:** 5/31/2026, 6:23:21 PM  
 **Categories:** -  
 
-Some guy in my city writes poems using a typewriter and his brain. I paid 5 pounds for it and it was one of the best things I’ve read in 2 years.Maybe I’m just burnt out from all this AI hype and feel the need to speak into the void. 10 years into this career and feeling empty. Between my company ra...
+Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48348225 Points: 2 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48345371)
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84)
 
 ---
 
-## 7. Show HN: My tiny project MyTube Newsletter – daily AI digest of YouTube subs
+## 7. Sandboxes and Worktrees: My Secure Agentic AI Setup
 
-**Author:** questmas  
-**Published:** 5/31/2026, 12:30:40 PM  
+**Author:** CoffeeOnWrite  
+**Published:** 5/31/2026, 5:39:07 PM  
 **Categories:** -  
 
-This is technically a Show HN for MyTube Newsletter — an email digest of new videos from the YouTube channels you subscribe to, AI-summarized. But the tech isn't very interesting. I'd rather talk about why I shipped it.Like many other developers, I have a huge backlog of projects I want to do but ne...
+Article URL: https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48347727 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48345189)
+📖 [Read original article](https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/)
 
 ---
 
-## 8. AI Agents Plunged the Tech World into Chaos
+## 8. \"AI is as big a deal as the internet or mobile–and only as big.\" Benedict Evans [video]
 
-**Author:** uxhacker  
-**Published:** 5/31/2026, 12:30:00 PM  
+**Author:** nilen  
+**Published:** 5/31/2026, 5:28:06 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/ Comments URL: https://news.ycombinator.com/item?id=48345185 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=BD3vLtWhT5A Comments URL: https://news.ycombinator.com/item?id=48347599 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/)
+📖 [Read original article](https://www.youtube.com/watch?v=BD3vLtWhT5A)
 
 ---
 
-## 9. Creating got easier. Meaning got harder (AI and volume creation)
+## 9. GrillKit – Self-hosted AI trainer for technical interviews with voice
 
-**Author:** emot  
-**Published:** 5/31/2026, 12:26:25 PM  
+**Author:** vitchenkokir  
+**Published:** 5/31/2026, 5:21:19 PM  
 **Categories:** -  
 
-Article URL: https://emot.substack.com/p/creating-got-easier-meaning-got-harder Comments URL: https://news.ycombinator.com/item?id=48345168 Points: 1 # Comments: 0
+Article URL: https://github.com/GrillKit/grillkit Comments URL: https://news.ycombinator.com/item?id=48347525 Points: 2 # Comments: 0
 
-📖 [Read original article](https://emot.substack.com/p/creating-got-easier-meaning-got-harder)
+📖 [Read original article](https://github.com/GrillKit/grillkit)
 
 ---
 
-## 10. SpaceX Has Two AI Compute Stories; Only One Generates Revenue
+## 10. DDS Vibe Academy – 49 free AI coding classes (12 new masterclasses this week)
 
-**Author:** gmays  
-**Published:** 5/31/2026, 12:00:39 PM  
+**Author:** robert_dds  
+**Published:** 5/31/2026, 5:15:07 PM  
 **Categories:** -  
 
-Article URL: https://davefriedman.substack.com/p/spacex-has-two-ai-compute-stories Comments URL: https://news.ycombinator.com/item?id=48345048 Points: 1 # Comments: 0
+Article URL: https://ddsboston.com/pages/dds-vibe-academy Comments URL: https://news.ycombinator.com/item?id=48347471 Points: 2 # Comments: 0
 
-📖 [Read original article](https://davefriedman.substack.com/p/spacex-has-two-ai-compute-stories)
+📖 [Read original article](https://ddsboston.com/pages/dds-vibe-academy)
 
 ---
 
-## 11. People Getting Falsely Accused of Using AI to Write
+## 11. AI guardrails stripped from Meta and Google models in minutes
 
-**Author:** ColinWright  
-**Published:** 5/31/2026, 11:51:03 AM  
+**Author:** bookofjoe  
+**Published:** 5/31/2026, 5:09:17 PM  
 **Categories:** -  
 
-Article URL: https://nymag.com/intelligencer/article/the-people-getting-falsely-accused-of-using-ai-to-write.html Comments URL: https://news.ycombinator.com/item?id=48344992 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e Comments URL: https://news.ycombinator.com/item?id=48347414 Points: 1 # Comments: 1
 
-📖 [Read original article](https://nymag.com/intelligencer/article/the-people-getting-falsely-accused-of-using-ai-to-write.html)
+📖 [Read original article](https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e)
 
 ---
 
-## 12. The Impact of AI-Assisted Development on Software Security
+## 12. Why AI safety researchers should consider a contract research manager position
 
-**Author:** lucamark  
-**Published:** 5/31/2026, 11:45:10 AM  
+**Author:** joozio  
+**Published:** 5/31/2026, 5:03:46 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2603.15298 Comments URL: https://news.ycombinator.com/item?id=48344963 Points: 1 # Comments: 1
+Article URL: https://www.lesswrong.com/posts/MjFArZa85KydKdivh/why-ai-safety-researchers-should-consider-a-contract Comments URL: https://news.ycombinator.com/item?id=48347368 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2603.15298)
+📖 [Read original article](https://www.lesswrong.com/posts/MjFArZa85KydKdivh/why-ai-safety-researchers-should-consider-a-contract)
 
 ---
 
-## 13. Curated list of AI apps for visual creation
+## 13. OpenJarvis: Personal AI, on Personal Devices
 
-**Author:** seinecle  
-**Published:** 5/31/2026, 11:27:19 AM  
+**Author:** simonpure  
+**Published:** 5/31/2026, 5:02:56 PM  
 **Categories:** -  
 
-Article URL: https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940 Comments URL: https://news.ycombinator.com/item?id=48344874 Points: 2 # Comments: 0
+Article URL: https://github.com/open-jarvis/OpenJarvis Comments URL: https://news.ycombinator.com/item?id=48347357 Points: 3 # Comments: 0
 
-📖 [Read original article](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940)
+📖 [Read original article](https://github.com/open-jarvis/OpenJarvis)
 
 ---
 
-## 14. AI Agent that at inference time updates it's harness and model weights
+## 14. Turning AI chatbot pages into malware delivery platforms
 
-**Author:** martianvoid  
-**Published:** 5/31/2026, 11:13:43 AM  
+**Author:** redbell  
+**Published:** 5/31/2026, 4:53:40 PM  
 **Categories:** -  
 
-Article URL: https://github.com/hexo-ai/sia Comments URL: https://news.ycombinator.com/item?id=48344807 Points: 4 # Comments: 0
+Article URL: https://pushsecurity.com/blog/llmshare-malvertising-campaign Comments URL: https://news.ycombinator.com/item?id=48347281 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/hexo-ai/sia)
+📖 [Read original article](https://pushsecurity.com/blog/llmshare-malvertising-campaign)
 
 ---
 
-## 15. Show HN: Free cloud-based tool for managing AI agents across multiple hosts
+## 15. PewDiePie's AI Workspace
 
-**Author:** itrinity  
-**Published:** 5/31/2026, 11:08:16 AM  
+**Author:** r0xsh  
+**Published:** 5/31/2026, 4:52:04 PM  
 **Categories:** -  
 
-Article URL: https://nodecartel.com/ Comments URL: https://news.ycombinator.com/item?id=48344780 Points: 3 # Comments: 0
+Article URL: https://pewdiepie-archdaemon.github.io/odysseus/ Comments URL: https://news.ycombinator.com/item?id=48347265 Points: 3 # Comments: 0
 
-📖 [Read original article](https://nodecartel.com/)
+📖 [Read original article](https://pewdiepie-archdaemon.github.io/odysseus/)
 
 ---
 
-## 16. Unlimited free AI tools and more, live demo. watch now [video]
+## 16. The Speed of Prototyping in the Age of AI
 
-**Author:** rrrpro123  
-**Published:** 5/31/2026, 11:03:13 AM  
+**Author:** mooreds  
+**Published:** 5/31/2026, 4:37:34 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/shorts/8HB-VgN3uTE Comments URL: https://news.ycombinator.com/item?id=48344743 Points: 1 # Comments: 0
+Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 45 # Comments: 31
 
-📖 [Read original article](https://www.youtube.com/shorts/8HB-VgN3uTE)
+📖 [Read original article](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 
 ---
 
-## 17. Why AI isn't showing up on your bottom line
+## 17. CT gov signs AI law to notify employees
 
-**Author:** brettlangdon  
-**Published:** 5/31/2026, 11:02:28 AM  
+**Author:** moneil971  
+**Published:** 5/31/2026, 4:36:32 PM  
 **Categories:** -  
 
-Article URL: https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line Comments URL: https://news.ycombinator.com/item?id=48344738 Points: 1 # Comments: 0
+Article URL: https://news.bloomberglaw.com/daily-labor-report/connecticuts-lamont-signs-ai-law-with-employer-notice-mandate Comments URL: https://news.ycombinator.com/item?id=48347137 Points: 9 # Comments: 0
 
-📖 [Read original article](https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line)
+📖 [Read original article](https://news.bloomberglaw.com/daily-labor-report/connecticuts-lamont-signs-ai-law-with-employer-notice-mandate)
 
 ---
 
-## 18. Unity AI Suite
+## 18. Show HN: Vibes.design – Show HN: Vibes.design – Launch AI Apps with Vibe-Coding
 
-**Author:** teleforce  
-**Published:** 5/31/2026, 11:01:58 AM  
+**Author:** James594  
+**Published:** 5/31/2026, 4:20:04 PM  
 **Categories:** -  
 
-Article URL: https://unity.com/features/ai Comments URL: https://news.ycombinator.com/item?id=48344734 Points: 3 # Comments: 0
+Article URL: https://www.vibes.design/ Comments URL: https://news.ycombinator.com/item?id=48346950 Points: 1 # Comments: 0
 
-📖 [Read original article](https://unity.com/features/ai)
+📖 [Read original article](https://www.vibes.design/)
 
 ---
 
-## 19. Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes
+## 19. Insights on Software Engineering, AI and DevOps Job Openings – June 2026
 
-**Author:** ankitg12  
-**Published:** 5/31/2026, 10:52:42 AM  
+**Author:** sp1982  
+**Published:** 5/31/2026, 3:59:58 PM  
 **Categories:** -  
 
-Article URL: https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/ Comments URL: https://news.ycombinator.com/item?id=48344693 Points: 2 # Comments: 0
+Article URL: https://corvi.careers/blog/global_software-engineering_jobs_june_2026/ Comments URL: https://news.ycombinator.com/item?id=48346773 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/)
+📖 [Read original article](https://corvi.careers/blog/global_software-engineering_jobs_june_2026/)
 
 ---
 
-## 20. Show HN: Overslash – an auth gateway for AI Agents
+## 20. Unlawful by design: Exposing the human rights costs of generative AI
 
-**Author:** arturogoosnargh  
-**Published:** 5/31/2026, 10:34:23 AM  
+**Author:** myaccountonhn  
+**Published:** 5/31/2026, 3:52:01 PM  
 **Categories:** -  
 
-Article URL: https://www.overslash.com/ Comments URL: https://news.ycombinator.com/item?id=48344584 Points: 2 # Comments: 1
+Article URL: https://www.amnesty.org/en/documents/pol40/0996/2026/en/ Comments URL: https://news.ycombinator.com/item?id=48346706 Points: 8 # Comments: 0
 
-📖 [Read original article](https://www.overslash.com/)
+📖 [Read original article](https://www.amnesty.org/en/documents/pol40/0996/2026/en/)
 
 ---
